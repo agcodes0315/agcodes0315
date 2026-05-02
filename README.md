@@ -6,7 +6,7 @@ Full-Stack Developer | Cybersecurity & AI/ML Enthusiast | Deloitte Intern | DRDO
 
 <p align="center">
   <a href="mailto:agrimalc@gmail.com">
-    <img src="https://img.shields.io/badge/Email-agrimalc%40gmail.com-red?style=for-the-badge&logo=gmail" />
+    <img src="https://img.shields.io/badge/Email-agrimalc%@gmail.com-red?style=for-the-badge&logo=gmail" />
   </a>
   <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME">
     <img src="https://img.shields.io/badge/LinkedIn-Agrima%20Saxena-blue?style=for-the-badge&logo=linkedin" />
@@ -149,19 +149,6 @@ A machine learning system for vessel trajectory prediction using AIS data, Kalma
 ## 🏆 Achievements
 
 - 🏅 Patent awarded for **Multi-Agent Reinforcement Learning Driven Real-Time Traffic Signal Management**
-- 💼 Platform Development, Integration & Cloud Management Services Intern at **Deloitte India**
-- 🤖 Machine Learning Intern at **DRDO, Bangalore**
-- 👥 Directed a cross-functional team of 30+ as Joint Head Innovation Director at **Enactus**
-- 📈 Drove 10k+ interactions as Social Media Head at **MarkSoc**
-
----
-
-## 📌 What I'm Currently Working On
-
-- Building full-stack systems with **React, Spring Boot, Node.js, and MongoDB**
-- Exploring **AI-powered cybersecurity tools**
-- Improving projects with **authentication, dashboards, real-time alerts, and deployment**
-- Learning more about **cloud-native architecture, system design, and secure backend development**
 
 ---
 
