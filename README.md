@@ -6,9 +6,9 @@ Full-Stack Developer | Cybersecurity & AI/ML Enthusiast | Deloitte Intern | DRDO
 
 <p align="center">
   <a href="mailto:agrimalc@gmail.com">
-    <img src="https://img.shields.io/badge/Email-agrimalc%@gmail.com-red?style=for-the-badge&logo=gmail" />
+    <img src="https://img.shields.io/badge/Email-agrimalc%40gmail.com-red?style=for-the-badge&logo=gmail" />
   </a>
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME">
+  <a href="https://www.linkedin.com/in/agrima-saxena-56976a279/">
     <img src="https://img.shields.io/badge/LinkedIn-Agrima%20Saxena-blue?style=for-the-badge&logo=linkedin" />
   </a>
   <a href="https://github.com/agrima150103">
@@ -34,7 +34,7 @@ Full-Stack Developer | Cybersecurity & AI/ML Enthusiast | Deloitte Intern | DRDO
 
 ### Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=java,python,c,js,ts,sql" />
+  <img src="https://skillicons.dev/icons?i=java,python,c,js,ts" />
 </p>
 
 ### Frontend
@@ -149,7 +149,7 @@ A machine learning system for vessel trajectory prediction using AIS data, Kalma
 ## 🏆 Achievements
 
 - 🏅 Patent awarded for **Multi-Agent Reinforcement Learning Driven Real-Time Traffic Signal Management**
-
+- 
 ---
 
 ## 🤝 Let's Connect
@@ -160,6 +160,9 @@ A machine learning system for vessel trajectory prediction using AIS data, Kalma
   </a>
   <a href="https://www.linkedin.com/in/agrima-saxena-56976a279/">
     <img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="https://github.com/agrima150103">
+    <img src="https://img.shields.io/badge/GitHub-Follow%20Me-black?style=for-the-badge&logo=github" />
   </a>
 </p>
 
