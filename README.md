@@ -143,10 +143,6 @@ A machine learning system for vessel trajectory prediction using AIS data, Kalma
 ## 🏆 Achievements
 
 - 🏅 Patent awarded for **Multi-Agent Reinforcement Learning Driven Real-Time Traffic Signal Management**
-- 💼 Platform Development, Integration & Cloud Management Services Intern at **Deloitte India**
-- 🤖 Machine Learning Intern at **DRDO, Bangalore**
-- 👥 Directed a cross-functional team of 30+ as Joint Head Innovation Director at **Enactus**
-- 📈 Drove 10k+ interactions as Social Media Head at **MarkSoc**
 
 ---
 
@@ -156,10 +152,6 @@ A machine learning system for vessel trajectory prediction using AIS data, Kalma
   <a href="mailto:agrimalc@gmail.com">📧 Email Me</a> |
   <a href="https://www.linkedin.com/in/agrima-saxena-56976a279/">LinkedIn</a> |
   <a href="https://github.com/agrima150103">GitHub</a>
-</p>
-
-<p align="center">
-  📧 Email: <b>agrimalc@gmail.com</b>
 </p>
 
 ---
