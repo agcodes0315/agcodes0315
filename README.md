@@ -5,15 +5,9 @@ Full-Stack Developer | Cybersecurity & AI/ML Enthusiast | Deloitte Intern | DRDO
 </h3>
 
 <p align="center">
-  <a href="mailto:agrimalc@gmail.com">
-    <img src="https://img.shields.io/badge/Email-agrimalc%40gmail.com-red?style=for-the-badge&logo=gmail" />
-  </a>
-  <a href="https://www.linkedin.com/in/agrima-saxena-56976a279/">
-    <img src="https://img.shields.io/badge/LinkedIn-Agrima%20Saxena-blue?style=for-the-badge&logo=linkedin" />
-  </a>
-  <a href="https://github.com/agrima150103">
-    <img src="https://img.shields.io/badge/GitHub-agrima150103-black?style=for-the-badge&logo=github" />
-  </a>
+  <a href="mailto:agrimalc@gmail.com">📧 agrimalc@gmail.com</a> |
+  <a href="https://www.linkedin.com/in/agrima-saxena-56976a279/">LinkedIn</a> |
+  <a href="https://github.com/agrima150103">GitHub</a>
 </p>
 
 ---
@@ -149,21 +143,23 @@ A machine learning system for vessel trajectory prediction using AIS data, Kalma
 ## 🏆 Achievements
 
 - 🏅 Patent awarded for **Multi-Agent Reinforcement Learning Driven Real-Time Traffic Signal Management**
-- 
+- 💼 Platform Development, Integration & Cloud Management Services Intern at **Deloitte India**
+- 🤖 Machine Learning Intern at **DRDO, Bangalore**
+- 👥 Directed a cross-functional team of 30+ as Joint Head Innovation Director at **Enactus**
+- 📈 Drove 10k+ interactions as Social Media Head at **MarkSoc**
+
 ---
 
 ## 🤝 Let's Connect
 
 <p align="center">
-  <a href="mailto:agrimalc@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail" />
-  </a>
-  <a href="https://www.linkedin.com/in/agrima-saxena-56976a279/">
-    <img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-blue?style=for-the-badge&logo=linkedin" />
-  </a>
-  <a href="https://github.com/agrima150103">
-    <img src="https://img.shields.io/badge/GitHub-Follow%20Me-black?style=for-the-badge&logo=github" />
-  </a>
+  <a href="mailto:agrimalc@gmail.com">📧 Email Me</a> |
+  <a href="https://www.linkedin.com/in/agrima-saxena-56976a279/">LinkedIn</a> |
+  <a href="https://github.com/agrima150103">GitHub</a>
+</p>
+
+<p align="center">
+  📧 Email: <b>agrimalc@gmail.com</b>
 </p>
 
 ---
