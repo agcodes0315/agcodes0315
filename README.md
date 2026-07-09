@@ -15,7 +15,7 @@ Full-Stack Developer | Cybersecurity & AI/ML Enthusiast | Deloitte Intern | DRDO
 ## 👩‍💻 About Me
 
 - 🎓 B.Tech in Computer & Communication Engineering at **Manipal University Jaipur**
-- 💼 Platform Development, Integration & Cloud Management Services Intern at **Deloitte India**
+- 💼 Platform Development Integration & Cloud Management Services Intern at **Deloitte India**
 - 🤖 Former Machine Learning Intern at **DRDO, Bangalore**
 - 🛡️ Passionate about **Cybersecurity, Full-Stack Development, AI/ML, and Cloud-Native Systems**
 - 🚀 I build scalable applications using **React, Spring Boot, Node.js, Express, MySQL, MongoDB, Docker, and REST APIs**
