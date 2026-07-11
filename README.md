@@ -14,7 +14,7 @@ Building reliable, secure and intelligent software for real-world systems.
 
 - 💼 Platform Development, Integration and Cloud Management Services Intern at **Deloitte India**
 - 🤖 Former Machine Learning Intern at **DRDO, Bengaluru**
-- ☕ Former Java Developer Intern at **Cognifyz Technologies**
+- ☕ Former Java Developer at **Cognifyz Technologies**
 - 🎓 Final-year B.Tech student in Computer and Communication Engineering at **Manipal University Jaipur**
 - 🛠️ Building backend, cloud-ready and AI systems using **Java, Python, Spring Boot, FastAPI, React, SQL and Docker**
 - 🧠 Interested in **distributed systems, agentic AI, secure software, applied machine learning and responsible AI**
@@ -33,48 +33,36 @@ Building reliable, secure and intelligent software for real-world systems.
   <img src="https://skillicons.dev/icons?i=java,python,c,js,ts" />
 </p>
 
-**Java, Python, C, JavaScript, TypeScript, SQL**
-
 #### Frontend
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,react,tailwind" />
 </p>
-
-**HTML5, CSS3, React.js, Tailwind CSS**
 
 #### Backend & APIs
 <p>
   <img src="https://skillicons.dev/icons?i=spring,fastapi,nodejs,express" />
 </p>
 
-**Spring Boot, FastAPI, Node.js, Express.js, REST APIs, JWT, WebSockets**
-
 #### Databases
 <p>
   <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,sqlite" />
 </p>
 
-**MySQL, PostgreSQL, MongoDB, SQLite, ChromaDB**
-
-#### Cloud & DevOps
+#### Cloud, DevOps & Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=docker,git,github,nginx,firebase" />
+  <img src="https://skillicons.dev/icons?i=docker,git,github,nginx,firebase,postman,vscode" />
 </p>
 
-**Docker, GitHub Actions, Firebase, Render, Nginx, Swagger, Git**
-
-#### AI, Data & Security
-<p>
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,linux" />
-</p>
-
-**RAG, LLM Applications, Google ADK, MCP, LSTM, Kalman Filters, scikit-learn, TLS, RBAC, Prompt-Injection Defence**
+**Backend:** Spring Boot, FastAPI, Node.js, Express.js, REST APIs, JWT, WebSockets  
+**AI/Data:** RAG, LLM Applications, Google ADK, MCP, LSTM, Kalman Filters, ChromaDB  
+**Cloud/DevOps:** Docker, GitHub Actions, Firebase Hosting, Render, Cloud Run-ready deployment  
+**Security:** TLS/SSL, RBAC, prompt-injection defence, vulnerability assessment  
 
 </td>
 
 <td width="50%" valign="top">
 
-### 📌 Featured Project
+### 📌 Featured Projects
 
 #### [VendorGuard AI](https://github.com/agrima150103/vendorguard-ai)
 
@@ -88,6 +76,20 @@ Building reliable, secure and intelligent software for real-world systems.
 - Deployed using **Firebase Hosting and Render**
 
 [Live Demo](https://vendorguard-web.web.app/)
+
+<br>
+
+#### [TrustID](https://github.com/agrima150103/TrustID-UBID-Intelligence)
+
+*Unified business identity and intelligence platform*
+
+- Reconciles fragmented business records into a consolidated identity view
+- Applies confidence scoring and review workflows for ambiguous matches
+- Provides traceability, risk indicators and business intelligence insights
+- Built as a **solo project** for the AI for Bharat Hackathon
+- Selected among the **Top 50 teams nationwide**
+
+[Live Demo](https://trust-id-ubid-intelligence.vercel.app/)
 
 </td>
 </tr>
