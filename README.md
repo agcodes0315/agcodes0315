@@ -4,14 +4,6 @@
 Software Engineer | Applied AI & Cloud Systems | Deloitte Intern | Former DRDO ML Intern
 </h3>
 
-<p align="center">
-  <a href="mailto:agrimalc@gmail.com">Email</a>
-  &nbsp;•&nbsp;
-  <a href="https://www.linkedin.com/in/agrima-saxena-56976a279/">LinkedIn</a>
-  &nbsp;•&nbsp;
-  <a href="https://github.com/agrima150103">GitHub</a>
-</p>
-
 ---
 
 ## About Me
