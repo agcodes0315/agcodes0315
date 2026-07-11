@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Agrima Saxena 👋</h1>
 
 <h3 align="center">
-Software Engineering Intern at Deloitte | Former DRDO ML Intern | Backend, Applied AI & Secure Systems
+PDICMS Intern at Deloitte | Former DRDO ML Intern |  Former Java Developer at Cognifyz
 </h3>
 
 <p align="center">
