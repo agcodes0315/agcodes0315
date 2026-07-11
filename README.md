@@ -16,7 +16,7 @@ Software Engineer | Applied AI & Cloud Systems | Deloitte Intern | Former DRDO M
 
 ## About Me
 
-I am a final-year B.Tech student in Computer and Communication Engineering at **Manipal University Jaipur**, with hands-on experience across **software engineering, applied AI, cloud-ready systems, cybersecurity, and intelligent automation**.
+I am a final-year B.Tech student in Computer and Communication Engineering at **Manipal University Jaipur**, with hands-on experience across **Full-Stack development, applied AI, cloud-ready systems, cybersecurity, and intelligent automation**.
 
 - Platform Development, Integration and Cloud Management Services Intern at **Deloitte India**
 - Former Machine Learning Intern at **DRDO, Bengaluru**
