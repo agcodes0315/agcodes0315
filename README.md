@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Agrima Saxena 👋</h1>
 
 <h3 align="center">
-PDICMS Intern at Deloitte | Former DRDO ML Intern |  Former Java Developer at Cognifyz
+PDICMS Intern at Deloitte | Former DRDO ML Intern | Former Java Developer at Cognifyz
 </h3>
 
 <p align="center">
@@ -14,6 +14,7 @@ Building reliable, secure and intelligent software for real-world systems.
 
 - 💼 Platform Development, Integration and Cloud Management Services Intern at **Deloitte India**
 - 🤖 Former Machine Learning Intern at **DRDO, Bengaluru**
+- ☕ Former Java Developer Intern at **Cognifyz Technologies**
 - 🎓 Final-year B.Tech student in Computer and Communication Engineering at **Manipal University Jaipur**
 - 🛠️ Building backend, cloud-ready and AI systems using **Java, Python, Spring Boot, FastAPI, React, SQL and Docker**
 - 🧠 Interested in **distributed systems, agentic AI, secure software, applied machine learning and responsible AI**
@@ -27,14 +28,47 @@ Building reliable, secure and intelligent software for real-world systems.
 
 ### 🛠️ Core Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,js,ts,react,spring,fastapi,nodejs,mysql,postgres,docker,git,github,firebase" />
+#### Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=java,python,c,js,ts" />
 </p>
 
-**Backend:** Spring Boot, FastAPI, Node.js, REST APIs, JWT  
-**AI/Data:** RAG, LLM Applications, Google ADK, MCP, LSTM  
-**Cloud/DevOps:** Docker, GitHub Actions, Firebase, Render  
-**Security:** TLS, RBAC, prompt-injection defence
+**Java, Python, C, JavaScript, TypeScript, SQL**
+
+#### Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,react,tailwind" />
+</p>
+
+**HTML5, CSS3, React.js, Tailwind CSS**
+
+#### Backend & APIs
+<p>
+  <img src="https://skillicons.dev/icons?i=spring,fastapi,nodejs,express" />
+</p>
+
+**Spring Boot, FastAPI, Node.js, Express.js, REST APIs, JWT, WebSockets**
+
+#### Databases
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,sqlite" />
+</p>
+
+**MySQL, PostgreSQL, MongoDB, SQLite, ChromaDB**
+
+#### Cloud & DevOps
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,git,github,nginx,firebase" />
+</p>
+
+**Docker, GitHub Actions, Firebase, Render, Nginx, Swagger, Git**
+
+#### AI, Data & Security
+<p>
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,linux" />
+</p>
+
+**RAG, LLM Applications, Google ADK, MCP, LSTM, Kalman Filters, scikit-learn, TLS, RBAC, Prompt-Injection Defence**
 
 </td>
 
