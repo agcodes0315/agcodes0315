@@ -1,13 +1,18 @@
 <h1 align="center">Hi, I'm Agrima Saxena 👋</h1>
 
 <h3 align="center">
-PDICMS Intern at Deloitte | Former DRDO ML Intern | Former Java Developer at Cognifyz
+Software Engineering Intern at Deloitte | Former DRDO ML Intern | Backend, Applied AI & Secure Systems
+</h3>
+
+<p align="center">
+Building reliable, secure and intelligent software for real-world systems.
+</p>
 
 ---
 
 ## 👩‍💻 About Me
 
-- 💼 Platform Development Integration and Cloud Management Services Intern at **Deloitte India**
+- 💼 Platform Development, Integration and Cloud Management Services Intern at **Deloitte India**
 - 🤖 Former Machine Learning Intern at **DRDO, Bengaluru**
 - 🎓 Final-year B.Tech student in Computer and Communication Engineering at **Manipal University Jaipur**
 - 🛠️ Building backend, cloud-ready and AI systems using **Java, Python, Spring Boot, FastAPI, React, SQL and Docker**
@@ -43,7 +48,7 @@ PDICMS Intern at Deloitte | Former DRDO ML Intern | Former Java Developer at Cog
 
 - Orchestrated four specialized agents using **Google ADK**
 - Integrated policy tools through **Model Context Protocol**
-- Added **prompt-injection defence** and human approval gates
+- Added **prompt-injection defence** and a human approval gate
 - Designed deterministic and semantic evaluation workflows
 - Built with **React, FastAPI and Docker**
 - Deployed using **Firebase Hosting and Render**
