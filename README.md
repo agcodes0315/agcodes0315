@@ -3,10 +3,6 @@
 <h3 align="center">
 PDICMS Intern at Deloitte | Former DRDO ML Intern | Former Java Developer at Cognifyz
 
-<p align="center">
-Building reliable, secure and intelligent software for real-world systems.
-</p>
-
 ---
 
 ## 👩‍💻 About Me
