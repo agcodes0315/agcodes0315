@@ -1,161 +1,194 @@
 <h1 align="center">Hi, I'm Agrima Saxena 👋</h1>
 
 <h3 align="center">
-Full-Stack Developer | Cybersecurity & AI/ML Enthusiast | Deloitte Intern | DRDO ML Intern
+Software Engineer | Applied AI & Cloud Systems | Deloitte Intern | Former DRDO ML Intern
 </h3>
 
 <p align="center">
-  <a href="mailto:agrimalc@gmail.com">📧 agrimalc@gmail.com</a> |
-  <a href="https://www.linkedin.com/in/agrima-saxena-56976a279/">LinkedIn</a> |
+  <a href="mailto:agrimalc@gmail.com">Email</a>
+  &nbsp;•&nbsp;
+  <a href="https://www.linkedin.com/in/agrima-saxena-56976a279/">LinkedIn</a>
+  &nbsp;•&nbsp;
   <a href="https://github.com/agrima150103">GitHub</a>
 </p>
 
 ---
 
-## 👩‍💻 About Me
+## About Me
 
-- 🎓 B.Tech in Computer & Communication Engineering at **Manipal University Jaipur**
-- 💼 Platform Development Integration & Cloud Management Services Intern at **Deloitte India**
-- 🤖 Former Machine Learning Intern at **DRDO, Bangalore**
-- 🛡️ Passionate about **Cybersecurity, Full-Stack Development, AI/ML, and Cloud-Native Systems**
-- 🚀 I build scalable applications using **React, Spring Boot, Node.js, Express, MySQL, MongoDB, Docker, and REST APIs**
-- 🧠 Interested in **LLMs, RAG pipelines, threat intelligence, secure systems, and intelligent automation**
-- 🏆 Patent awarded for **Multi-Agent Reinforcement Learning Driven Real-Time Traffic Signal Management**
+I am a final-year B.Tech student in Computer and Communication Engineering at **Manipal University Jaipur**, with hands-on experience across **software engineering, applied AI, cloud-ready systems, cybersecurity, and intelligent automation**.
+
+- Platform Development, Integration and Cloud Management Services Intern at **Deloitte India**
+- Former Machine Learning Intern at **DRDO, Bengaluru**
+- Built systems using **Spring Boot, React, FastAPI, Python, SQL, Docker, REST APIs, LLMs, RAG, and multi-agent architectures**
+- Interested in **distributed systems, responsible AI, backend engineering, cloud platforms, and security-focused software**
+- Filed Indian Patent Application **No. 202511108091 A** for a secure MARL-driven traffic signal management system
 
 ---
 
-## 🛠️ Tech Arsenal
+## Technical Skills
 
 ### Languages
+
 <p>
   <img src="https://skillicons.dev/icons?i=java,python,c,js,ts" />
 </p>
 
+**Java, Python, C, JavaScript, TypeScript, SQL**
+
+### Backend and APIs
+
+<p>
+  <img src="https://skillicons.dev/icons?i=spring,nodejs,express,fastapi" />
+</p>
+
+**Spring Boot, FastAPI, Node.js, Express.js, REST APIs, JWT, WebSockets**
+
 ### Frontend
+
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,react,tailwind" />
+  <img src="https://skillicons.dev/icons?i=react,html,css,tailwind" />
 </p>
 
-### Backend & Databases
+**React.js, HTML5, CSS3, Tailwind CSS**
+
+### Databases and Data Systems
+
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,spring,mysql,mongodb" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,sqlite" />
 </p>
 
-### DevOps & Tools
+**MySQL, PostgreSQL, MongoDB, SQLite, ChromaDB**
+
+### Cloud and DevOps
+
 <p>
-  <img src="https://skillicons.dev/icons?i=docker,git,github,nginx,postman,vscode" />
+  <img src="https://skillicons.dev/icons?i=docker,git,github,nginx,firebase" />
 </p>
 
-### AI, Security & Data
-<p>
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,linux" />
-</p>
+**Docker, GitHub Actions, Firebase, Render, Nginx, Swagger, Git**
+
+### AI, ML and Security
+
+**Multi-Agent Systems, Google ADK, Model Context Protocol, RAG, LLM Applications, LSTM, Kalman Filters, scikit-learn, TLS/SSL, RBAC, Prompt-Injection Defence, Vulnerability Assessment**
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
-<table>
-<tr>
-<td width="50%">
+### VendorGuard AI
+**Human-Governed Multi-Agent Vendor Risk Platform**
 
-### 🛡️ CyberShield  
+A full-stack vendor assessment platform designed to prevent unsupported or manipulated AI-generated decisions from being finalized without review.
+
+- Orchestrated **four specialized agents** for evidence validation, risk analysis, policy evaluation, and decision generation using **Google Agent Development Kit**
+- Integrated **Model Context Protocol policy tools**, prompt-injection defence, structured audit trails, and a **human-in-the-loop approval gate**
+- Tested the workflow against contradictory evidence and adversarial prompt-injection scenarios
+- Deployed the frontend using **React and Firebase Hosting** and the backend using **FastAPI and Render**
+- Added Dockerized services, deterministic evaluations, semantic evaluation design, and Cloud Run-ready deployment support
+
+**Tech:** Google ADK, MCP, FastAPI, React, Docker, Firebase, Render, Python
+
+[Repository](https://github.com/agrima150103/vendorguard-ai) • [Live Demo](https://vendorguard-web.web.app/)
+
+---
+
+### MARL-Driven Real-Time Traffic Signal Management
+**Secure Multi-Agent Reinforcement Learning System**
+
+An adaptive traffic-control system where intersections coordinate signal timing using real-time traffic conditions and emergency-vehicle priority.
+
+- Developed using **Multi-Agent Reinforcement Learning, SUMO, Python/TraCI, and YOLO**
+- Increased simulated traffic throughput by **17%**
+- Reduced waiting time by **85%**, queue length by **50%**, and fuel consumption by **25%**
+- Secured inter-agent communication using **TLS 1.3, digital signatures, and SHA-256**
+- Filed Indian Patent Application **No. 202511108091 A**
+
+**Tech:** Python, SUMO, TraCI, YOLO, MARL, OpenSSL, Python Cryptography
+
+[Repository](https://github.com/agrima150103/MARL-Driven-Real-Time-Traffic-Management-System)
+
+---
+
+### CyberShield
 **Real-Time Cyber Threat Intelligence Platform**
 
-A full-stack cybersecurity platform integrating reconnaissance, phishing simulation, vulnerability checks, threat intelligence, and real-time WebSocket alerts.
+A unified security platform designed to reduce tool fragmentation across reconnaissance, phishing detection, vulnerability analysis, and network investigation.
 
-**Highlights**
-- Integrated 13+ security tools including Nmap, Wireshark-style analysis, GoPhish, and AbuseIPDB  
-- Built ML-based phishing URL detection with Random Forest and Gradient Boosting  
-- Added packet analysis, breach verification, security header auditing, and threat workflows  
+- Integrated **13+ security tools and services**, including Nmap, GoPhish, AbuseIPDB, and packet-analysis workflows
+- Built an ensemble phishing classifier using **Random Forest and Gradient Boosting** across 20 URL features
+- Added REST APIs, WebSocket alerts, automated vulnerability checks, and DNS/TLS/HTTP traffic analysis
+- Combined heuristic scoring with ML predictions for explainable phishing-risk classification
 
-**Tech Stack:** React, Node.js, Express, Python, ML, WebSockets, Cybersecurity APIs
+**Tech:** React, Node.js, Express.js, Python, Machine Learning, WebSockets, Cybersecurity APIs
 
-</td>
-<td width="50%">
+[Repository](https://github.com/agrima150103/cybershield-project)
 
-### 🚦 MARL Traffic Signal Management  
-**AI-Driven Real-Time Traffic Optimization**
+---
 
-A secure adaptive traffic signal management system using Multi-Agent Reinforcement Learning for traffic optimization and emergency vehicle prioritization.
-
-**Highlights**
-- Simulated traffic scenarios using SUMO, Python, TraCI, and YOLO  
-- Improved throughput and reduced waiting time, queue length, and fuel usage  
-- Secured communication using TLS 1.3, SHA-256, and digital signatures  
-- Patent awarded for this project  
-
-**Tech Stack:** Python, SUMO, TraCI, YOLO, MARL, OpenSSL
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-### 🎟️ EventZen  
+### EventZen
 **Full-Stack Event Lifecycle Management System**
 
-A production-style event management platform built during Deloitte internship with modular backend services and secure workflows.
+A modular event management system built during my Deloitte internship.
 
-**Highlights**
-- Designed 20+ REST APIs across 7 modular services  
-- Implemented JWT authentication and role-based access control  
-- Built secure backend workflows with validation and overbooking prevention  
-- Created Docker-based deployment workflows  
+- Designed **20+ REST APIs** across **7 modular services**
+- Implemented JWT authentication and role-based access control
+- Added validation, booking workflows, and overbooking prevention
+- Containerized services using Docker and documented APIs using Swagger
 
-**Tech Stack:** Spring Boot, React, MySQL, JWT, Docker, REST APIs
+**Tech:** Spring Boot, React, MySQL, JWT, Docker, REST APIs
 
-</td>
-<td width="50%">
-
-### 🚢 AIS Vessel Prediction System  
-**ML + RAG-Based Maritime Intelligence**
-
-A machine learning system for vessel trajectory prediction using AIS data, Kalman Filters, LSTM models, ChromaDB, and Mistral LLM.
-
-**Highlights**
-- Built 24h–72h vessel trajectory forecasting pipelines  
-- Integrated ChromaDB and Mistral LLM for structured query access  
-- Designed modular Python pipelines for prediction and decision support  
-
-**Tech Stack:** Python, LSTM, Kalman Filters, ChromaDB, Mistral, RAG
-
-</td>
-</tr>
-</table>
+[Repository](https://github.com/agrima150103/eventzen-event-management-system)
 
 ---
 
-## 📊 GitHub Analytics
+## Experience Highlights
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=agrima150103&show_icons=true&theme=github_dark&hide_border=true" height="170" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=agrima150103&theme=github-dark-blue&hide_border=true" height="170" />
-</p>
+### Deloitte India
+**Platform Development, Integration and Cloud Management Services Intern**
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=agrima150103&layout=compact&theme=github_dark&hide_border=true" height="170" />
-</p>
+- Building modular backend services and secure full-stack workflows
+- Working with Spring Boot, React, MySQL, REST APIs, JWT, Docker, and deployment-ready architecture
 
----
+### Defence Research and Development Organisation
+**Machine Learning Intern**
 
-## 🏆 Achievements
-
-- 🏅 Patent awarded for **Multi-Agent Reinforcement Learning Driven Real-Time Traffic Signal Management**
+- Developed AIS-based vessel trajectory forecasting using **Kalman Filters and LSTM models**
+- Integrated **ChromaDB and Mistral LLM** through Retrieval-Augmented Generation
+- Built modular Python pipelines for forecasting, retrieval, and natural-language decision support
 
 ---
 
-## 🤝 Let's Connect
+## Achievements
+
+- **Filed Indian Patent Application No. 202511108091 A** for a MARL-driven traffic signal management system
+- **Semi-Finalist, The Economic Times AI Hackathon 2026** for a GenAI Clinical Intelligence Platform
+- **Top 50 National Finalist, AI for Bharat Hackathon 2026** as a solo participant for building TrustID
+- Completed the **McKinsey.org Forward Program**
+
+---
+
+## Current Focus
+
+- Backend and distributed-system design
+- Production-ready agentic AI
+- Cloud deployment and observability
+- SQL and analytics engineering
+- Open-source contributions
+- Data structures and algorithms
+
+---
+
+## Connect With Me
 
 <p align="center">
-  <a href="mailto:agrimalc@gmail.com">📧 Email Me</a> |
-  <a href="https://www.linkedin.com/in/agrima-saxena-56976a279/">LinkedIn</a> |
+  <a href="mailto:agrimalc@gmail.com">Email</a>
+  &nbsp;•&nbsp;
+  <a href="https://www.linkedin.com/in/agrima-saxena-56976a279/">LinkedIn</a>
+  &nbsp;•&nbsp;
   <a href="https://github.com/agrima150103">GitHub</a>
 </p>
 
----
-
 <p align="center">
-  <i>“Building secure, intelligent, and scalable software for real-world impact.”</i>
+  <i>Building secure, intelligent, and scalable systems for real-world impact.</i>
 </p>
