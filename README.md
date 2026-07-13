@@ -1,15 +1,18 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C47FF,100:0A66C2&height=125&section=header&text=Agrima%20Saxena&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Software%20Engineering%20%7C%20Full-Stack%20%7C%20Applied%20AI%20%7C%20Cybersecurity&descAlignY=62&descSize=14" alt="Agrima Saxena banner" width="290%"/>
-### PDICMS Intern at Deloitte India | Former DRDO Machine Learning Intern | Former Java Developer at Cognifyz
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C47FF,100:0A66C2&height=125&section=header&text=Agrima%20Saxena&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Software%20Engineering%20%7C%20Full-Stack%20%7C%20Applied%20AI%20%7C%20Cybersecurity&descAlignY=62&descSize=14" alt="Agrima Saxena banner" width="100%"/>
 
-Final-year B.Tech student in Computer and Communication Engineering
+<p>
+  <img src="https://img.shields.io/badge/Deloitte-PDICMS_Intern-86BC25?style=for-the-badge&logo=deloitte&logoColor=white" alt="Deloitte PDICMS Intern"/>
+  <img src="https://img.shields.io/badge/DRDO-Former_ML_Intern-0057A8?style=for-the-badge&logoColor=white" alt="Former DRDO ML Intern"/>
+  <img src="https://img.shields.io/badge/Cognifyz-Former_Java_Developer-F28C28?style=for-the-badge&logo=openjdk&logoColor=white" alt="Former Cognifyz Java Developer"/>
+</p>
 
 <a href="https://www.linkedin.com/in/agrima-saxena-56976a279/">
-  <img src="https://img.shields.io/badge/LinkedIn-Agrima_Saxena-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <img src="https://img.shields.io/badge/LinkedIn-Agrima_Saxena-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 <a href="mailto:agrimalc@gmail.com">
-  <img src="https://img.shields.io/badge/Email-agrimalc%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  <img src="https://img.shields.io/badge/Email-agrimalc%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 
 <br>
@@ -20,7 +23,8 @@ Final-year B.Tech student in Computer and Communication Engineering
 <a href="#featured-work">Featured Work</a> ·
 <a href="#more-projects">Projects</a> ·
 <a href="#experience">Experience</a> ·
-<a href="#recognition">Recognition</a>
+<a href="#recognition">Recognition</a> ·
+<a href="#connect-with-me">Contact</a>
 
 </div>
 
@@ -36,9 +40,9 @@ I build **backend systems, full-stack products, applied AI workflows, and securi
 - Building with **Java, Python, Spring Boot, FastAPI, React, SQL, Docker, LLMs, and multi-agent systems**
 - Interested in **backend engineering, distributed systems, responsible AI, cybersecurity, and cloud platforms**
 - Filed Indian Patent Application **No. 202511108091 A**
-- Open to opportunities in **Software Engineering, Full-Stack Development, AI/ML, GenAI, and Cybersecurity**
+- Open to opportunities in **Software Engineering, Full-Stack Development, Backend Engineering, AI/ML, GenAI, and Cybersecurity**
 
-> I am especially interested in systems where outputs are traceable, testable, secure, and reviewable.
+> I am especially interested in systems where decisions are traceable, testable, secure, and reviewable.
 
 ---
 
@@ -46,69 +50,35 @@ I build **backend systems, full-stack products, applied AI workflows, and securi
 
 <table>
 <tr>
-<td width="50%" valign="top" align="left">
+<td width="25%" valign="top">
 
 ### 💻 Software Engineering
 
-I build modular backend systems, REST APIs, database-backed applications, authentication workflows, and maintainable service architectures.
-
-**Focus areas**
-
-- Object-oriented design
-- API design and integration
-- Relational and NoSQL databases
-- Authentication and authorization
-- Testing and documentation
+Backend services, modular application architecture, REST APIs, databases, authentication, and maintainable codebases.
 
 </td>
 
-<td width="50%" valign="top" align="left">
+<td width="25%" valign="top">
 
 ### 🌐 Full-Stack Development
 
-I build responsive applications with modern frontend frameworks and secure backend services.
-
-**Focus areas**
-
-- React-based interfaces
-- Spring Boot, FastAPI, and Node.js backends
-- JWT authentication and RBAC
-- Real-time communication using WebSockets
-- Containerized deployment workflows
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top" align="left">
-
-### 🤖 AI, ML, and GenAI
-
-I design AI systems that combine machine learning, retrieval, agents, guardrails, and explainable decision workflows.
-
-**Focus areas**
-
-- Retrieval-Augmented Generation
-- Multi-agent orchestration
-- Classification and forecasting pipelines
-- Vector databases and semantic retrieval
-- Human-in-the-loop AI systems
+Responsive React applications with Spring Boot, FastAPI, Node.js, SQL, and secure user workflows.
 
 </td>
 
-<td width="50%" valign="top" align="left">
+<td width="25%" valign="top">
 
-### 🔐 Cybersecurity Engineering
+### 🤖 AI and GenAI
 
-I build security-focused tools for threat analysis, secure communication, phishing detection, and application defence.
+RAG pipelines, multi-agent systems, forecasting, vector retrieval, guardrails, and explainable AI workflows.
 
-**Focus areas**
+</td>
 
-- Threat intelligence workflows
-- Phishing and malicious URL detection
-- TLS-secured communication
-- Prompt-injection defence
-- Web and network vulnerability analysis
+<td width="25%" valign="top">
+
+### 🔐 Cybersecurity
+
+Threat intelligence, phishing detection, secure APIs, TLS communication, RBAC, and vulnerability analysis.
 
 </td>
 </tr>
@@ -120,7 +90,7 @@ I build security-focused tools for threat analysis, secure communication, phishi
 
 ### Languages
 
-<p align="left">
+<p>
   <img src="https://skillicons.dev/icons?i=java,python,c,js,ts" alt="Java, Python, C, JavaScript and TypeScript"/>
 </p>
 
@@ -128,7 +98,7 @@ I build security-focused tools for threat analysis, secure communication, phishi
 
 ### Backend and APIs
 
-<p align="left">
+<p>
   <img src="https://skillicons.dev/icons?i=spring,fastapi,nodejs,express" alt="Spring Boot, FastAPI, Node.js and Express.js"/>
 </p>
 
@@ -137,7 +107,7 @@ I build security-focused tools for threat analysis, secure communication, phishi
 
 ### Frontend
 
-<p align="left">
+<p>
   <img src="https://skillicons.dev/icons?i=react,html,css,tailwind" alt="React, HTML, CSS and Tailwind CSS"/>
 </p>
 
@@ -145,7 +115,7 @@ I build security-focused tools for threat analysis, secure communication, phishi
 
 ### Databases and Retrieval
 
-<p align="left">
+<p>
   <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,sqlite" alt="MySQL, PostgreSQL, MongoDB and SQLite"/>
 </p>
 
@@ -160,12 +130,12 @@ I build security-focused tools for threat analysis, secure communication, phishi
 
 ### Cloud, DevOps, and Tooling
 
-<p align="left">
+<p>
   <img src="https://skillicons.dev/icons?i=docker,git,github,githubactions,nginx,firebase,postman,vscode" alt="Docker, Git, GitHub, GitHub Actions, Nginx, Firebase, Postman and VS Code"/>
 </p>
 
 `Docker` `GitHub Actions` `Firebase Hosting` `Render`  
-`Nginx` `Swagger` `Git` `Postman`
+`Nginx` `Swagger` `Git`
 
 ### Security
 
@@ -178,7 +148,7 @@ I build security-focused tools for threat analysis, secure communication, phishi
 
 <table>
 <tr>
-<td width="50%" valign="top" align="left">
+<td width="50%" valign="top">
 
 ### 🛡️ [VendorGuard AI](https://github.com/agrima150103/vendorguard-ai)
 
@@ -188,12 +158,12 @@ An evidence-first vendor assessment system designed to prevent manipulated, cont
 
 **Highlights**
 
-- Built four specialized agents using **Google ADK**
-- Exposed policy checks through **Model Context Protocol**
-- Added prompt-injection defence and contradictory-evidence handling
-- Implemented a human-in-the-loop approval gate
-- Produced structured decision audit trails
-- Added deterministic and semantic evaluation workflows
+- Four specialized agents built with **Google ADK**
+- Policy evaluation through **Model Context Protocol**
+- Prompt-injection defence and contradictory-evidence handling
+- Human-in-the-loop approval gate
+- Structured decision audit trails
+- Deterministic and semantic evaluation workflows
 - Deployed with **React, FastAPI, Firebase, Render, and Docker**
 
 **Stack**
@@ -211,24 +181,24 @@ An evidence-first vendor assessment system designed to prevent manipulated, cont
 
 </td>
 
-<td width="50%" valign="top" align="left">
+<td width="50%" valign="top">
 
 ### 🚦 [MARL Traffic Management](https://github.com/agrima150103/MARL-Driven-Real-Time-Traffic-Management-System)
 
 **Secure Adaptive Traffic Signal Control**
 
-A multi-agent reinforcement learning system that adapts traffic-signal timing using congestion levels and emergency-vehicle presence.
+A multi-agent reinforcement learning system that adapts signal timing using traffic conditions and emergency vehicle presence.
 
 **Highlights**
 
 - Simulated with **SUMO and Python/TraCI**
-- Added YOLO-based vehicle detection
-- Implemented dynamic emergency-vehicle prioritization
-- Increased simulated throughput by **17%**
-- Reduced waiting time by **85%**
-- Reduced queued vehicles by **50%**
-- Reduced fuel consumption by **25%**
-- Secured communication using **TLS 1.3, digital signatures, and SHA-256**
+- YOLO-based vehicle detection
+- Dynamic emergency vehicle prioritization
+- **17%** higher throughput
+- **85%** lower waiting time
+- **50%** fewer queued vehicles
+- **25%** lower fuel consumption
+- Secured using **TLS 1.3, digital signatures, and SHA-256**
 
 **Stack**
 
@@ -248,12 +218,12 @@ A multi-agent reinforcement learning system that adapts traffic-signal timing us
 
 ## More Projects
 
-| Project | Problem Solved | Stack | Proof |
+| Project | Focus | Stack | Proof |
 |---|---|---|---|
-| [CyberShield](https://github.com/agrima150103/cybershield-project) | Unifies phishing detection, threat intelligence, vulnerability analysis, and real-time security alerts | React, Node.js, Express.js, Python, scikit-learn, WebSockets | [Repository](https://github.com/agrima150103/cybershield-project) |
-| [TrustID](https://github.com/agrima150103/TrustID-UBID-Intelligence) | Resolves fragmented business records using confidence scoring and reviewable identity matching | React, Node.js, SQLite | [Live Demo](https://trust-id-ubid-intelligence.vercel.app/) |
-| [GenAI Atlas](https://github.com/agrima150103/genai-clinical-intelligence) | Identifies silent treatment failures using multi-agent clinical reasoning and guardrails | Python, Streamlit, Llama 3 | [Repository](https://github.com/agrima150103/genai-clinical-intelligence) |
-| [SkillSwap](https://github.com/agrima150103/SkillSwap) | Connects users who want to teach, learn, and exchange skills | React, Node.js, Express.js, MongoDB, JWT | [Repository](https://github.com/agrima150103/SkillSwap) |
+| [CyberShield](https://github.com/agrima150103/cybershield-project) | Threat intelligence, phishing detection, vulnerability analysis, and real-time alerts | React, Node.js, Express.js, Python, scikit-learn, WebSockets | [Repository](https://github.com/agrima150103/cybershield-project) |
+| [TrustID](https://github.com/agrima150103/TrustID-UBID-Intelligence) | Business identity resolution, confidence scoring, and auditability | React, Node.js, SQLite | [Live Demo](https://trust-id-ubid-intelligence.vercel.app/) |
+| [GenAI Atlas](https://github.com/agrima150103/genai-clinical-intelligence) | Multi-agent clinical intelligence with rule-based guardrails | Python, Streamlit, Llama 3 | [Repository](https://github.com/agrima150103/genai-clinical-intelligence) |
+| [SkillSwap](https://github.com/agrima150103/SkillSwap) | Peer-to-peer skill exchange platform | React, Node.js, Express.js, MongoDB, JWT | [Repository](https://github.com/agrima150103/SkillSwap) |
 
 ---
 
@@ -274,7 +244,7 @@ Built **EventZen**, an event lifecycle management system with modular services a
 
 Worked on maritime intelligence using AIS sensor data.
 
-- Built vessel trajectory forecasting using **Kalman Filters and LSTM**
+- Built vessel trajectory forecasting with **Kalman Filters and LSTM**
 - Generated **24 to 72 hour prediction horizons**
 - Integrated **ChromaDB and Mistral LLM**
 - Built a RAG-based natural-language query layer over prediction outputs
@@ -283,7 +253,7 @@ Worked on maritime intelligence using AIS sensor data.
 
 ### Cognifyz Technologies | Java Developer
 
-Worked on Java-based development tasks focused on object-oriented programming, application logic, and structured problem solving.
+Worked on Java development tasks focused on core programming, structured problem solving, and application logic.
 
 [View Cognifyz Repository](https://github.com/agrima150103/cognifyz)
 
@@ -306,16 +276,16 @@ Worked on Java-based development tasks focused on object-oriented programming, a
 
 ### Open to opportunities in
 
-**Software Engineering · Full-Stack Development · Backend Engineering**  
+**Software Engineering · Backend Engineering · Full-Stack Development**  
 **AI/ML Engineering · GenAI Engineering · Cybersecurity Engineering**
 
 <br>
 
 <a href="mailto:agrimalc@gmail.com">
-  <img src="https://img.shields.io/badge/Email-agrimalc%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  <img src="https://img.shields.io/badge/Email-agrimalc%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Agrima Saxena"/>
 </a>
 <a href="https://www.linkedin.com/in/agrima-saxena-56976a279/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect_With_Me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <img src="https://img.shields.io/badge/LinkedIn-Connect_With_Me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Agrima Saxena"/>
 </a>
 
 <br><br>
