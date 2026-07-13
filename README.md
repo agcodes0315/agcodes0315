@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C47FF,100:0A66C2&height=125&section=header&text=Agrima%20Saxena&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Software%20Engineering%20%7C%20Full-Stack%20%7C%20Applied%20AI%20%7C%20Cybersecurity&descAlignY=62&descSize=14" alt="Agrima Saxena banner" width="100%"/>
 
-### PDICMS Intern at Deloitte India | Former DRDO Machine Learning Intern
+### PDICMS Intern at Deloitte India | Former DRDO Machine Learning Intern  | Former Cognifyz Java Developer
 
 Final-year B.Tech student in Computer and Communication Engineering
 
