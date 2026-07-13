@@ -1,10 +1,8 @@
-<!-- GitHub Profile README for github.com/agrima150103 -->
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C47FF,100:0A66C2&height=135&section=header&text=Agrima%20Saxena&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Software%20Engineering%20%7C%20Full-Stack%20Development%20%7C%20Applied%20AI%20%7C%20Cybersecurity&descAlignY=61&descSize=14" alt="Agrima Saxena GitHub profile banner" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C47FF,100:0A66C2&height=125&section=header&text=Agrima%20Saxena&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Software%20Engineering%20%7C%20Full-Stack%20%7C%20Applied%20AI%20%7C%20Cybersecurity&descAlignY=62&descSize=14" alt="Agrima Saxena banner" width="100%"/>
 
-### PDICMS Intern at Deloitte India | Former Machine Learning Intern at DRDO
+### PDICMS Intern at Deloitte India | Former DRDO Machine Learning Intern
 
 Final-year B.Tech student in Computer and Communication Engineering
 
@@ -17,14 +15,13 @@ Final-year B.Tech student in Computer and Communication Engineering
 
 <br>
 
-<a href="#about-me">About</a> •
-<a href="#what-i-build">What I Build</a> •
-<a href="#core-stack">Stack</a> •
-<a href="#featured-work">Featured Work</a> •
-<a href="#selected-projects">Projects</a> •
-<a href="#experience">Experience</a> •
-<a href="#recognition">Recognition</a> •
-<a href="#connect-with-me">Contact</a>
+<a href="#about-me">About</a> ·
+<a href="#what-i-build">Services</a> ·
+<a href="#core-stack">Stack</a> ·
+<a href="#featured-work">Featured Work</a> ·
+<a href="#more-projects">Projects</a> ·
+<a href="#experience">Experience</a> ·
+<a href="#recognition">Recognition</a>
 
 </div>
 
@@ -34,12 +31,12 @@ Final-year B.Tech student in Computer and Communication Engineering
 
 I build **software systems, full-stack products, applied AI workflows, and security-focused platforms** with an emphasis on reliability, explainability, and practical impact.
 
-- Working on platform development, integration, and cloud-ready systems at **Deloitte India**
-- Previously developed **vessel trajectory forecasting and RAG workflows** at **DRDO, Bengaluru**
-- Building with **Java, Python, Spring Boot, FastAPI, React, SQL, Docker, LLMs, and multi-agent systems**
+- Platform engineering and cloud-ready systems at **Deloitte India**
+- Former machine learning intern at **DRDO, Bengaluru**
+- Working with **Java, Python, Spring Boot, FastAPI, React, SQL, Docker, LLMs, and multi-agent systems**
 - Interested in **backend engineering, distributed systems, responsible AI, cybersecurity, and cloud platforms**
-- Filed Indian Patent Application **No. 202511108091 A** for a secure MARL-driven traffic signal management system
-- Open to opportunities in **Software Engineering, Full-Stack Development, Backend Engineering, AI/ML, GenAI, and Cybersecurity**
+- Filed Indian Patent Application **No. 202511108091 A**
+- Open to opportunities in **Software Engineering, Full-Stack Development, AI/ML, GenAI, and Cybersecurity**
 
 > I am especially interested in systems where decisions are traceable, testable, secure, and reviewable.
 
@@ -49,51 +46,32 @@ I build **software systems, full-stack products, applied AI workflows, and secur
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="25%" valign="top" align="center">
 
 ### 💻 Software Engineering
 
-- Backend services and modular application architectures
-- Object-oriented design and clean service boundaries
-- REST APIs, authentication, authorization, and data workflows
-- Database-backed systems using SQL and NoSQL technologies
-- Maintainable codebases with documentation and tests
+Backend services, modular systems, APIs, databases, authentication, and maintainable application architecture.
 
 </td>
-<td width="50%" valign="top">
+<td width="25%" valign="top" align="center">
 
 ### 🌐 Full-Stack Development
 
-- Responsive web applications using React
-- Spring Boot, FastAPI, Node.js, and Express backends
-- Secure user workflows with JWT and RBAC
-- Real-time applications using WebSockets
-- Cloud-ready and containerized deployments
+Responsive React applications with Spring Boot, FastAPI, Node.js, SQL, and secure user workflows.
 
 </td>
-</tr>
+<td width="25%" valign="top" align="center">
 
-<tr>
-<td width="50%" valign="top">
+### 🤖 AI and GenAI
 
-### 🤖 AI, ML, and GenAI
-
-- LLM applications and Retrieval-Augmented Generation
-- Multi-agent systems and human approval workflows
-- ML pipelines for classification and forecasting
-- Vector search and natural-language query systems
-- Evaluation, guardrails, auditability, and explainable outputs
+RAG pipelines, multi-agent systems, forecasting, vector retrieval, guardrails, and explainable AI workflows.
 
 </td>
-<td width="50%" valign="top">
+<td width="25%" valign="top" align="center">
 
-### 🔐 Cybersecurity Engineering
+### 🔐 Cybersecurity
 
-- Threat intelligence and phishing detection workflows
-- Secure API design and role-based access control
-- Prompt-injection defence for AI applications
-- Network and web vulnerability analysis
-- TLS-based communication and security-focused system design
+Threat intelligence, phishing detection, secure APIs, TLS-based communication, RBAC, and vulnerability analysis.
 
 </td>
 </tr>
@@ -103,59 +81,41 @@ I build **software systems, full-stack products, applied AI workflows, and secur
 
 ## Core Stack
 
+<div align="center">
+
 ### Languages
 
-<p>
-  <img src="https://skillicons.dev/icons?i=java,python,c,js,ts" alt="Java, Python, C, JavaScript and TypeScript"/>
-</p>
+<img src="https://skillicons.dev/icons?i=java,python,c,js,ts" alt="Languages"/>
 
 `Java` `Python` `C` `JavaScript` `TypeScript` `SQL`
 
 ### Backend and APIs
 
-<p>
-  <img src="https://skillicons.dev/icons?i=spring,fastapi,nodejs,express" alt="Spring Boot, FastAPI, Node.js and Express.js"/>
-</p>
+<img src="https://skillicons.dev/icons?i=spring,fastapi,nodejs,express" alt="Backend"/>
 
-`Spring Boot` `FastAPI` `Node.js` `Express.js`  
-`REST APIs` `JWT` `WebSockets`
+`Spring Boot` `FastAPI` `Node.js` `Express.js` `REST APIs` `JWT` `WebSockets`
 
 ### Frontend
 
-<p>
-  <img src="https://skillicons.dev/icons?i=react,html,css,tailwind" alt="React, HTML, CSS and Tailwind CSS"/>
-</p>
+<img src="https://skillicons.dev/icons?i=react,html,css,tailwind" alt="Frontend"/>
 
 `React.js` `HTML5` `CSS3` `Tailwind CSS` `Streamlit`
 
-### Databases and Retrieval
+### Data, AI, and Retrieval
 
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,sqlite" alt="MySQL, PostgreSQL, MongoDB and SQLite"/>
-</p>
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,sqlite" alt="Databases"/>
 
-`MySQL` `PostgreSQL` `MongoDB` `SQLite`  
-`ChromaDB` `Vector Search`
+`MySQL` `PostgreSQL` `MongoDB` `SQLite` `ChromaDB`  
+`Google ADK` `MCP` `RAG` `Multi-Agent Systems` `LSTM` `scikit-learn`
 
-### AI and Agentic Systems
+### Cloud, DevOps, and Security
 
-`Google ADK` `Model Context Protocol` `RAG`  
-`LLM Applications` `Multi-Agent Systems` `LSTM`  
-`Kalman Filters` `scikit-learn` `NLP`
+<img src="https://skillicons.dev/icons?i=docker,git,github,githubactions,nginx,firebase,postman,vscode" alt="DevOps"/>
 
-### Cloud, DevOps, and Tooling
+`Docker` `GitHub Actions` `Firebase Hosting` `Render` `Nginx` `Swagger`  
+`TLS/SSL` `RBAC` `Prompt-Injection Defence` `Nmap`
 
-<p>
-  <img src="https://skillicons.dev/icons?i=docker,git,github,githubactions,nginx,firebase,postman,vscode" alt="Docker, Git, GitHub, GitHub Actions, Nginx, Firebase, Postman and VS Code"/>
-</p>
-
-`Docker` `GitHub Actions` `Firebase Hosting` `Render`  
-`Google Cloud Run-ready Deployments` `Nginx` `Swagger` `Git`
-
-### Security
-
-`TLS/SSL` `RBAC` `Prompt-Injection Defence`  
-`Vulnerability Assessment` `Nmap` `Secure API Design`
+</div>
 
 ---
 
@@ -169,19 +129,17 @@ I build **software systems, full-stack products, applied AI workflows, and secur
 
 **Human-Governed Multi-Agent Vendor Risk Platform**
 
-An evidence-first vendor assessment platform designed to prevent manipulated, contradictory, or unsupported agent outputs from becoming final business decisions.
+An evidence-first vendor assessment system designed to prevent manipulated, contradictory, or unsupported agent outputs from becoming final business decisions.
 
-Built for the **Kaggle x Google 5-Day AI Agents Intensive Capstone**.
+**Highlights**
 
-**Key engineering work**
-
-- Orchestrated **four specialized agents** using **Google ADK**
-- Exposed policy checks through **Model Context Protocol**
-- Added prompt-injection defence and contradictory-evidence handling
-- Implemented a **human-in-the-loop approval gate**
-- Produced structured, reviewable audit trails
-- Added deterministic and semantic evaluation workflows
-- Deployed using **React, FastAPI, Firebase, Render, and Docker**
+- Four specialized agents built with **Google ADK**
+- Policy checks through **Model Context Protocol**
+- Prompt-injection defence and contradictory-evidence handling
+- Human-in-the-loop approval gate
+- Structured decision audit trails
+- Deterministic and semantic evaluation workflows
+- Deployed with **React, FastAPI, Firebase, Render, and Docker**
 
 **Stack**
 
@@ -204,19 +162,18 @@ Built for the **Kaggle x Google 5-Day AI Agents Intensive Capstone**.
 
 **Secure Adaptive Traffic Signal Control**
 
-A multi-agent reinforcement learning system where intersections adapt signal timing based on traffic conditions and emergency vehicle presence.
+A multi-agent reinforcement learning system that adapts signal timing using traffic conditions and emergency vehicle presence.
 
-**Key engineering work**
+**Highlights**
 
-- Simulated traffic workflows using **SUMO and Python/TraCI**
-- Added **YOLO-based vehicle detection**
-- Implemented dynamic emergency vehicle prioritization
-- Increased simulated throughput by **17%**
-- Reduced waiting time by **85%**
-- Reduced queued vehicles by **50%**
-- Reduced fuel consumption by **25%**
-- Secured communication using **TLS 1.3, digital signatures, and SHA-256**
-- Filed as an Indian Patent Application
+- Simulated with **SUMO and Python/TraCI**
+- YOLO-based vehicle detection
+- Dynamic emergency vehicle prioritization
+- **17%** higher throughput
+- **85%** lower waiting time
+- **50%** fewer queued vehicles
+- **25%** lower fuel consumption
+- TLS 1.3, digital signatures, and SHA-256 communication security
 
 **Stack**
 
@@ -234,114 +191,14 @@ A multi-agent reinforcement learning system where intersections adapt signal tim
 
 ---
 
-## Selected Projects
+## More Projects
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🔍 [CyberShield](https://github.com/agrima150103/cybershield-project)
-
-**Real-Time Cyber Threat Intelligence Platform**
-
-A unified platform for phishing detection, reconnaissance, vulnerability analysis, network inspection, and real-time security alerts.
-
-- Integrates **13+ security tools and services**
-- Uses **Random Forest and Gradient Boosting**
-- Extracts **20 URL features** for phishing classification
-- Provides REST APIs and WebSocket alerts
-- Supports DNS, TLS, and HTTP traffic analysis
-- Includes automated web vulnerability checks
-
-`React` `Node.js` `Express.js` `Python` `scikit-learn` `WebSockets`
-
-<br>
-
-<a href="https://github.com/agrima150103/cybershield-project">
-  <img src="https://img.shields.io/badge/Repository-View_Code-181717?style=flat-square&logo=github" alt="CyberShield repository"/>
-</a>
-
-</td>
-
-<td width="50%" valign="top">
-
-### 🪪 [TrustID](https://github.com/agrima150103/TrustID-UBID-Intelligence)
-
-**Unique Business Identity Resolution and Intelligence**
-
-A business record reconciliation platform that resolves fragmented identities while keeping automated matches explainable and reviewable.
-
-- Uses confidence-scored entity matching
-- Provides human review for ambiguous records
-- Maintains audit trails for identity decisions
-- Built independently as a **solo participant**
-- Selected among the **Top 50 teams nationwide** at AI for Bharat Hackathon 2026
-
-`React` `Node.js` `SQLite` `Entity Resolution`
-
-<br>
-
-<a href="https://github.com/agrima150103/TrustID-UBID-Intelligence">
-  <img src="https://img.shields.io/badge/Repository-View_Code-181717?style=flat-square&logo=github" alt="TrustID repository"/>
-</a>
-<a href="https://trust-id-ubid-intelligence.vercel.app/">
-  <img src="https://img.shields.io/badge/Live_Demo-Open_App-000000?style=flat-square&logo=vercel" alt="TrustID live demo"/>
-</a>
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-### 🏥 [GenAI Atlas](https://github.com/agrima150103/genai-clinical-intelligence)
-
-**Multi-Agent Clinical Intelligence Platform**
-
-A clinical decision-support prototype focused on identifying silent treatment failures through explainable and guardrailed AI reasoning.
-
-- Uses **six specialized agents**
-- Combines **Llama 3 reasoning** with rule-based medical guardrails
-- Produces structured and traceable outputs
-- Supports severity classification and auditability
-- Recognized as a **Semi-Finalist** at The Economic Times AI Hackathon 2026
-
-`Python` `Streamlit` `Llama 3` `Multi-Agent Systems` `Guardrails`
-
-<br>
-
-<a href="https://github.com/agrima150103/genai-clinical-intelligence">
-  <img src="https://img.shields.io/badge/Repository-View_Code-181717?style=flat-square&logo=github" alt="GenAI Atlas repository"/>
-</a>
-
-</td>
-
-<td width="50%" valign="top">
-
-### 🤝 [SkillSwap](https://github.com/agrima150103/SkillSwap)
-
-**Peer-to-Peer Skill Exchange Platform**
-
-A full-stack platform that connects users who want to teach, learn, and exchange skills through structured profiles and interaction workflows.
-
-`React` `Node.js` `Express.js` `MongoDB` `JWT`
-
-**Current improvements**
-
-- Project documentation
-- Unit and integration tests
-- Cleaner service boundaries
-- Production-oriented deployment structure
-
-<br>
-
-<a href="https://github.com/agrima150103/SkillSwap">
-  <img src="https://img.shields.io/badge/Repository-View_Code-181717?style=flat-square&logo=github" alt="SkillSwap repository"/>
-</a>
-
-</td>
-</tr>
-</table>
+| Project | Focus | Stack | Proof |
+|---|---|---|---|
+| [CyberShield](https://github.com/agrima150103/cybershield-project) | Threat intelligence, phishing detection, vulnerability analysis, real-time alerts | React, Node.js, Express.js, Python, scikit-learn, WebSockets | [Repository](https://github.com/agrima150103/cybershield-project) |
+| [TrustID](https://github.com/agrima150103/TrustID-UBID-Intelligence) | Business identity resolution, confidence scoring, auditability | React, Node.js, SQLite | [Live Demo](https://trust-id-ubid-intelligence.vercel.app/) |
+| [GenAI Atlas](https://github.com/agrima150103/genai-clinical-intelligence) | Multi-agent clinical intelligence with guardrails | Python, Streamlit, Llama 3 | [Repository](https://github.com/agrima150103/genai-clinical-intelligence) |
+| [SkillSwap](https://github.com/agrima150103/SkillSwap) | Peer-to-peer skill exchange platform | React, Node.js, Express.js, MongoDB, JWT | [Repository](https://github.com/agrima150103/SkillSwap) |
 
 ---
 
@@ -349,10 +206,10 @@ A full-stack platform that connects users who want to teach, learn, and exchange
 
 ### Deloitte India | PDICMS Intern
 
-Built **EventZen**, an event lifecycle management system designed around modular backend services and secure booking workflows.
+Built **EventZen**, an event lifecycle management system with modular services and secure booking workflows.
 
 - Developed **20+ REST APIs** across **7 modular services**
-- Applied **JWT authentication and RBAC**
+- Implemented JWT authentication and RBAC
 - Added validation and overbooking prevention
 - Built using **Spring Boot, React, MySQL, and Docker**
 
@@ -382,11 +239,26 @@ Worked on maritime intelligence using AIS sensor data.
 
 ---
 
-## Engineering Approach
+## Connect With Me
 
-```text
-Build for correctness before cleverness.
-Treat security as part of the architecture.
-Measure claims before publishing metrics.
-Keep automated decisions traceable and reviewable.
-Prefer clear interfaces, tests, and documentation.
+<div align="center">
+
+### Open to opportunities in
+
+**Software Engineering · Full-Stack Development · Backend Engineering**  
+**AI/ML Engineering · GenAI Engineering · Cybersecurity Engineering**
+
+<br>
+
+<a href="mailto:agrimalc@gmail.com">
+  <img src="https://img.shields.io/badge/Email-agrimalc%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+<a href="https://www.linkedin.com/in/agrima-saxena-56976a279/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect_With_Me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+
+<br><br>
+
+**Lucknow, India | Graduating May 2026**
+
+</div>
