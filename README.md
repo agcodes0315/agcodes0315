@@ -8,13 +8,13 @@
 
 <div align="center">
 
-<img width="100%"
+<img width="90%"
 src="https://capsule-render.vercel.app/api?type=waving&height=205&color=0:4338CA,45:2563EB,100:0369A1&text=Agrima%20Saxena&fontSize=52&fontColor=ffffff&fontAlignY=36&desc=Software%20Engineering%20%E2%80%A2%20Backend%20Systems%20%E2%80%A2%20Applied%20AI%20%E2%80%A2%20Cybersecurity&descAlignY=58&descSize=16&animation=fadeIn"/>
 
 ### PDICMS Intern @ Deloitte India · Former ML Intern @ DRDO CAIR · Former Java Developer @ Cognifyz
 
-I build **backend platforms, full-stack products, applied AI systems, and security-focused software**
-with an emphasis on **measurable performance, reliability, auditability, and production-minded engineering**.
+I build **backend platforms, full-stack products, applied AI systems and security-focused software**
+with an emphasis on **measurable performance, reliability, auditability and production-minded engineering**.
 
 <br>
 
@@ -61,17 +61,17 @@ alt="Profile Views"/>
 
 ## 👩‍💻 About Me
 
-I'm a software engineer interested in the intersection of **backend engineering, applied intelligence, and secure systems**.
+I'm a software engineer interested in the intersection of **backend engineering, applied intelligence and secure systems**.
 
 * 🏢 Building **backend and cloud-ready applications at Deloitte India**
-* 🛰️ Previously worked at **DRDO CAIR, Bengaluru** on LSTM/Kalman-based vessel forecasting, semantic retrieval, and RAG workflows
-* ⚙️ Building with **Java, Python, Spring Boot, FastAPI, React, PostgreSQL, MySQL, Redis, and Docker**
-* 🤖 Working across **RAG, LLM applications, multi-agent systems, Google ADK, MCP, Azure AI Foundry, ChromaDB, and forecasting**
-* 🔐 Exploring **threat intelligence, attack graphs, TLS/mTLS, X.509, RBAC, YARA, secure APIs, prompt-injection defence, and auditable AI**
-* 🧠 Strong foundations in **DSA, complexity analysis, OOP, DBMS, HLD, LLD, caching, API design, service decomposition, and automated testing**
+* 🛰️ Previously worked at **DRDO CAIR, Bengaluru** on LSTM/Kalman-based vessel forecasting, semantic retrieval and RAG workflows
+* ⚙️ Building with **Java, Python, Spring Boot, FastAPI, React, PostgreSQL, MySQL, Redis and Docker**
+* 🤖 Working across **RAG, LLM applications, multi-agent systems, Google ADK, MCP, Azure AI Foundry, ChromaDB and forecasting**
+* 🔐 Exploring **threat intelligence, attack graphs, TLS/mTLS, X.509, RBAC, YARA, secure APIs, prompt-injection defence and auditable AI**
+* 🧠 Strong foundations in **DSA, complexity analysis, OOP, DBMS, HLD, LLD, caching, API design, service decomposition and automated testing**
 * 📜 Filed Indian Patent Application **No. 202511108091 A** for intelligent real-time traffic signal management
 
-> **I like systems where performance can be measured, failures can be traced, decisions can be reviewed, and security is engineered into the architecture.**
+> **I like systems where performance can be measured, failures can be traced, decisions can be reviewed and security is engineered into the architecture.**
 
 ---
 
@@ -84,7 +84,7 @@ I'm a software engineer interested in the intersection of **backend engineering,
 
 ### 💻 Software Engineering
 
-Backend services, APIs, authentication, caching, database-backed applications, automated testing, and modular software architectures.
+Backend services, APIs, authentication, caching, database-backed applications, automated testing and modular software architectures.
 
 </td>
 
@@ -92,7 +92,7 @@ Backend services, APIs, authentication, caching, database-backed applications, a
 
 ### 🌐 Full-Stack Development
 
-Applications using React with Spring Boot, FastAPI, Node.js, relational databases, and secure user workflows.
+Applications using React with Spring Boot, FastAPI, Node.js, relational databases and secure user workflows.
 
 </td>
 
@@ -100,7 +100,7 @@ Applications using React with Spring Boot, FastAPI, Node.js, relational database
 
 ### 🤖 AI & GenAI
 
-RAG pipelines, multi-agent systems, semantic retrieval, forecasting, evaluation, guardrails, and explainable AI workflows.
+RAG pipelines, multi-agent systems, semantic retrieval, forecasting, evaluation, guardrails and explainable AI workflows.
 
 </td>
 
@@ -108,7 +108,7 @@ RAG pipelines, multi-agent systems, semantic retrieval, forecasting, evaluation,
 
 ### 🔐 Cybersecurity
 
-Threat intelligence, secure APIs, attack graphs, TLS/mTLS, RBAC, vulnerability analysis, prompt-injection defence, and auditability.
+Threat intelligence, secure APIs, attack graphs, TLS/mTLS, RBAC, vulnerability analysis, prompt-injection defence and auditability.
 
 </td>
 
@@ -187,7 +187,7 @@ Projects recognized through national AI and technology hackathons.
 
 **Business Identity Intelligence Platform**
 
-A solo-built identity intelligence platform centered on **evidence-backed verification, confidence scoring, explainability, and auditability**.
+A solo-built identity intelligence platform centered on **evidence-backed verification, confidence scoring, explainability and auditability**.
 
 **Highlights**
 
@@ -224,7 +224,7 @@ A solo-built identity intelligence platform centered on **evidence-backed verifi
 
 **Multi-Agent Clinical Intelligence Platform**
 
-An applied GenAI platform exploring **coordinated agents, transparent outputs, explainability, and guardrail-oriented clinical intelligence**.
+An applied GenAI platform exploring **coordinated agents, transparent outputs, explainability and guardrail-oriented clinical intelligence**.
 
 **Highlights**
 
@@ -259,7 +259,7 @@ An applied GenAI platform exploring **coordinated agents, transparent outputs, e
 
 ## 🚀 Selected Engineering Systems
 
-Projects where I focused on **architecture, measurable performance, reliability, security, and applied intelligence**.
+Projects where I focused on **architecture, measurable performance, reliability, security and applied intelligence**.
 
 <table>
 
@@ -271,7 +271,7 @@ Projects where I focused on **architecture, measurable performance, reliability,
 
 **Multi-Service SOC Threat Intelligence Platform**
 
-A security operations platform connecting **detection, investigation, attack-graph analysis, threat intelligence, and analyst-governed response**.
+A security operations platform connecting **detection, investigation, attack-graph analysis, threat intelligence and analyst-governed response**.
 
 **Engineering Highlights**
 
@@ -279,7 +279,7 @@ A security operations platform connecting **detection, investigation, attack-gra
 * Cut median graph-analysis latency by approximately **99.97% — 2.46 s → 0.83 ms**
 * Benchmarked on a **2,500-node / 10,000-edge synthetic attack graph**
 * Maintained **140 passing automated tests**
-* Integrated **YARA, SSL/WHOIS analysis, reputation checks, and MITRE ATT&CK mapping**
+* Integrated **YARA, SSL/WHOIS analysis, reputation checks and MITRE ATT&CK mapping**
 * Added authenticated REST APIs and real-time **WebSocket updates**
 * Implemented analyst-approved remediation and **hash-chained audit logging**
 
@@ -311,7 +311,7 @@ An evidence-first AI platform designed so that **agent recommendations cannot si
 **Engineering Highlights**
 
 * Orchestrated a **four-agent pipeline using Google ADK**
-* Separated evidence extraction, security analysis, policy enforcement, and decision generation
+* Separated evidence extraction, security analysis, policy enforcement and decision generation
 * Enforced policy through **Model Context Protocol**
 * Required explicit **human authorization for high-risk outcomes**
 * Preserved structured per-assessment audit trails
@@ -346,7 +346,7 @@ An evidence-first AI platform designed so that **agent recommendations cannot si
 
 **Secure Adaptive Multi-Agent Traffic Control**
 
-A traffic-control system combining **adaptive signal coordination, predictive modelling, emergency prioritization, and authenticated inter-agent communication**.
+A traffic-control system combining **adaptive signal coordination, predictive modelling, emergency prioritization and authenticated inter-agent communication**.
 
 **Engineering Highlights**
 
@@ -362,7 +362,7 @@ A traffic-control system combining **adaptive signal coordination, predictive mo
 
 **Intellectual Property**
 
-📜 [**Indian Patent Application No. 202511108091 A — View Patent**](https://drive.google.com/file/d/1QSSDN_fmPc41MEugw1atImfDk9ymtrHb/view?usp=sharing)
+📜 [**Indian Patent Application No. 202511108091 A: View Patent**](https://drive.google.com/file/d/1QSSDN_fmPc41MEugw1atImfDk9ymtrHb/view?usp=sharing)
 
 **Stack**
 
@@ -387,13 +387,13 @@ A traffic-control system combining **adaptive signal coordination, predictive mo
 
 **Secure Event Lifecycle Management Platform**
 
-A modular full-stack application built around **event creation, booking, authentication, authorization, validation, and capacity management**.
+A modular full-stack application built around **event creation, booking, authentication, authorization, validation and capacity management**.
 
 **Engineering Highlights**
 
 * Engineered **26 REST endpoints across 6 modules**
 * Implemented centralized API failure handling
-* Secured workflows using **JWT, BCrypt, and RBAC**
+* Secured workflows using **JWT, BCrypt and RBAC**
 * Added DTO validation and structured HTTP error responses
 * Implemented seat-capacity and cancellation-restoration logic
 * Verified core behaviour with **JUnit + Mockito**
@@ -420,7 +420,7 @@ A modular full-stack application built around **event creation, booking, authent
 
 ## 📌 More Projects
 
-Additional projects spanning **agentic AI, JavaScript full-stack development, collaboration platforms, and enterprise AI systems**.
+Additional projects spanning **agentic AI, JavaScript full-stack development, collaboration platforms and enterprise AI systems**.
 
 <table>
 
@@ -437,7 +437,7 @@ A production-oriented **five-agent learning and certification system** built aro
 **Highlights**
 
 * Coordinates **5 specialized reasoning agents**
-* Integrates **Foundry IQ, Fabric IQ, and Work IQ**
+* Integrates **Foundry IQ, Fabric IQ and Work IQ**
 * Generates role-aligned certification learning paths
 * Creates work-aware study schedules
 * Runs grounded assessments with citations
@@ -471,7 +471,7 @@ A production-oriented **five-agent learning and certification system** built aro
 
 **Peer-to-Peer Skill Exchange Platform**
 
-A full-stack platform designed to help users **discover, offer, and exchange skills through authenticated peer interactions**.
+A full-stack platform designed to help users **discover, offer and exchange skills through authenticated peer interactions**.
 
 **Highlights**
 
@@ -504,14 +504,14 @@ A full-stack platform designed to help users **discover, offer, and exchange ski
 
 ## 🏢 Engineering Experience
 
-Industry experience across **backend platform engineering, machine learning, retrieval systems, networking, concurrency, and application development**.
+Industry experience across **backend platform engineering, machine learning, retrieval systems, networking, concurrency and application development**.
 
 ---
 
-### 🟢 Deloitte India
+### 🟢 Deloitte India, Noida, Uttar Pradesh
 
 **Platform Development Integration & Cloud Management Services Intern**
-*Jan 2026 — Present*
+*(Virtual: Jan – Jun 2026; Onsite: Jun 2026 – Present)*
 
 `Backend Engineering` · `API Architecture` · `Full-Stack` · `Testing` · `Docker`
 
@@ -523,7 +523,7 @@ Built **EventZen**, independently taking a Spring Boot/React/MySQL event-managem
 * 🏅 Earned a **97/100 mentor evaluation**
 * 🧩 Standardized API failure handling through a centralized `GlobalExceptionHandler`
 * ✅ Added DTO-based validation with structured **400 / 401 / 403 / 404 / 409** responses
-* 🔐 Secured application workflows using **JWT, BCrypt, and RBAC**
+* 🔐 Secured application workflows using **JWT, BCrypt and RBAC**
 * 🎟️ Implemented seat-capacity protection and cancellation-restoration logic
 * 🧪 Verified core behaviour through **8 JUnit/Mockito tests**
 * 🐳 Packaged the platform as a **three-service Docker Compose deployment**
@@ -541,7 +541,7 @@ Built **EventZen**, independently taking a Spring Boot/React/MySQL event-managem
 
 ---
 
-### 🛰️ DRDO — CAIR, Bengaluru
+### 🛰️ DRDO: CAIR, Bengaluru, Karnataka, (Remote)
 
 **Machine Learning Intern**
 *Jun 2025 — Jul 2025*
@@ -566,24 +566,24 @@ Worked on maritime intelligence using AIS trajectories, connecting **predictive 
 `Python` `LSTM` `Kalman Filters` `SentenceTransformers`
 `ChromaDB` `Mistral` `Ollama` `RAG`
 
-> 🔒 Only non-confidential technical scope is described. Proprietary datasets, restricted code, and confidential implementation details are not published.
+> 🔒 Only non-confidential technical scope is described. Proprietary datasets, restricted code and confidential implementation details are not published.
 
 ---
 
-### 🔵 Cognifyz Technologies
+### 🔵 Cognifyz Technologies (Remote)
 
 **Java Development Intern**
 
 `Core Java` · `OOP` · `Networking` · `Concurrency` · `Desktop Development`
 
-Completed a progressive Java engineering portfolio moving from programming fundamentals into **networked, concurrent, file-based, security-oriented, and desktop applications**.
+Completed a progressive Java engineering portfolio moving from programming fundamentals into **networked, concurrent, file-based, security-oriented and desktop applications**.
 
 **Key Engineering Work**
 
 * 🌐 Built a **TCP client-server chat application using Java sockets**
-* 🧵 Implemented concurrent workflows using `Thread`, `Runnable`, and synchronization
+* 🧵 Implemented concurrent workflows using `Thread`, `Runnable` and synchronization
 * 🖥️ Developed a lightweight **Java Swing Notepad**
-* 📁 Built file reading, writing, encryption, and decryption workflows
+* 📁 Built file reading, writing, encryption and decryption workflows
 * 🔑 Implemented password generation and password-strength validation
 * 🏦 Created an object-oriented bank-account simulation
 * 🎮 Developed Tic-Tac-Toe with board-state management and validation
@@ -690,7 +690,7 @@ I'm interested in opportunities across:
 
 <br>
 
-**⚡ Building software that is intelligent enough to help, engineered enough to scale, and secure enough to trust.**
+**⚡ Building software that is intelligent enough to help, engineered enough to scale and secure enough to trust.**
 
 </div>
 
