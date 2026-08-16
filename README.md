@@ -639,7 +639,7 @@ alt="Contribution Activity"/>
 I'm interested in opportunities across:
 
 **Software Engineering · Backend Engineering · Full-Stack Engineering · Platform Engineering**
-**Applied AI · AI/ML Engineering · GenAI · Cybersecurity Engineering**
+**Applied AI · AI/ML Engineering · Cybersecurity Engineering**
 
 <br>
 
