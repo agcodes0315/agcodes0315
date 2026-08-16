@@ -1,155 +1,227 @@
-# Agrima Saxena
+<h1 align="center">Hi, I'm Agrima Saxena 👋</h1>
 
-📧 [agrimalc@gmail.com](mailto:agrimalc@gmail.com) · 💼 [LinkedIn](https://www.linkedin.com/in/agrima-saxena-142960426/) · 💻 [GitHub](https://github.com/agrima08s010315)
+<h3 align="center">Software Engineer | Applied AI & GenAI | Full-Stack Development | Secure Systems</h3>
 
-[About](#about-me) · [What I Build](#what-i-build) · [Stack](#core-stack) · [Featured Work](#featured-work) · [Projects](#more-projects) · [Experience](#experience) · [Recognition](#recognition) · [Connect](#connect-with-me)
-
----
-
-## About Me
-
-I work across **software engineering, full-stack development, applied AI, and security-focused systems**, with an emphasis on reliability, explainability and practical impact.
-
-- Building platform engineering and cloud-ready systems at **Deloitte India**
-- Previously developed **vessel trajectory forecasting and RAG workflows** at **DRDO, Bengaluru**
-- Former **Java Developer at Cognifyz Technologies**
-- Working with **Java, Python, Spring Boot, FastAPI, React, SQL, Docker, LLMs and multi-agent systems**
-- Interested in **backend engineering, distributed systems, responsible AI, cybersecurity and cloud platforms**
-- Filed Indian Patent Application **No. 202511108091 A**
-- Open to roles in **Software Engineering, Full-Stack Development, Backend Engineering, AI/ML, GenAI and Cybersecurity**
-
-> I am particularly interested in systems where outputs are traceable, testable, secure and reviewable.
+<p align="center">
+  <a href="https://www.linkedin.com/in/agrima-saxena-142960426/">LinkedIn</a> •
+  <a href="mailto:agrimalc@gmail.com">Email</a> •
+  <a href="https://github.com/agrima08s010315">GitHub</a>
+</p>
 
 ---
 
-## What I Build
+### 🧑‍💻 About Me
 
-### 💻 Software Engineering
-I design backend services, APIs, authentication workflows, database-backed applications, and modular software architectures with clean service boundaries.
+* 💻 Building **software platforms and cloud-ready systems at Deloitte India**
+* 🧠 Previously worked on **vessel trajectory forecasting, LSTM/Kalman pipelines & RAG systems at DRDO, Bengaluru**
+* 🔐 Building across **software engineering, applied AI, GenAI, cybersecurity and full-stack systems**
+* ⚙️ Working with **Java, Python, Spring Boot, FastAPI, React, SQL, Docker, LLMs & multi-agent systems**
+* 📜 Filed Indian Patent Application **No. 202511108091 A**
+* 🚀 Interested in **backend engineering, distributed systems, responsible AI, cloud platforms and secure software**
 
-### 🌐 Full-Stack Development
-I build responsive React applications supported by Spring Boot, FastAPI, Node.js, SQL databases, and secure user workflows.
-
-### 🤖 AI and GenAI
-I develop RAG pipelines, multi-agent systems, forecasting workflows, vector retrieval systems, evaluation pipelines and explainable AI applications.
-
-### 🔐 Cybersecurity
-I work on phishing detection, threat intelligence, secure APIs, TLS-based communication, RBAC, prompt-injection defence and vulnerability analysis.
+> Building systems that are not only intelligent — but also traceable, testable, secure and reviewable.
 
 ---
 
-## Core Stack
+<table>
+  <tr>
+    <td width="50%" valign="top" align="center">
 
-**Languages**
-`Java` `Python` `C` `JavaScript` `TypeScript` `SQL`
+<h3>🛠️ Tech Arsenal</h3>
 
-**Backend and APIs**
-`Spring Boot` `FastAPI` `Node.js` `Express.js` `REST APIs` `JWT` `WebSockets`
+<img src="https://skillicons.dev/icons?i=java,python,c,js,ts,react,nodejs,spring,fastapi,mysql,postgres,mongodb,docker,git,github,linux"/>
 
-**Frontend**
-`React.js` `HTML5` `CSS3` `Tailwind CSS` `Streamlit`
+<br><br>
 
-**Databases and Retrieval**
-`MySQL` `PostgreSQL` `MongoDB` `SQLite` `ChromaDB` `Vector Search`
+<b>AI & Agentic Systems</b><br>
+RAG • LLM Applications • Google ADK • MCP<br>
+Multi-Agent Systems • LSTM • NLP • ChromaDB
 
-**AI and Agentic Systems**
-`Google ADK` `Model Context Protocol` `RAG` `LLM Applications` `Multi-Agent Systems` `LSTM` `Kalman Filters` `scikit-learn` `NLP`
+<br><br>
 
-**Cloud, DevOps, and Tooling**
-`Docker` `GitHub Actions` `Firebase Hosting` `Render` `Nginx` `Swagger` `Git` `Cloud Run-ready Deployments`
+<b>Security & Cloud</b><br>
+TLS/SSL • RBAC • Secure APIs • Nmap<br>
+Firebase • Render • Azure Static Web Apps • GitHub Actions
 
-**Security**
-`TLS/SSL` `RBAC` `Prompt-Injection Defence` `Vulnerability Assessment` `Nmap` `Secure API Design`
+</td>
+
+<td width="50%" valign="top" align="center">
+
+<h3>📌 Featured Project</h3>
+
+🛡️ <a href="https://github.com/agrima08s010315/vendorguard-ai"><strong>VendorGuard AI</strong></a>
+
+<br>
+
+<em>Human-governed multi-agent vendor risk assessment platform built around evidence-first AI decisions.</em>
+
+<br><br>
+
+🤖 Four specialized agents using <b>Google ADK</b><br>
+🔗 Policy validation through <b>Model Context Protocol</b><br>
+🛡️ Prompt-injection & contradictory-evidence defence<br>
+👤 Human-in-the-loop approval gates<br>
+📋 Structured decision audit trails<br>
+⚡ FastAPI + React + Docker architecture
+
+<br><br>
+
+<a href="https://vendorguard-web.web.app/"><strong>Live Demo →</strong></a>
+
+</td>
+  </tr>
+</table>
 
 ---
 
-## Featured Work
+### 🚀 Featured Work
 
-### 🛡️ [VendorGuard AI](https://github.com/agrima08s010315/vendorguard-ai)
-**Human-Governed Multi-Agent Vendor Risk Platform**
+<table>
+<tr>
+<td width="50%" valign="top">
 
-An evidence-first vendor assessment system designed to prevent manipulated, contradictory, or unsupported agent outputs from becoming final business decisions.
+#### 🚦 MARL Traffic Management
 
-**Highlights**
-- Four specialized agents built with **Google ADK**
-- Policy checks through **Model Context Protocol**
-- Prompt-injection defence and contradictory-evidence handling
-- Human-in-the-loop approval gate
-- Structured decision audit trails
-- Deterministic and semantic evaluation workflows
-- Deployed using **React, FastAPI, Firebase, Render and Docker**
-
-**Stack**: `Python` `FastAPI` `React` `Google ADK` `MCP` `Docker`
-**Live demo**: [vendorguard-web.web.app](https://vendorguard-web.web.app/)
-
-### 🚦 [MARL Traffic Management](https://github.com/agrima08s010315/MARL-Driven-Real-Time-Traffic-Management-System)
 **Secure Adaptive Traffic Signal Control**
 
-A multi-agent reinforcement learning system that adapts traffic signal timing using congestion conditions and emergency vehicle presence.
+Multi-agent traffic management system designed to dynamically optimize signals using congestion data and emergency-vehicle priority.
 
-**Highlights**
-- Simulated with **SUMO and Python/TraCI**
-- YOLO-based vehicle detection
-- Dynamic emergency vehicle prioritization
-- **17%** higher throughput · **85%** lower waiting time · **50%** fewer queued vehicles · **25%** lower fuel consumption
-- Secured communication using **TLS 1.3, digital signatures and SHA-256**
+* SUMO + Python/TraCI simulation
+* YOLO-based vehicle detection
+* Emergency vehicle prioritization
+* TLS 1.3 secured communication
+* Digital signatures + SHA-256
+* Filed Indian Patent Application **No. 202511108091 A**
 
-**Stack**: `Python` `MARL` `SUMO` `TraCI` `YOLO` `OpenSSL`
+**Tech:** `Python` `MARL` `SUMO` `TraCI` `YOLO` `OpenSSL`
+
+[Repository](https://github.com/agrima08s010315/MARL-Driven-Real-Time-Traffic-Management-System)
+
+</td>
+
+<td width="50%" valign="top">
+
+#### 🔐 CyberShield
+
+**Security Operations & Threat Intelligence Platform**
+
+Cybersecurity platform focused on threat intelligence, phishing detection, vulnerability analysis and real-time security monitoring.
+
+* Threat intelligence workflows
+* ML-based phishing detection
+* Vulnerability assessment
+* Security monitoring dashboard
+* Real-time alerts using WebSockets
+
+**Tech:** `React` `Node.js` `Express.js` `Python` `scikit-learn` `WebSockets`
+
+[Repository](https://github.com/agrima08s010315/cybershield-project) • [Live Demo](https://mango-pebble-099d8de00.7.azurestaticapps.net/)
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+#### 🪪 TrustID
+
+**Business Identity Intelligence Platform**
+
+Identity-resolution system for evaluating business identities using confidence scoring, evidence-backed verification and auditability.
+
+* Business identity resolution
+* Confidence scoring
+* Evidence-backed verification
+* Explainable decision workflows
+* Auditable results
+
+**Tech:** `React` `Node.js` `SQLite`
+
+[Repository](https://github.com/agrima08s010315/TrustID-UBID-Intelligence) • [Live Demo](https://trust-id-ubid-intelligence.vercel.app/)
+
+</td>
+
+<td width="50%" valign="top">
+
+#### 🧠 GenAI Atlas
+
+**Multi-Agent Clinical Intelligence**
+
+Explainable GenAI system designed to coordinate multiple AI agents while preserving transparent reasoning and guardrails.
+
+* Multi-agent workflows
+* Explainable AI responses
+* LLM-based clinical intelligence
+* Guardrail-driven outputs
+* Interactive Streamlit interface
+
+**Tech:** `Python` `Streamlit` `Llama 3`
+
+[Repository](https://github.com/agrima08s010315/genai-clinical-intelligence)
+
+</td>
+</tr>
+</table>
 
 ---
 
-## More Projects
+### 💼 Experience
 
-| Project | Focus | Stack | Links |
-|---|---|---|---|
-| [CyberShield](https://github.com/agrima08s010315/cybershield-project) | Threat intelligence, phishing detection, vulnerability analysis and real-time alerts | React, Node.js, Express.js, Python, scikit-learn, WebSockets | [Repo](https://github.com/agrima08s010315/cybershield-project) · [Demo](https://mango-pebble-099d8de00.7.azurestaticapps.net/) |
-| [TrustID](https://github.com/agrima08s010315/TrustID-UBID-Intelligence) | Business identity resolution, confidence scoring and auditability | React, Node.js, SQLite | [Repo](https://github.com/agrima08s010315/TrustID-UBID-Intelligence) · [Demo](https://trust-id-ubid-intelligence.vercel.app/) |
-| [GenAI Atlas](https://github.com/agrima08s010315/genai-clinical-intelligence) | Multi-agent clinical intelligence with explainable guardrails | Python, Streamlit, Llama 3 | [Repo](https://github.com/agrima08s010315/genai-clinical-intelligence) |
-| [SkillSwap](https://github.com/aevor-labs/SkillSwap) | Peer-to-peer skill exchange platform | React, Node.js, Express.js, MongoDB, JWT | [Repo](https://github.com/aevor-labs/SkillSwap) |
+#### Deloitte India — PDICMS Intern
+
+Built **EventZen**, an event lifecycle management platform with modular backend services and secure booking workflows.
+
+* Developed **20+ REST APIs across 7 modular services**
+* Implemented **JWT authentication and RBAC**
+* Added validation and overbooking-prevention logic
+* Built using **Spring Boot, React, MySQL and Docker**
+
+[View EventZen](https://github.com/agrima08s010315/eventzen-event-management-system)
 
 ---
 
-## Experience
+#### DRDO, Bengaluru — Machine Learning Intern
 
-### Deloitte India | PDICMS Intern
-Built **EventZen**, an event lifecycle management system with modular services and secure booking workflows.
-- Developed **20+ REST APIs** across **7 modular services**
-- Implemented JWT authentication and RBAC
-- Added validation and overbooking prevention
-- Built using **Spring Boot, React, MySQL and Docker**
-
-[View EventZen Repository](https://github.com/agrima08s010315/eventzen-event-management-system)
-
-### DRDO, Bengaluru | Machine Learning Intern
 Worked on maritime intelligence using AIS sensor data.
-- Built vessel trajectory forecasting with **Kalman Filters and LSTM**
-- Generated **24 to 72 hour prediction horizons**
-- Integrated **ChromaDB and Mistral LLM**
-- Built a RAG-based natural-language query layer over prediction outputs
 
-> A sanitized public reproduction is planned using non-confidential data and independently recreated code.
+* Built vessel trajectory forecasting using **Kalman Filters and LSTM**
+* Generated **24–72 hour prediction horizons**
+* Integrated **ChromaDB with Mistral LLM**
+* Developed a **RAG-based natural-language query layer** over prediction outputs
 
-### Cognifyz Technologies | Java Developer
-Worked on Java-based development tasks focused on strengthening object-oriented programming, application logic and software development fundamentals.
-
-[View Cognifyz Repository](https://github.com/agrima08s010315/cognifyz)
+> Public work excludes confidential DRDO data and proprietary implementation details.
 
 ---
 
-## Recognition
+#### Cognifyz Technologies — Java Developer
 
-| Recognition | Project |
-|---|---|
-| Indian Patent Application **No. 202511108091 A** | MARL-driven traffic signal management |
-| **Semi-Finalist**, The Economic Times AI Hackathon 2026 | [GenAI Atlas](https://github.com/agrima08s010315/genai-clinical-intelligence) |
-| **Top 50 National Finalist**, AI for Bharat Hackathon 2026 | [TrustID](https://github.com/agrima08s010315/TrustID-UBID-Intelligence) |
-| Kaggle x Google AI Agents Intensive Capstone | [VendorGuard AI](https://github.com/agrima08s010315/vendorguard-ai) |
+Worked on Java application development focused on **object-oriented programming, reusable software design and application logic**.
+
+[View Repository](https://github.com/agrima08s010315/cognifyz)
 
 ---
 
-## Connect With Me
+### 🏆 Recognition
 
-**Open to opportunities in**
-Software Engineering · Full-Stack Development · Backend Engineering · AI/ML Engineering · GenAI Engineering · Cybersecurity Engineering
+* 📜 Indian Patent Application **No. 202511108091 A** — MARL-driven traffic signal management
+* 🥈 **Semi-Finalist — The Economic Times AI Hackathon 2026** — GenAI Atlas
+* 🏅 **Top 50 National Finalist — AI for Bharat Hackathon 2026** — TrustID
+* 🤖 **Kaggle × Google AI Agents Intensive Capstone** — VendorGuard AI
 
-**Software Engineering · Applied AI · Secure Systems**
+---
+
+### 📫 Let's Connect!
+
+* 🌐 [LinkedIn](https://www.linkedin.com/in/agrima-saxena-142960426/)
+* 📩 [agrimalc@gmail.com](mailto:agrimalc@gmail.com)
+* 💻 [GitHub](https://github.com/agrima08s010315)
+
+---
+
+<p align="center">
+  <b>Software Engineering • Applied AI • GenAI • Secure Systems</b>
+</p>
+
+<p align="center">
+  <i>⚡ Building software that thinks, scales, and remains accountable.</i>
+</p>
