@@ -40,7 +40,7 @@ with an emphasis on **measurable performance, reliability, auditability and prod
 </td>
 
 <td align="center" width="80">
-<a href="https://github.com/agrima08s010315" title="GitHub">
+<a href="https://github.com/agcodes0315" title="GitHub">
 <img src="https://img.icons8.com/ios-glyphs/48/ffffff/github.png"
      width="36"
      height="36"
@@ -52,7 +52,7 @@ with an emphasis on **measurable performance, reliability, auditability and prod
 </table>
 
 <img
-src="https://komarev.com/ghpvc/?username=agrima08s010315&label=Profile%20Views&color=2563EB&style=flat-square"
+src="https://komarev.com/ghpvc/?username=agcodes0315&label=Profile%20Views&color=2563EB&style=flat-square"
 alt="Profile Views"/>
 
 </div>
@@ -208,7 +208,7 @@ A solo-built identity intelligence platform centered on **evidence-backed verifi
 
 <br>
 
-<a href="https://github.com/agrima08s010315/TrustID-UBID-Intelligence">
+<a href="https://github.com/agcodes0315/TrustID-UBID-Intelligence">
 <img src="https://img.shields.io/badge/Source-GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
 </a>
 
@@ -246,7 +246,7 @@ An applied GenAI platform exploring **coordinated agents, transparent outputs, e
 
 <br>
 
-<a href="https://github.com/agrima08s010315/genai-clinical-intelligence">
+<a href="https://github.com/agcodes0315/genai-clinical-intelligence">
 <img src="https://img.shields.io/badge/Source-GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
 </a>
 
@@ -290,7 +290,7 @@ A security operations platform connecting **detection, investigation, attack-gra
 
 <br>
 
-<a href="https://github.com/agrima08s010315/cybershield-project">
+<a href="https://github.com/agcodes0315/cybershield-project">
 <img src="https://img.shields.io/badge/Source-GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
 </a>
 
@@ -326,7 +326,7 @@ An evidence-first AI platform designed so that **agent recommendations cannot si
 
 <br>
 
-<a href="https://github.com/agrima08s010315/vendorguard-ai">
+<a href="https://github.com/agcodes0315/vendorguard-ai">
 <img src="https://img.shields.io/badge/Source-GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
 </a>
 
@@ -371,7 +371,7 @@ A traffic-control system combining **adaptive signal coordination, predictive mo
 
 <br>
 
-<a href="https://github.com/agrima08s010315/MARL-Driven-Real-Time-Traffic-Management-System">
+<a href="https://github.com/agcodes0315/MARL-Driven-Real-Time-Traffic-Management-System">
 <img src="https://img.shields.io/badge/Source-GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
 </a>
 
@@ -406,7 +406,7 @@ A modular full-stack application built around **event creation, booking, authent
 
 <br>
 
-<a href="https://github.com/agrima08s010315/eventzen-event-management-system">
+<a href="https://github.com/agcodes0315/eventzen-event-management-system">
 <img src="https://img.shields.io/badge/Source-GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
 </a>
 
@@ -459,7 +459,7 @@ A production-oriented **five-agent learning and certification system** built aro
 
 <br>
 
-<a href="https://github.com/agrima08s010315/agents-league-reasoning-agent">
+<a href="https://github.com/agcodes0315/agents-league-reasoning-agent">
 <img src="https://img.shields.io/badge/Source-GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
 </a>
 
@@ -490,7 +490,7 @@ A full-stack platform designed to help users **discover, offer and exchange skil
 
 <br>
 
-<a href="https://github.com/agrima08s010315/SkillSwap">
+<a href="https://github.com/agcodes0315/SkillSwap">
 <img src="https://img.shields.io/badge/Source-GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
 </a>
 
@@ -535,7 +535,7 @@ Built **EventZen**, independently taking a Spring Boot/React/MySQL event-managem
 
 <br>
 
-<a href="https://github.com/agrima08s010315/eventzen-event-management-system">
+<a href="https://github.com/agcodes0315/eventzen-event-management-system">
 <img src="https://img.shields.io/badge/Project-Explore%20EventZen-181717?style=flat-square&logo=github&logoColor=white"/>
 </a>
 
@@ -596,7 +596,7 @@ Completed a progressive Java engineering portfolio moving from programming funda
 
 <br>
 
-<a href="https://github.com/agrima08s010315/cognifyz">
+<a href="https://github.com/agcodes0315/cognifyz">
 <img src="https://img.shields.io/badge/Portfolio-Explore%20Java%20Work-181717?style=flat-square&logo=github&logoColor=white"/>
 </a>
 
@@ -606,11 +606,11 @@ Completed a progressive Java engineering portfolio moving from programming funda
 
 | Achievement                                                                                                                               | Related Work                                                                                                                   |
 | ----------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------ |
-| 📜 **[Indian Patent Application No. 202511108091 A](https://drive.google.com/file/d/1QSSDN_fmPc41MEugw1atImfDk9ymtrHb/view?usp=sharing)** | [MARL-Driven Real-Time Traffic Management](https://github.com/agrima08s010315/MARL-Driven-Real-Time-Traffic-Management-System) |
-| 🥈 **Semi-Finalist — The Economic Times AI Hackathon 2026**                                                                               | [GenAI Atlas](https://github.com/agrima08s010315/genai-clinical-intelligence)                                                  |
-| 🏅 **Top 50 National Finalist — AI for Bharat Hackathon 2026**                                                                            | [TrustID](https://github.com/agrima08s010315/TrustID-UBID-Intelligence)                                                        |
-| 🤖 **Google AI Agents Intensive Capstone**                                                                                                | [VendorGuard AI](https://github.com/agrima08s010315/vendorguard-ai)                                                            |
-| 🧠 **Microsoft Agents League 2026 — Reasoning Agents Track**                                                                              | [Enterprise Learning & Certification Management](https://github.com/agrima08s010315/agents-league-reasoning-agent)             |
+| 📜 **[Indian Patent Application No. 202511108091 A](https://drive.google.com/file/d/1QSSDN_fmPc41MEugw1atImfDk9ymtrHb/view?usp=sharing)** | [MARL-Driven Real-Time Traffic Management](https://github.com/agcodes0315/MARL-Driven-Real-Time-Traffic-Management-System) |
+| 🥈 **Semi-Finalist — The Economic Times AI Hackathon 2026**                                                                               | [GenAI Atlas](https://github.com/agcodes0315/genai-clinical-intelligence)                                                  |
+| 🏅 **Top 50 National Finalist — AI for Bharat Hackathon 2026**                                                                            | [TrustID](https://github.com/agcodes0315/TrustID-UBID-Intelligence)                                                        |
+| 🤖 **Google AI Agents Intensive Capstone**                                                                                                | [VendorGuard AI](https://github.com/agcodes0315/vendorguard-ai)                                                            |
+| 🧠 **Microsoft Agents League 2026 — Reasoning Agents Track**                                                                              | [Enterprise Learning & Certification Management](https://github.com/agcodes0315/agents-league-reasoning-agent)             |
 
 ---
 
@@ -619,14 +619,26 @@ Completed a progressive Java engineering portfolio moving from programming funda
 <div align="center">
 
 <img
-src="https://streak-stats.demolab.com/?user=agrima08s010315&hide_border=true&background=00000000&ring=2563EB&fire=2563EB&currStreakNum=2563EB&currStreakLabel=2563EB&sideNums=2563EB&sideLabels=8B8B8B&dates=8B8B8B&stroke=2563EB"
+src="https://github-readme-stats.vercel.app/api?username=agcodes0315&hide_border=true&background=00000000&title_color=2563EB&icon_color=2563EB&text_color=8B8B8B&count_private=true&show_icons=true"
+height="165"
+alt="GitHub Stats"/>
+
+<img
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=agcodes0315&hide_border=true&background=00000000&title_color=2563EB&text_color=8B8B8B&layout=compact"
+height="165"
+alt="Top Languages"/>
+
+<br><br>
+
+<img
+src="https://streak-stats.demolab.com/?user=agcodes0315&hide_border=true&background=00000000&ring=2563EB&fire=2563EB&currStreakNum=2563EB&currStreakLabel=2563EB&sideNums=2563EB&sideLabels=8B8B8B&dates=8B8B8B&stroke=2563EB"
 height="150"
 alt="GitHub Streak"/>
 
 <br><br>
 
 <img
-src="https://github-readme-activity-graph.vercel.app/graph?username=agrima08s010315&area=true&hide_border=true&radius=12&theme=github-dark-dimmed&custom_title=Contribution%20Activity"
+src="https://github-readme-activity-graph.vercel.app/graph?username=agcodes0315&area=true&hide_border=true&radius=12&theme=github-dark-dimmed&custom_title=Contribution%20Activity"
 width="80%"
 alt="Contribution Activity"/>
 
@@ -669,7 +681,7 @@ I'm interested in opportunities across:
 </td>
 
 <td align="center" width="90">
-<a href="https://github.com/agrima08s010315" title="GitHub">
+<a href="https://github.com/agcodes0315" title="GitHub">
 <img src="https://img.icons8.com/ios-glyphs/48/ffffff/github.png"
      width="36"
      height="36"
