@@ -6,67 +6,66 @@
 
 <!-- ========================================================= -->
 
-<div align="center">
+<table>
+<tr>
 
-<img width="90%"
-src="https://capsule-render.vercel.app/api?type=waving&height=205&color=0:4338CA,45:2563EB,100:0369A1&text=Agrima%20Saxena&fontSize=52&fontColor=ffffff&fontAlignY=36&desc=Software%20Engineering%20%E2%80%A2%20Backend%20Systems%20%E2%80%A2%20Applied%20AI%20%E2%80%A2%20Cybersecurity&descAlignY=58&descSize=16&animation=fadeIn"/>
+<td width="55%" valign="middle">
 
-### PDICMS Intern @ Deloitte India · Former ML Intern @ DRDO CAIR · Former Java Developer @ Cognifyz
+# Hi, I'm Agrima Saxena 👋
 
-I build **backend platforms, full-stack products, applied AI systems and security-focused software**
-with an emphasis on **measurable performance, reliability, auditability and production-minded engineering**.
+### Software Engineering · Backend Systems · Applied AI · Cybersecurity
+
+I build **backend platforms, full-stack products, applied AI systems and security-focused software** with an emphasis on **measurable performance, reliability, auditability and production-minded engineering**.
 
 <br>
 
-<img
-src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"
-width="520"
-alt="Coding workspace animation"/>
+<a href="https://www.linkedin.com/in/agrima-saxena-142960426/">
+<img src="https://img.shields.io/badge/LinkedIn-Agrima%20Saxena-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:agrimalc@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact%20Me-A855F7?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/agcodes0315">
+<img src="https://img.shields.io/badge/GitHub-agcodes0315-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 <br><br>
 
-<table align="center">
-<tr>
+<img
+src="https://komarev.com/ghpvc/?username=agcodes0315&label=Profile%20Views&color=7C3AED&style=flat-square"
+alt="Profile Views"/>
 
-<td align="center" width="80">
-<a href="https://www.linkedin.com/in/agrima-saxena-142960426/" title="LinkedIn">
-<img src="https://img.icons8.com/color/48/linkedin.png"
-     width="36"
-     height="36"
-     alt="LinkedIn"/>
-</a>
 </td>
 
-<td align="center" width="80">
-<a href="mailto:agrimalc@gmail.com" title="Email">
-<img src="https://img.icons8.com/color/48/gmail-new.png"
-     width="36"
-     height="36"
-     alt="Gmail"/>
-</a>
-</td>
+<td width="45%" align="center" valign="middle">
 
-<td align="center" width="80">
-<a href="https://github.com/agcodes0315" title="GitHub">
-<img src="https://img.icons8.com/ios-glyphs/48/ffffff/github.png"
-     width="36"
-     height="36"
-     alt="GitHub"/>
-</a>
+<img
+src="https://private-user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3ODcwNTQ3OTQsIm5iZiI6MTc4NzA1NDQ5NCwicGF0aCI6Ii83NDAzODE5MC8yNDE3NjU0NDAtODA3Mjg4MjAtZTA2Yi00Zjk2LTljOWUtOWRmNDZmMGNjMGE1LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjA4MTglMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwODE4VDEyMDEzNFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWI5NmQ3M2UwMWJlNDQ0OGJhMjhhMTBiZjk4MzkyOTdlMTg1NmMzNDZmN2M2YTdiNDJmNGI2NDg1MWFjNzdhMTgmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JnJlc3BvbnNlLWNvbnRlbnQtdHlwZT1pbWFnZSUyRmdpZiJ9.73NtqcGYCb9_20MxdzNMWgh9cj69tYGXtHGzYplwwbw"
+width="100%"
+alt="Coding Laptop Animation"/>
+
 </td>
 
 </tr>
 </table>
 
-<img
-src="https://komarev.com/ghpvc/?username=agcodes0315&label=Profile%20Views&color=2563EB&style=flat-square"
-alt="Profile Views"/>
+<div align="center">
+
+<img width="100%"
+src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:4C1D95,45:7C3AED,100:A855F7&text=Building%20Systems%20That%20Think%2C%20Scale%20and%20Stay%20Secure&fontSize=24&fontColor=ffffff&fontAlignY=38&animation=fadeIn"/>
 
 </div>
 
 ---
 
 ## 👩‍💻 About Me
+
+<table>
+<tr>
+
+<td width="58%" valign="top">
 
 I'm a software engineer interested in the intersection of **backend engineering, applied intelligence and secure systems**.
 
@@ -78,7 +77,23 @@ I'm a software engineer interested in the intersection of **backend engineering,
 * 🧠 Strong foundations in **DSA, complexity analysis, OOP, DBMS, HLD, LLD, caching, API design, service decomposition and automated testing**
 * 📜 Filed Indian Patent Application **No. 202511108091 A** for intelligent real-time traffic signal management
 
+<br>
+
 > **I like systems where performance can be measured, failures can be traced, decisions can be reviewed and security is engineered into the architecture.**
+
+</td>
+
+<td width="42%" align="center" valign="middle">
+
+<img
+src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif"
+width="100%"
+alt="Girl Coding Animation"/>
+
+</td>
+
+</tr>
+</table>
 
 ---
 
@@ -183,8 +198,6 @@ Threat intelligence, secure APIs, attack graphs, TLS/mTLS, RBAC, vulnerability a
 
 ## 🏆 Featured Hackathon Work
 
-Projects recognized through national AI and technology hackathons.
-
 <table>
 <tr>
 
@@ -207,7 +220,7 @@ A solo-built identity intelligence platform centered on **evidence-backed verifi
 
 **Recognition**
 
-🏅 **Top 50 National Finalist — AI for Bharat Hackathon 2026**
+🏅 **Top 50 National Finalist · AI for Bharat Hackathon 2026**
 
 **Stack**
 
@@ -220,7 +233,7 @@ A solo-built identity intelligence platform centered on **evidence-backed verifi
 </a>
 
 <a href="https://trust-id-ubid-intelligence.vercel.app/">
-<img src="https://img.shields.io/badge/Live-TrustID-000000?style=flat-square&logo=vercel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Live-TrustID-7C3AED?style=flat-square&logo=vercel&logoColor=white"/>
 </a>
 
 </td>
@@ -244,7 +257,7 @@ An applied GenAI platform exploring **coordinated agents, transparent outputs, e
 
 **Recognition**
 
-🥈 **Semi-Finalist — The Economic Times AI Hackathon 2026**
+🥈 **Semi-Finalist · The Economic Times AI Hackathon 2026**
 
 **Stack**
 
@@ -269,7 +282,6 @@ An applied GenAI platform exploring **coordinated agents, transparent outputs, e
 Projects where I focused on **architecture, measurable performance, reliability, security and applied intelligence**.
 
 <table>
-
 <tr>
 
 <td width="50%" valign="top">
@@ -283,7 +295,7 @@ A security operations platform connecting **detection, investigation, attack-gra
 **Engineering Highlights**
 
 * Re-engineered critical-asset discovery using **single-source shortest-path traversal + hash-set lookups**
-* Cut median graph-analysis latency by approximately **99.97% — 2.46 s → 0.83 ms**
+* Cut median graph-analysis latency by approximately **99.97% · 2.46 s → 0.83 ms**
 * Benchmarked on a **2,500-node / 10,000-edge synthetic attack graph**
 * Maintained **140 passing automated tests**
 * Integrated **YARA, SSL/WHOIS analysis, reputation checks and MITRE ATT&CK mapping**
@@ -302,7 +314,7 @@ A security operations platform connecting **detection, investigation, attack-gra
 </a>
 
 <a href="https://mango-pebble-099d8de00.7.azurestaticapps.net/">
-<img src="https://img.shields.io/badge/Live-CyberShield-0078D4?style=flat-square&logo=microsoftazure&logoColor=white"/>
+<img src="https://img.shields.io/badge/Live-CyberShield-7C3AED?style=flat-square&logo=microsoftazure&logoColor=white"/>
 </a>
 
 </td>
@@ -338,7 +350,7 @@ An evidence-first AI platform designed so that **agent recommendations cannot si
 </a>
 
 <a href="https://vendorguard-web.web.app/">
-<img src="https://img.shields.io/badge/Live-VendorGuard-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
+<img src="https://img.shields.io/badge/Live-VendorGuard-A855F7?style=flat-square&logo=firebase&logoColor=white"/>
 </a>
 
 </td>
@@ -359,17 +371,17 @@ A traffic-control system combining **adaptive signal coordination, predictive mo
 
 * Designed an **LSTM-assisted multi-agent traffic controller** using SUMO/TraCI
 * Integrated dynamic emergency-vehicle prioritization
-* Reduced simulated waiting time by approximately **42% — 55 s → 32 s**
-* Reduced queue length by **50% — 30 → 15 vehicles**
-* Reduced simulated fuel use by **25% — 120 L → 90 L**
-* Increased throughput from **65% → 82%** against a rule-based baseline
+* Reduced simulated waiting time by approximately **42% · 55 s → 32 s**
+* Reduced queue length by **50% · 30 → 15 vehicles**
+* Reduced simulated fuel use by **25% · 120 L → 90 L**
+* Increased throughput from **65% → 82%**
 * Hardened communication using **TLS 1.3 mTLS**
 * Added **X.509 identity verification and RSA-PSS signatures**
 * Blocked **6 simulated attack classes across 17 security tests**
 
 **Intellectual Property**
 
-📜 [**Indian Patent Application No. 202511108091 A: View Patent**](https://drive.google.com/file/d/1QSSDN_fmPc41MEugw1atImfDk9ymtrHb/view?usp=sharing)
+📜 [**Indian Patent Application No. 202511108091 A · View Patent**](https://drive.google.com/file/d/1QSSDN_fmPc41MEugw1atImfDk9ymtrHb/view?usp=sharing)
 
 **Stack**
 
@@ -380,10 +392,6 @@ A traffic-control system combining **adaptive signal coordination, predictive mo
 
 <a href="https://github.com/agcodes0315/MARL-Driven-Real-Time-Traffic-Management-System">
 <img src="https://img.shields.io/badge/Source-GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://drive.google.com/file/d/1QSSDN_fmPc41MEugw1atImfDk9ymtrHb/view?usp=sharing">
-<img src="https://img.shields.io/badge/View-Patent-4285F4?style=flat-square&logo=googledrive&logoColor=white"/>
 </a>
 
 </td>
@@ -420,24 +428,20 @@ A modular full-stack application built around **event creation, booking, authent
 </td>
 
 </tr>
-
 </table>
 
 ---
 
 ## 📌 More Projects
 
-Additional projects spanning **agentic AI, JavaScript full-stack development, collaboration platforms and enterprise AI systems**.
-
 <table>
-
 <tr>
 
 <td width="50%" valign="top">
 
 ### 🧠 Enterprise Learning & Certification Management
 
-**Microsoft Agents League — Reasoning Agents Track**
+**Microsoft Agents League · Reasoning Agents Track**
 
 A production-oriented **five-agent learning and certification system** built around Microsoft Azure AI Foundry.
 
@@ -449,15 +453,8 @@ A production-oriented **five-agent learning and certification system** built aro
 * Creates work-aware study schedules
 * Runs grounded assessments with citations
 * Generates adaptive reminders and manager escalations
-* Derives agent confidence from **real execution evidence**
-* Records full decision traces and guardrail audits
+* Records decision traces and guardrail audits
 * Produces an interactive **Manager Insights dashboard**
-* Supports deterministic local demo execution
-
-**Responsible AI**
-
-`PII Detection` `Grounding` `Fairness Checks`
-`Synthetic Data Verification` `Escalation Audits`
 
 **Stack**
 
@@ -487,7 +484,7 @@ A full-stack platform designed to help users **discover, offer and exchange skil
 * Peer-to-peer exchange workflows
 * MongoDB-backed persistence
 * REST API architecture
-* JWT-secured user sessions
+* JWT-secured sessions
 * Responsive React interface
 
 **Stack**
@@ -504,21 +501,16 @@ A full-stack platform designed to help users **discover, offer and exchange skil
 </td>
 
 </tr>
-
 </table>
 
 ---
 
 ## 🏢 Engineering Experience
 
-Industry experience across **backend platform engineering, machine learning, retrieval systems, networking, concurrency and application development**.
-
----
-
-### 🟢 Deloitte India, Noida, Uttar Pradesh
+### 🟢 Deloitte India · Noida, Uttar Pradesh
 
 **Platform Development Integration & Cloud Management Services Intern**
-*(Virtual: Jan – Jun 2026; Onsite: Jun 2026 – Present)*
+*Virtual: Jan – Jun 2026 · Onsite: Jun 2026 – Present*
 
 `Backend Engineering` · `API Architecture` · `Full-Stack` · `Testing` · `Docker`
 
@@ -530,7 +522,7 @@ Built **EventZen**, independently taking a Spring Boot/React/MySQL event-managem
 * 🏅 Earned a **97/100 mentor evaluation**
 * 🧩 Standardized API failure handling through a centralized `GlobalExceptionHandler`
 * ✅ Added DTO-based validation with structured **400 / 401 / 403 / 404 / 409** responses
-* 🔐 Secured application workflows using **JWT, BCrypt and RBAC**
+* 🔐 Secured workflows using **JWT, BCrypt and RBAC**
 * 🎟️ Implemented seat-capacity protection and cancellation-restoration logic
 * 🧪 Verified core behaviour through **8 JUnit/Mockito tests**
 * 🐳 Packaged the platform as a **three-service Docker Compose deployment**
@@ -540,18 +532,12 @@ Built **EventZen**, independently taking a Spring Boot/React/MySQL event-managem
 `Java` `Spring Boot` `React` `MySQL`
 `JWT` `BCrypt` `JUnit` `Mockito` `Docker Compose`
 
-<br>
-
-<a href="https://github.com/agcodes0315/eventzen-event-management-system">
-<img src="https://img.shields.io/badge/Project-Explore%20EventZen-181717?style=flat-square&logo=github&logoColor=white"/>
-</a>
-
 ---
 
-### 🛰️ DRDO: CAIR, Bengaluru, Karnataka, (Remote)
+### 🛰️ DRDO CAIR · Bengaluru, Karnataka · Remote
 
 **Machine Learning Intern**
-*Jun 2025 — Jul 2025*
+*Jun 2025 – Jul 2025*
 
 `Machine Learning` · `Forecasting` · `Semantic Retrieval` · `RAG`
 
@@ -561,29 +547,22 @@ Worked on maritime intelligence using AIS trajectories, connecting **predictive 
 
 * 🧠 Trained a multi-horizon **LSTM vessel-trajectory forecasting model**
 * 📡 Used constant-velocity **Kalman filtering** for AIS/GPS noise reduction
-* 🕒 Generated forecasts at **24, 48, and 72-hour horizons**
-* 📈 Improved forecasting accuracy by approximately **14%, 11%, and 9%**
-* 📐 Achieved approximately **0.021°, 0.037°, and 0.054° RMSE**
+* 🕒 Generated forecasts at **24, 48 and 72-hour horizons**
+* 📈 Improved forecasting accuracy by approximately **14%, 11% and 9%**
+* 📐 Achieved approximately **0.021°, 0.037° and 0.054° RMSE**
 * 🔎 Built semantic retrieval using **SentenceTransformers + ChromaDB**
 * 💬 Queried MMSI-linked forecasts using **Mistral/Ollama**
 * ⚡ Achieved approximately **2–5 second natural-language query response times**
-
-**Stack**
-
-`Python` `LSTM` `Kalman Filters` `SentenceTransformers`
-`ChromaDB` `Mistral` `Ollama` `RAG`
 
 > 🔒 Only non-confidential technical scope is described. Proprietary datasets, restricted code and confidential implementation details are not published.
 
 ---
 
-### 🔵 Cognifyz Technologies (Remote)
+### 🔵 Cognifyz Technologies · Remote
 
 **Java Development Intern**
 
 `Core Java` · `OOP` · `Networking` · `Concurrency` · `Desktop Development`
-
-Completed a progressive Java engineering portfolio moving from programming fundamentals into **networked, concurrent, file-based, security-oriented and desktop applications**.
 
 **Key Engineering Work**
 
@@ -591,53 +570,56 @@ Completed a progressive Java engineering portfolio moving from programming funda
 * 🧵 Implemented concurrent workflows using `Thread`, `Runnable` and synchronization
 * 🖥️ Developed a lightweight **Java Swing Notepad**
 * 📁 Built file reading, writing, encryption and decryption workflows
-* 🔑 Implemented password generation and password-strength validation
+* 🔑 Implemented password generation and strength validation
 * 🏦 Created an object-oriented bank-account simulation
 * 🎮 Developed Tic-Tac-Toe with board-state management and validation
-* 🧩 Organized development across progressive **Level 1 → Level 2 → Level 3** stages
-
-**Stack**
-
-`Java` `OOP` `Java I/O` `Sockets`
-`Threads` `Synchronization` `Swing`
-
-<br>
-
-<a href="https://github.com/agcodes0315/cognifyz">
-<img src="https://img.shields.io/badge/Portfolio-Explore%20Java%20Work-181717?style=flat-square&logo=github&logoColor=white"/>
-</a>
 
 ---
 
 ## 🏅 Recognition & Milestones
 
-| Achievement                                                                                                                               | Related Work                                                                                                               |
-| ----------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------- |
-| 📜 **[Indian Patent Application No. 202511108091 A](https://drive.google.com/file/d/1QSSDN_fmPc41MEugw1atImfDk9ymtrHb/view?usp=sharing)** | [MARL-Driven Real-Time Traffic Management](https://github.com/agcodes0315/MARL-Driven-Real-Time-Traffic-Management-System) |
-| 🥈 **Semi-Finalist — The Economic Times AI Hackathon 2026**                                                                               | [GenAI Atlas](https://github.com/agcodes0315/genai-clinical-intelligence)                                                  |
-| 🏅 **Top 50 National Finalist — AI for Bharat Hackathon 2026**                                                                            | [TrustID](https://github.com/agcodes0315/TrustID-UBID-Intelligence)                                                        |
-| 🤖 **Google AI Agents Intensive Capstone**                                                                                                | [VendorGuard AI](https://github.com/agcodes0315/vendorguard-ai)                                                            |
-| 🧠 **Microsoft Agents League 2026 — Reasoning Agents Track**                                                                              | [Enterprise Learning & Certification Management](https://github.com/agcodes0315/agents-league-reasoning-agent)             |
+| Achievement                                                                                                                               | Related Work                                                                                                   |
+| ----------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------- |
+| 📜 **[Indian Patent Application No. 202511108091 A](https://drive.google.com/file/d/1QSSDN_fmPc41MEugw1atImfDk9ymtrHb/view?usp=sharing)** | [MARL Traffic Management](https://github.com/agcodes0315/MARL-Driven-Real-Time-Traffic-Management-System)      |
+| 🥈 **Semi-Finalist · The Economic Times AI Hackathon 2026**                                                                               | [GenAI Atlas](https://github.com/agcodes0315/genai-clinical-intelligence)                                      |
+| 🏅 **Top 50 National Finalist · AI for Bharat Hackathon 2026**                                                                            | [TrustID](https://github.com/agcodes0315/TrustID-UBID-Intelligence)                                            |
+| 🤖 **Google AI Agents Intensive Capstone**                                                                                                | [VendorGuard AI](https://github.com/agcodes0315/vendorguard-ai)                                                |
+| 🧠 **Microsoft Agents League 2026 · Reasoning Agents Track**                                                                              | [Enterprise Learning & Certification Management](https://github.com/agcodes0315/agents-league-reasoning-agent) |
 
 ---
 
 ## 📊 GitHub Activity
 
-<div align="center">
+<table>
+<tr>
+
+<td width="38%" align="center" valign="middle">
 
 <img
-src="https://streak-stats.demolab.com?user=agcodes0315&hide_border=true&background=00000000&ring=2563EB&fire=2563EB&currStreakNum=2563EB&currStreakLabel=2563EB&sideNums=2563EB&sideLabels=8B8B8B&dates=8B8B8B&stroke=2563EB"
-height="175"
+src="https://private-user-images.githubusercontent.com/74038190/242390692-0b335028-1d3d-4ee5-b5b3-a373d499be7e.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3ODcwNTQ3OTQsIm5iZiI6MTc4NzA1NDQ5NCwicGF0aCI6Ii83NDAzODE5MC8yNDIzOTA2OTItMGIzMzUwMjgtMWQzZC00ZWU1LWI1YjMtYTM3M2Q0OTliZTdlLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjA4MTglMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwODE4VDEyMDEzNFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTllNDEyZTNmZjYyODZlMTk1YzBjOTI0ZDVlMjhlNDg0ZjllYWEwYjBkODQwNWVmYTdlYjU1ODc0ODZhY2NhNDMmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JnJlc3BvbnNlLWNvbnRlbnQtdHlwZT1pbWFnZSUyRmdpZiJ9.kN4F0GvmBtrVKR-xxvJzQU-ZlfQCFAYCcHNR8Rj8In8"
+width="100%"
+alt="GitHub Coding Animation"/>
+
+</td>
+
+<td width="62%" align="center" valign="top">
+
+<img
+src="https://streak-stats.demolab.com?user=agcodes0315&hide_border=true&background=0D1117&ring=A855F7&fire=C084FC&currStreakNum=FFFFFF&currStreakLabel=C084FC&sideNums=FFFFFF&sideLabels=A78BFA&dates=8B8B8B&stroke=7C3AED"
+width="100%"
 alt="GitHub Streak"/>
 
 <br><br>
 
 <img
-src="https://github-readme-activity-graph.vercel.app/graph?username=agcodes0315&area=true&hide_border=true&radius=12&theme=github-dark-dimmed&custom_title=Contribution%20Activity"
-width="90%"
+src="https://github-readme-activity-graph.vercel.app/graph?username=agcodes0315&bg_color=0d1117&color=c084fc&line=a855f7&point=ffffff&area=true&area_color=7c3aed&hide_border=true&radius=12&custom_title=Contribution%20Activity"
+width="100%"
 alt="Contribution Activity"/>
 
-</div>
+</td>
+
+</tr>
+</table>
 
 ---
 
@@ -653,34 +635,31 @@ I'm interested in opportunities across:
 <table align="center">
 <tr>
 
-<td align="center" width="90">
-<a href="https://www.linkedin.com/in/agrima-saxena-142960426/" title="LinkedIn">
+<td align="center" width="100">
+<a href="https://www.linkedin.com/in/agrima-saxena-142960426/">
 <img src="https://img.icons8.com/color/48/linkedin.png"
-     width="36"
-     height="36"
-     alt="LinkedIn"/>
+width="38"
+alt="LinkedIn"/>
 </a>
 <br>
 <sub><b>LinkedIn</b></sub>
 </td>
 
-<td align="center" width="90">
-<a href="mailto:agrimalc@gmail.com" title="Email">
+<td align="center" width="100">
+<a href="mailto:agrimalc@gmail.com">
 <img src="https://img.icons8.com/color/48/gmail-new.png"
-     width="36"
-     height="36"
-     alt="Email"/>
+width="38"
+alt="Email"/>
 </a>
 <br>
 <sub><b>Email</b></sub>
 </td>
 
-<td align="center" width="90">
-<a href="https://github.com/agcodes0315" title="GitHub">
+<td align="center" width="100">
+<a href="https://github.com/agcodes0315">
 <img src="https://img.icons8.com/ios-glyphs/48/ffffff/github.png"
-     width="36"
-     height="36"
-     alt="GitHub"/>
+width="38"
+alt="GitHub"/>
 </a>
 <br>
 <sub><b>GitHub</b></sub>
@@ -695,11 +674,11 @@ I'm interested in opportunities across:
 
 📍 **Lucknow, India**
 
-<br>
+<br><br>
 
-**⚡ Building software that is intelligent enough to help, engineered enough to scale and secure enough to trust.**
+### ⚡ Building software that is intelligent enough to help, engineered enough to scale and secure enough to trust.
 
 </div>
 
 <img width="100%"
-src="https://capsule-render.vercel.app/api?type=waving&height=80&section=footer&color=0:4338CA,45:2563EB,100:0369A1"/>
+src="https://capsule-render.vercel.app/api?type=waving&height=90&section=footer&color=0:4C1D95,45:7C3AED,100:A855F7"/>
