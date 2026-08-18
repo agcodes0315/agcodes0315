@@ -1,64 +1,136 @@
-# Hi 👋, I'm Agrima Saxena
+<!-- ========================================================= -->
+<!--                    AGRIMA SAXENA                           -->
+<!--                  GITHUB PROFILE README                    -->
+<!-- ========================================================= -->
 
-### Software Engineering · Backend Systems · Applied AI · Cybersecurity
+<div align="center">
 
-<img
-  align="right"
-  alt="Girl coding"
-  width="430"
-  src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif"
-/>
+<h1>Hi 👋, I'm Agrima Saxena</h1>
 
-I'm a software engineer interested in building **intelligent, scalable and secure systems**.
+<h3>Software Engineering · Backend Systems · Applied AI · Cybersecurity</h3>
 
-- 🏢 Currently building **backend and cloud-ready applications at Deloitte India**
-- 🛰️ Former **Machine Learning Intern at DRDO CAIR, Bengaluru**
-- ☕ Former **Java Development Intern at Cognifyz Technologies**
-- ⚙️ Building with **Java, Python, Spring Boot, FastAPI, React, PostgreSQL, Redis and Docker**
-- 🤖 Exploring **RAG, LLM applications, multi-agent systems, Google ADK, MCP and Azure AI Foundry**
-- 🔐 Interested in **cybersecurity, threat intelligence, secure APIs, attack graphs, RBAC and auditable AI**
-- 🧠 Strong foundations in **DSA, OOP, DBMS, HLD, LLD, API design, caching and system architecture**
-- 📜 Filed Indian Patent Application **No. 202511108091 A**
+<p>
+I build <b>backend platforms, full-stack products, applied AI systems and security-focused software</b><br>
+with an emphasis on <b>measurable performance, reliability, auditability and production-minded engineering</b>.
+</p>
 
-### 🔭 What I'm Working On
-
-- Intelligent backend and platform engineering
-- Multi-agent AI systems
-- Secure full-stack applications
-- Applied machine learning
-- Security engineering and threat intelligence
-
-### 📫 Connect with me
+<br>
 
 <a href="https://www.linkedin.com/in/agrima-saxena-142960426/">
-  <img src="https://img.icons8.com/color/48/linkedin.png" width="38" alt="LinkedIn"/>
-</a>
-&nbsp;
-<a href="mailto:agrimalc@gmail.com">
-  <img src="https://img.icons8.com/color/48/gmail-new.png" width="38" alt="Email"/>
-</a>
-&nbsp;
-<a href="https://github.com/agcodes0315">
-  <img src="https://img.icons8.com/ios-glyphs/48/ffffff/github.png" width="38" alt="GitHub"/>
+<img
+src="https://img.shields.io/badge/LinkedIn-Agrima%20Saxena-7C3AED?style=flat-square&logo=linkedin&logoColor=white"
+alt="LinkedIn"/>
 </a>
 
-<br clear="right"/>
+<a href="mailto:agrimalc@gmail.com">
+<img
+src="https://img.shields.io/badge/Email-Contact-A855F7?style=flat-square&logo=gmail&logoColor=white"
+alt="Email"/>
+</a>
+
+<a href="https://github.com/agcodes0315">
+<img
+src="https://img.shields.io/badge/GitHub-agcodes0315-181717?style=flat-square&logo=github&logoColor=white"
+alt="GitHub"/>
+</a>
+
+&nbsp;
+
+<img
+src="https://komarev.com/ghpvc/?username=agcodes0315&label=Profile%20Views&color=7C3AED&style=flat-square"
+alt="Profile Views"/>
+
+<br><br>
+
+<img
+src="https://raw.githubusercontent.com/AnkitPorwal04/AnkitPorwal04/main/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif"
+width="100%"
+alt="Agrima Saxena Coding Banner"/>
+
+</div>
+
+---
+
+## 👩‍💻 About Me
+
+<table>
+<tr>
+
+<td width="58%" valign="top">
+
+I enjoy building software where **backend engineering, applied AI and security meet real-world product problems**.
+
+What interests me most is not simply getting something to work, but understanding how it can be made **faster, safer, easier to reason about and reliable enough to trust**.
+
+<br>
+
+- 🏢 Currently building **backend and cloud-ready applications at Deloitte India**
+- 🛰️ Previously worked at **DRDO CAIR, Bengaluru** on vessel forecasting, semantic retrieval and RAG-based intelligence workflows
+- ⚙️ Build across **Java, Python, Spring Boot, FastAPI, React, PostgreSQL, MySQL, Redis and Docker**
+- 🤖 Explore **RAG, LLM applications, multi-agent systems, Google ADK, MCP, Azure AI Foundry and retrieval systems**
+- 🔐 Interested in **threat intelligence, secure APIs, attack graphs, RBAC, TLS/mTLS, X.509, YARA and auditable AI**
+- 🧠 Strong foundations in **DSA, complexity analysis, OOP, DBMS, HLD, LLD, caching, API design and service decomposition**
+- 📜 Filed Indian Patent Application **No. 202511108091 A** for intelligent real-time traffic signal management
+
+<br>
+
+> **I like engineering systems where performance can be measured, failures can be traced and important decisions can be reviewed.**
+
+</td>
+
+<td width="42%" align="center" valign="top">
+
+<img
+src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif"
+width="100%"
+alt="Girl Coding Animation"/>
+
+</td>
+
+</tr>
+</table>
 
 ---
 
 ## ⚡ What I Build
 
+<table>
+<tr>
+
+<td width="25%" valign="top">
+
 ### 💻 Software Engineering
+
 Backend services, APIs, authentication, caching, database-backed applications, automated testing and modular software architectures.
 
+</td>
+
+<td width="25%" valign="top">
+
 ### 🌐 Full-Stack Development
+
 Applications using React with Spring Boot, FastAPI, Node.js, relational databases and secure user workflows.
 
+</td>
+
+<td width="25%" valign="top">
+
 ### 🤖 AI & GenAI
+
 RAG pipelines, multi-agent systems, semantic retrieval, forecasting, evaluation, guardrails and explainable AI workflows.
 
+</td>
+
+<td width="25%" valign="top">
+
 ### 🔐 Cybersecurity
+
 Threat intelligence, secure APIs, attack graphs, TLS/mTLS, RBAC, vulnerability analysis, prompt-injection defence and auditability.
+
+</td>
+
+</tr>
+</table>
 
 ---
 
@@ -67,7 +139,7 @@ Threat intelligence, secure APIs, attack graphs, TLS/mTLS, RBAC, vulnerability a
 ### Languages
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=java,python,cpp,c,js" height="44"/>
+<img src="https://skillicons.dev/icons?i=java,python,cpp,c,js" height="44" alt="Languages"/>
 </p>
 
 `Java` `Python` `C++` `C` `JavaScript` `SQL`
@@ -75,7 +147,7 @@ Threat intelligence, secure APIs, attack graphs, TLS/mTLS, RBAC, vulnerability a
 ### Backend & APIs
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=spring,fastapi,nodejs,express" height="44"/>
+<img src="https://skillicons.dev/icons?i=spring,fastapi,nodejs,express" height="44" alt="Backend"/>
 </p>
 
 `Spring Boot` `FastAPI` `Node.js` `Express.js`  
@@ -84,7 +156,7 @@ Threat intelligence, secure APIs, attack graphs, TLS/mTLS, RBAC, vulnerability a
 ### Frontend
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=react,html,css" height="44"/>
+<img src="https://skillicons.dev/icons?i=react,html,css" height="44" alt="Frontend"/>
 </p>
 
 `React.js` `HTML5` `CSS3`
@@ -92,7 +164,7 @@ Threat intelligence, secure APIs, attack graphs, TLS/mTLS, RBAC, vulnerability a
 ### Databases, Retrieval & Caching
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=mysql,postgres,redis" height="44"/>
+<img src="https://skillicons.dev/icons?i=mysql,postgres,redis" height="44" alt="Databases"/>
 </p>
 
 `MySQL` `PostgreSQL` `Redis` `ChromaDB` `Vector Retrieval`
@@ -106,7 +178,7 @@ Threat intelligence, secure APIs, attack graphs, TLS/mTLS, RBAC, vulnerability a
 ### Testing, DevOps & Cloud
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=docker,githubactions,git,github,azure,linux" height="44"/>
+<img src="https://skillicons.dev/icons?i=docker,githubactions,git,github,azure,linux" height="44" alt="DevOps"/>
 </p>
 
 `JUnit` `Mockito` `pytest` `Docker` `Docker Compose`  
@@ -120,6 +192,11 @@ Threat intelligence, secure APIs, attack graphs, TLS/mTLS, RBAC, vulnerability a
 ---
 
 ## 🏆 Featured Hackathon Work
+
+<table>
+<tr>
+
+<td width="50%" valign="top">
 
 ### 🪪 TrustID
 
@@ -144,10 +221,19 @@ A solo-built identity intelligence platform centered on **evidence-backed verifi
 
 `React` `Node.js` `SQLite`
 
-[![Source](https://img.shields.io/badge/Source-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/agcodes0315/TrustID-UBID-Intelligence)
-[![Live](https://img.shields.io/badge/Live-TrustID-7C3AED?style=flat-square&logo=vercel&logoColor=white)](https://trust-id-ubid-intelligence.vercel.app/)
+<br>
 
----
+<a href="https://github.com/agcodes0315/TrustID-UBID-Intelligence">
+<img src="https://img.shields.io/badge/Source-GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://trust-id-ubid-intelligence.vercel.app/">
+<img src="https://img.shields.io/badge/Live-TrustID-7C3AED?style=flat-square&logo=vercel&logoColor=white"/>
+</a>
+
+</td>
+
+<td width="50%" valign="top">
 
 ### 🧠 GenAI Atlas
 
@@ -172,11 +258,25 @@ An applied GenAI platform exploring **coordinated agents, transparent outputs, e
 
 `Python` `Streamlit` `Llama 3` `LLMs` `Multi-Agent Systems`
 
-[![Source](https://img.shields.io/badge/Source-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/agcodes0315/genai-clinical-intelligence)
+<br>
+
+<a href="https://github.com/agcodes0315/genai-clinical-intelligence">
+<img src="https://img.shields.io/badge/Source-GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
+</a>
+
+</td>
+
+</tr>
+</table>
 
 ---
 
 ## 🚀 Selected Engineering Systems
+
+<table>
+<tr>
+
+<td width="50%" valign="top">
 
 ### 🔐 CyberShield
 
@@ -198,10 +298,19 @@ A security operations platform connecting **detection, investigation, attack-gra
 
 `React` `Express.js` `FastAPI` `PostgreSQL` `Redis` `Python` `WebSockets` `YARA`
 
-[![Source](https://img.shields.io/badge/Source-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/agcodes0315/cybershield-project)
-[![Live](https://img.shields.io/badge/Live-CyberShield-7C3AED?style=flat-square&logo=microsoftazure&logoColor=white)](https://mango-pebble-099d8de00.7.azurestaticapps.net/)
+<br>
 
----
+<a href="https://github.com/agcodes0315/cybershield-project">
+<img src="https://img.shields.io/badge/Source-GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://mango-pebble-099d8de00.7.azurestaticapps.net/">
+<img src="https://img.shields.io/badge/Live-CyberShield-7C3AED?style=flat-square&logo=microsoftazure&logoColor=white"/>
+</a>
+
+</td>
+
+<td width="50%" valign="top">
 
 ### 🛡️ VendorGuard AI
 
@@ -224,53 +333,61 @@ An evidence-first AI platform designed so that **agent recommendations cannot si
 
 `Python` `FastAPI` `React` `Google ADK` `MCP` `pytest` `Docker`
 
-[![Source](https://img.shields.io/badge/Source-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/agcodes0315/vendorguard-ai)
-[![Live](https://img.shields.io/badge/Live-VendorGuard-A855F7?style=flat-square&logo=firebase&logoColor=white)](https://vendorguard-web.web.app/)
+<br>
 
----
+<a href="https://github.com/agcodes0315/vendorguard-ai">
+<img src="https://img.shields.io/badge/Source-GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://vendorguard-web.web.app/">
+<img src="https://img.shields.io/badge/Live-VendorGuard-A855F7?style=flat-square&logo=firebase&logoColor=white"/>
+</a>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
 
 ### 🚦 MARL Traffic Management
 
 **Secure Adaptive Multi-Agent Traffic Control**
 
-A traffic-control system combining **adaptive signal coordination, predictive modelling, emergency prioritization and authenticated inter-agent communication**.
-
-**Engineering Highlights**
-
-- Designed an **LSTM-assisted multi-agent traffic controller** using SUMO/TraCI
-- Integrated dynamic emergency-vehicle prioritization
-- Reduced simulated waiting time by approximately **42% · 55 s → 32 s**
-- Reduced queue length by **50% · 30 → 15 vehicles**
-- Reduced simulated fuel use by **25% · 120 L → 90 L**
+- Designed an **LSTM-assisted multi-agent traffic controller**
+- Reduced simulated waiting time by approximately **42%**
+- Reduced queue length by **50%**
+- Reduced simulated fuel use by **25%**
 - Increased throughput from **65% → 82%**
-- Hardened communication using **TLS 1.3 mTLS**
+- Hardened inter-agent communication using **TLS 1.3 mTLS**
 - Added **X.509 identity verification and RSA-PSS signatures**
 - Blocked **6 simulated attack classes across 17 security tests**
 
-**Intellectual Property**
-
-📜 [**Indian Patent Application No. 202511108091 A · View Patent**](https://drive.google.com/file/d/1QSSDN_fmPc41MEugw1atImfDk9ymtrHb/view?usp=sharing)
+📜 [**Indian Patent Application No. 202511108091 A**](https://drive.google.com/file/d/1QSSDN_fmPc41MEugw1atImfDk9ymtrHb/view?usp=sharing)
 
 **Stack**
 
 `Python` `SUMO` `TraCI` `LSTM` `Multi-Agent Systems` `TLS 1.3` `X.509` `RSA-PSS`
 
-[![Source](https://img.shields.io/badge/Source-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/agcodes0315/MARL-Driven-Real-Time-Traffic-Management-System)
+<br>
 
----
+<a href="https://github.com/agcodes0315/MARL-Driven-Real-Time-Traffic-Management-System">
+<img src="https://img.shields.io/badge/Source-GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
+</a>
+
+</td>
+
+<td width="50%" valign="top">
 
 ### 🎟️ EventZen
 
 **Secure Event Lifecycle Management Platform**
 
-A modular full-stack application built around **event creation, booking, authentication, authorization, validation and capacity management**.
-
-**Engineering Highlights**
-
 - Engineered **26 REST endpoints across 6 modules**
 - Implemented centralized API failure handling
 - Secured workflows using **JWT, BCrypt and RBAC**
-- Added DTO validation and structured HTTP error responses
+- Added DTO validation and structured HTTP errors
 - Implemented seat-capacity and cancellation-restoration logic
 - Verified core behaviour with **JUnit + Mockito**
 - Packaged as a **three-service Docker Compose deployment**
@@ -279,7 +396,16 @@ A modular full-stack application built around **event creation, booking, authent
 
 `Java` `Spring Boot` `React` `MySQL` `JWT` `JUnit` `Mockito` `Docker`
 
-[![Source](https://img.shields.io/badge/Source-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/agcodes0315/eventzen-event-management-system)
+<br>
+
+<a href="https://github.com/agcodes0315/eventzen-event-management-system">
+<img src="https://img.shields.io/badge/Source-GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
+</a>
+
+</td>
+
+</tr>
+</table>
 
 ---
 
@@ -289,22 +415,12 @@ A modular full-stack application built around **event creation, booking, authent
 
 **Microsoft Agents League · Reasoning Agents Track**
 
-A production-oriented **five-agent learning and certification system** built around Microsoft Azure AI Foundry.
-
-**Highlights**
-
 - Coordinates **5 specialized reasoning agents**
 - Integrates **Foundry IQ, Fabric IQ and Work IQ**
-- Generates role-aligned certification learning paths
+- Generates role-aligned certification paths
 - Creates work-aware study schedules
 - Runs grounded assessments with citations
-- Generates adaptive reminders and manager escalations
 - Records decision traces and guardrail audits
-- Produces an interactive **Manager Insights dashboard**
-
-**Stack**
-
-`Python` `Azure AI Foundry` `Multi-Agent Systems` `Foundry IQ` `Fabric IQ` `Work IQ`
 
 [![Source](https://img.shields.io/badge/Source-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/agcodes0315/agents-league-reasoning-agent)
 
@@ -314,21 +430,12 @@ A production-oriented **five-agent learning and certification system** built aro
 
 **Peer-to-Peer Skill Exchange Platform**
 
-A full-stack platform designed to help users **discover, offer and exchange skills through authenticated peer interactions**.
-
-**Highlights**
-
 - User authentication and authorization
-- Skill listing and discovery
+- Skill discovery and listings
 - Peer-to-peer exchange workflows
 - MongoDB-backed persistence
 - REST API architecture
 - JWT-secured sessions
-- Responsive React interface
-
-**Stack**
-
-`React` `Node.js` `Express.js` `MongoDB` `JWT`
 
 [![Source](https://img.shields.io/badge/Source-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/agcodes0315/SkillSwap)
 
@@ -341,44 +448,29 @@ A full-stack platform designed to help users **discover, offer and exchange skil
 **Platform Development Integration & Cloud Management Services Intern**  
 *Virtual: Jan – Jun 2026 · Onsite: Jun 2026 – Present*
 
-`Backend Engineering` · `API Architecture` · `Full-Stack` · `Testing` · `Docker`
-
-Built **EventZen**, independently taking a Spring Boot/React/MySQL event-management system from design to delivery in approximately **six weeks**.
-
-**Key Engineering Work**
-
-- ⚙️ Engineered **26 REST endpoints across 6 functional modules**
-- 🏅 Earned a **97/100 mentor evaluation**
-- 🧩 Standardized API failure handling through a centralized `GlobalExceptionHandler`
-- ✅ Added DTO-based validation with structured **400 / 401 / 403 / 404 / 409** responses
-- 🔐 Secured workflows using **JWT, BCrypt and RBAC**
-- 🎟️ Implemented seat-capacity protection and cancellation-restoration logic
-- 🧪 Verified core behaviour through **8 JUnit/Mockito tests**
-- 🐳 Packaged the platform as a **three-service Docker Compose deployment**
+- Engineered **26 REST endpoints across 6 functional modules**
+- Earned a **97/100 mentor evaluation**
+- Standardized API failure handling
+- Added DTO-based validation
+- Secured workflows using **JWT, BCrypt and RBAC**
+- Verified core behaviour with **JUnit/Mockito**
+- Packaged the application through **Docker Compose**
 
 ---
 
-### 🛰️ DRDO CAIR · Bengaluru, Karnataka · Remote
+### 🛰️ DRDO CAIR · Bengaluru · Remote
 
 **Machine Learning Intern**  
 *Jun 2025 – Jul 2025*
 
-`Machine Learning` · `Forecasting` · `Semantic Retrieval` · `RAG`
+- Trained a multi-horizon **LSTM vessel-trajectory forecasting model**
+- Used constant-velocity **Kalman filtering**
+- Generated forecasts at **24, 48 and 72-hour horizons**
+- Built semantic retrieval using **SentenceTransformers + ChromaDB**
+- Queried forecasts using **Mistral/Ollama**
+- Connected forecasting with RAG-based natural-language retrieval
 
-Worked on maritime intelligence using AIS trajectories, connecting **predictive modelling with natural-language retrieval**.
-
-**Key Engineering Work**
-
-- 🧠 Trained a multi-horizon **LSTM vessel-trajectory forecasting model**
-- 📡 Used constant-velocity **Kalman filtering** for AIS/GPS noise reduction
-- 🕒 Generated forecasts at **24, 48 and 72-hour horizons**
-- 📈 Improved forecasting accuracy by approximately **14%, 11% and 9%**
-- 📐 Achieved approximately **0.021°, 0.037° and 0.054° RMSE**
-- 🔎 Built semantic retrieval using **SentenceTransformers + ChromaDB**
-- 💬 Queried MMSI-linked forecasts using **Mistral/Ollama**
-- ⚡ Achieved approximately **2–5 second natural-language query response times**
-
-> 🔒 Only non-confidential technical scope is described. Proprietary datasets, restricted code and confidential implementation details are not published.
+> 🔒 Only non-confidential technical scope is described.
 
 ---
 
@@ -386,17 +478,12 @@ Worked on maritime intelligence using AIS trajectories, connecting **predictive 
 
 **Java Development Intern**
 
-`Core Java` · `OOP` · `Networking` · `Concurrency` · `Desktop Development`
-
-**Key Engineering Work**
-
-- 🌐 Built a **TCP client-server chat application using Java sockets**
-- 🧵 Implemented concurrent workflows using `Thread`, `Runnable` and synchronization
-- 🖥️ Developed a lightweight **Java Swing Notepad**
-- 📁 Built file reading, writing, encryption and decryption workflows
-- 🔑 Implemented password generation and strength validation
-- 🏦 Created an object-oriented bank-account simulation
-- 🎮 Developed Tic-Tac-Toe with board-state management and validation
+- Built a TCP client-server chat application
+- Implemented concurrent workflows
+- Developed a Java Swing Notepad
+- Built file encryption/decryption workflows
+- Implemented password-strength tooling
+- Created OOP-driven Java applications
 
 ---
 
@@ -408,7 +495,7 @@ Worked on maritime intelligence using AIS trajectories, connecting **predictive 
 | 🥈 **Semi-Finalist · The Economic Times AI Hackathon 2026** | [GenAI Atlas](https://github.com/agcodes0315/genai-clinical-intelligence) |
 | 🏅 **Top 50 National Finalist · AI for Bharat Hackathon 2026** | [TrustID](https://github.com/agcodes0315/TrustID-UBID-Intelligence) |
 | 🤖 **Google AI Agents Intensive Capstone** | [VendorGuard AI](https://github.com/agcodes0315/vendorguard-ai) |
-| 🧠 **Microsoft Agents League 2026 · Reasoning Agents Track** | [Enterprise Learning & Certification Management](https://github.com/agcodes0315/agents-league-reasoning-agent) |
+| 🧠 **Microsoft Agents League 2026** | [Reasoning Agent](https://github.com/agcodes0315/agents-league-reasoning-agent) |
 
 ---
 
@@ -418,7 +505,7 @@ Worked on maritime intelligence using AIS trajectories, connecting **predictive 
 
 <img
 src="https://streak-stats.demolab.com?user=agcodes0315&hide_border=true&background=0D1117&ring=A855F7&fire=C084FC&currStreakNum=FFFFFF&currStreakLabel=C084FC&sideNums=FFFFFF&sideLabels=A78BFA&dates=8B8B8B&stroke=7C3AED"
-width="75%"
+width="72%"
 alt="GitHub Streak"/>
 
 <br><br>
@@ -434,32 +521,28 @@ alt="Contribution Activity"/>
 
 ## 🤝 Open to Building What Matters
 
-I'm interested in opportunities across:
+<div align="center">
 
 **Software Engineering · Backend Engineering · Full-Stack Engineering · Platform Engineering**  
 **Applied AI · AI/ML Engineering · Cybersecurity**
 
-<br>
-
-<div align="center">
-
-<a href="https://www.linkedin.com/in/agrima-saxena-142960426/">
-  <img src="https://img.icons8.com/color/48/linkedin.png" width="40" alt="LinkedIn"/>
-</a>
-&nbsp;&nbsp;
-<a href="mailto:agrimalc@gmail.com">
-  <img src="https://img.icons8.com/color/48/gmail-new.png" width="40" alt="Email"/>
-</a>
-&nbsp;&nbsp;
-<a href="https://github.com/agcodes0315">
-  <img src="https://img.icons8.com/ios-glyphs/48/ffffff/github.png" width="40" alt="GitHub"/>
-</a>
-
 <br><br>
 
-<img
-src="https://komarev.com/ghpvc/?username=agcodes0315&label=Profile%20Views&color=7C3AED&style=flat-square"
-alt="Profile Views"/>
+<a href="https://www.linkedin.com/in/agrima-saxena-142960426/">
+<img src="https://img.icons8.com/color/48/linkedin.png" width="40" alt="LinkedIn"/>
+</a>
+
+&nbsp;&nbsp;
+
+<a href="mailto:agrimalc@gmail.com">
+<img src="https://img.icons8.com/color/48/gmail-new.png" width="40" alt="Email"/>
+</a>
+
+&nbsp;&nbsp;
+
+<a href="https://github.com/agcodes0315">
+<img src="https://img.icons8.com/ios-glyphs/48/ffffff/github.png" width="40" alt="GitHub"/>
+</a>
 
 <br><br>
 
