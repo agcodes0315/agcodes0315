@@ -18,6 +18,13 @@ with an emphasis on **measurable performance, reliability, auditability and prod
 
 <br>
 
+<img
+src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"
+width="520"
+alt="Coding workspace animation"/>
+
+<br><br>
+
 <table align="center">
 <tr>
 
@@ -604,8 +611,8 @@ Completed a progressive Java engineering portfolio moving from programming funda
 
 ## 🏅 Recognition & Milestones
 
-| Achievement                                                                                                                               | Related Work                                                                                                                   |
-| ----------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------ |
+| Achievement                                                                                                                               | Related Work                                                                                                               |
+| ----------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------- |
 | 📜 **[Indian Patent Application No. 202511108091 A](https://drive.google.com/file/d/1QSSDN_fmPc41MEugw1atImfDk9ymtrHb/view?usp=sharing)** | [MARL-Driven Real-Time Traffic Management](https://github.com/agcodes0315/MARL-Driven-Real-Time-Traffic-Management-System) |
 | 🥈 **Semi-Finalist — The Economic Times AI Hackathon 2026**                                                                               | [GenAI Atlas](https://github.com/agcodes0315/genai-clinical-intelligence)                                                  |
 | 🏅 **Top 50 National Finalist — AI for Bharat Hackathon 2026**                                                                            | [TrustID](https://github.com/agcodes0315/TrustID-UBID-Intelligence)                                                        |
@@ -619,27 +626,15 @@ Completed a progressive Java engineering portfolio moving from programming funda
 <div align="center">
 
 <img
-src="https://github-readme-stats.vercel.app/api?username=agcodes0315&hide_border=true&background=00000000&title_color=2563EB&icon_color=2563EB&text_color=8B8B8B&count_private=true&show_icons=true"
-height="165"
-alt="GitHub Stats"/>
-
-<img
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=agcodes0315&hide_border=true&background=00000000&title_color=2563EB&text_color=8B8B8B&layout=compact"
-height="165"
-alt="Top Languages"/>
-
-<br><br>
-
-<img
-src="https://streak-stats.demolab.com/?user=agcodes0315&hide_border=true&background=00000000&ring=2563EB&fire=2563EB&currStreakNum=2563EB&currStreakLabel=2563EB&sideNums=2563EB&sideLabels=8B8B8B&dates=8B8B8B&stroke=2563EB"
-height="150"
+src="https://streak-stats.demolab.com?user=agcodes0315&hide_border=true&background=00000000&ring=2563EB&fire=2563EB&currStreakNum=2563EB&currStreakLabel=2563EB&sideNums=2563EB&sideLabels=8B8B8B&dates=8B8B8B&stroke=2563EB"
+height="175"
 alt="GitHub Streak"/>
 
 <br><br>
 
 <img
 src="https://github-readme-activity-graph.vercel.app/graph?username=agcodes0315&area=true&hide_border=true&radius=12&theme=github-dark-dimmed&custom_title=Contribution%20Activity"
-width="80%"
+width="90%"
 alt="Contribution Activity"/>
 
 </div>
