@@ -5,16 +5,12 @@
 
 <div align="center">
 
-<h1>Hi 👋, I'm Agrima Saxena</h1>
+<img
+src="./agrima_saxena_animated.gif"
+width="100%"
+alt="Agrima Saxena GitHub Banner"/>
 
-<h3>Software Engineering · Backend Systems · Applied AI · Cybersecurity</h3>
-
-<p>
-I build <b>backend platforms, full-stack products, applied AI systems and security-focused software</b><br>
-with an emphasis on <b>measurable performance, reliability, auditability and production-minded engineering</b>.
-</p>
-
-<br>
+<br><br>
 
 <a href="https://www.linkedin.com/in/agrima-saxena-142960426/">
 <img
@@ -34,61 +30,55 @@ src="https://img.shields.io/badge/GitHub-agcodes0315-181717?style=flat-square&lo
 alt="GitHub"/>
 </a>
 
-&nbsp;
-
 <img
 src="https://komarev.com/ghpvc/?username=agcodes0315&label=Profile%20Views&color=7C3AED&style=flat-square"
 alt="Profile Views"/>
-
-<br><br>
-
-<img
-src="https://raw.githubusercontent.com/AnkitPorwal04/AnkitPorwal04/main/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif"
-width="100%"
-alt="Agrima Saxena Coding Banner"/>
 
 </div>
 
 ---
 
+# Hi 👋, I'm Agrima Saxena
+
+### Software Engineering · Backend Systems · Applied AI · Cybersecurity
+
+I build **backend platforms, full-stack products, applied AI systems and security-focused software** with an emphasis on **measurable performance, reliability, auditability and production-minded engineering**.
+
+---
+
 ## 👩‍💻 About Me
 
-<table>
-<tr>
+<img
+align="right"
+src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif"
+width="46%"
+alt="Girl Coding Animation"/>
 
-<td width="58%" valign="top">
+I enjoy working on software where **backend engineering, applied AI and security intersect with real product problems**.
 
-I enjoy building software where **backend engineering, applied AI and security meet real-world product problems**.
+What interests me most is not simply getting something to work. I like understanding:
 
-What interests me most is not simply getting something to work, but understanding how it can be made **faster, safer, easier to reason about and reliable enough to trust**.
+**why it works, where it can fail, how it behaves under load, and what would make it easier to trust.**
 
-<br>
+That usually leads me toward problems involving **APIs, distributed services, intelligent systems, security controls, data pipelines, testing and performance optimization**.
 
-- 🏢 Currently building **backend and cloud-ready applications at Deloitte India**
-- 🛰️ Previously worked at **DRDO CAIR, Bengaluru** on vessel forecasting, semantic retrieval and RAG-based intelligence workflows
-- ⚙️ Build across **Java, Python, Spring Boot, FastAPI, React, PostgreSQL, MySQL, Redis and Docker**
+I enjoy moving between abstraction levels — from designing a product workflow, to tracing an HTTP request through a backend service, to debugging a database or deployment issue, to analyzing the complexity of an algorithm.
+
+<br clear="right">
+
+---
+
+## ⚡ Engineering Snapshot
+
+- 🏢 Building **backend and cloud-ready applications at Deloitte India**
+- 🛰️ Worked at **DRDO CAIR, Bengaluru** on vessel forecasting, semantic retrieval and RAG-based intelligence workflows
+- ⚙️ Build across **Java, Python, JavaScript, Spring Boot, FastAPI, React, PostgreSQL, MySQL, Redis and Docker**
 - 🤖 Explore **RAG, LLM applications, multi-agent systems, Google ADK, MCP, Azure AI Foundry and retrieval systems**
 - 🔐 Interested in **threat intelligence, secure APIs, attack graphs, RBAC, TLS/mTLS, X.509, YARA and auditable AI**
 - 🧠 Strong foundations in **DSA, complexity analysis, OOP, DBMS, HLD, LLD, caching, API design and service decomposition**
 - 📜 Filed Indian Patent Application **No. 202511108091 A** for intelligent real-time traffic signal management
 
-<br>
-
 > **I like engineering systems where performance can be measured, failures can be traced and important decisions can be reviewed.**
-
-</td>
-
-<td width="42%" align="center" valign="top">
-
-<img
-src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif"
-width="100%"
-alt="Girl Coding Animation"/>
-
-</td>
-
-</tr>
-</table>
 
 ---
 
@@ -182,12 +172,13 @@ Threat intelligence, secure APIs, attack graphs, TLS/mTLS, RBAC, vulnerability a
 </p>
 
 `JUnit` `Mockito` `pytest` `Docker` `Docker Compose`  
-`CI/CD` `GitHub Actions` `Azure`
+`CI/CD` `GitHub Actions` `Microsoft Azure`
 
 ### Computer Science & System Design
 
 `Data Structures & Algorithms` `Complexity Analysis` `OOP` `DBMS`  
-`Operating Systems` `HLD` `LLD` `Caching` `API Design` `Service Decomposition`
+`Operating Systems` `Computer Networks` `HLD` `LLD`  
+`Caching` `API Design` `Service Decomposition`
 
 ---
 
@@ -211,7 +202,7 @@ A solo-built identity intelligence platform centered on **evidence-backed verifi
 - Evidence-backed outputs
 - Explainable decision workflows
 - Auditable verification history
-- Full-stack production deployment
+- Full-stack application deployment
 
 **Recognition**
 
@@ -271,7 +262,7 @@ An applied GenAI platform exploring **coordinated agents, transparent outputs, e
 
 ---
 
-## 🚀 Selected Engineering Systems
+# 🚀 Selected Engineering Systems
 
 <table>
 <tr>
@@ -287,7 +278,7 @@ A security operations platform connecting **detection, investigation, attack-gra
 **Engineering Highlights**
 
 - Re-engineered critical-asset discovery using **single-source shortest-path traversal + hash-set lookups**
-- Cut median graph-analysis latency by approximately **99.97% · 2.46 s → 0.83 ms**
+- Reduced median graph-analysis latency by approximately **99.97% · 2.46 s → 0.83 ms**
 - Benchmarked on a **2,500-node / 10,000-edge synthetic attack graph**
 - Maintained **140 passing automated tests**
 - Integrated **YARA, SSL/WHOIS analysis, reputation checks and MITRE ATT&CK mapping**
@@ -384,13 +375,14 @@ An evidence-first AI platform designed so that **agent recommendations cannot si
 
 **Secure Event Lifecycle Management Platform**
 
-- Engineered **26 REST endpoints across 6 modules**
+- Engineered **24 REST endpoints across 6 modules**
 - Implemented centralized API failure handling
 - Secured workflows using **JWT, BCrypt and RBAC**
 - Added DTO validation and structured HTTP errors
 - Implemented seat-capacity and cancellation-restoration logic
-- Verified core behaviour with **JUnit + Mockito**
-- Packaged as a **three-service Docker Compose deployment**
+- Verified core behaviour with **8 JUnit 5 + Mockito tests**
+- Packaged as a **three-service Docker Compose application**
+- Earned a **97/100 mentor evaluation**
 
 **Stack**
 
@@ -441,20 +433,21 @@ An evidence-first AI platform designed so that **agent recommendations cannot si
 
 ---
 
-## 🏢 Engineering Experience
+# 🏢 Engineering Experience
 
 ### 🟢 Deloitte India · Noida, Uttar Pradesh
 
 **Platform Development Integration & Cloud Management Services Intern**  
 *Virtual: Jan – Jun 2026 · Onsite: Jun 2026 – Present*
 
-- Engineered **26 REST endpoints across 6 functional modules**
+- Engineered **EventZen independently** during a six-week capstone
+- Implemented **24 REST endpoints across 6 functional modules**
 - Earned a **97/100 mentor evaluation**
-- Standardized API failure handling
-- Added DTO-based validation
+- Added DTO-based validation and centralized exception handling
 - Secured workflows using **JWT, BCrypt and RBAC**
-- Verified core behaviour with **JUnit/Mockito**
-- Packaged the application through **Docker Compose**
+- Verified booking correctness with **JUnit 5 + Mockito**
+- Packaged the frontend, backend and MySQL using **Docker Compose**
+- Completed hands-on training across **C#/.NET, ASP.NET, SQL Server, REST APIs, Git/CI/CD, unit testing, OOP, DSA, debugging and AWS EC2**
 
 ---
 
@@ -463,8 +456,8 @@ An evidence-first AI platform designed so that **agent recommendations cannot si
 **Machine Learning Intern**  
 *Jun 2025 – Jul 2025*
 
-- Trained a multi-horizon **LSTM vessel-trajectory forecasting model**
-- Used constant-velocity **Kalman filtering**
+- Built a multi-horizon **LSTM vessel-trajectory forecasting pipeline**
+- Applied constant-velocity **Kalman filtering**
 - Generated forecasts at **24, 48 and 72-hour horizons**
 - Built semantic retrieval using **SentenceTransformers + ChromaDB**
 - Queried forecasts using **Mistral/Ollama**
@@ -487,7 +480,7 @@ An evidence-first AI platform designed so that **agent recommendations cannot si
 
 ---
 
-## 🏅 Recognition & Milestones
+# 🏅 Recognition & Milestones
 
 | Achievement | Related Work |
 |---|---|
@@ -499,7 +492,7 @@ An evidence-first AI platform designed so that **agent recommendations cannot si
 
 ---
 
-## 📊 GitHub Activity
+# 📊 GitHub Activity
 
 <div align="center">
 
@@ -519,7 +512,7 @@ alt="Contribution Activity"/>
 
 ---
 
-## 🤝 Open to Building What Matters
+# 🤝 Open to Building What Matters
 
 <div align="center">
 
