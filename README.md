@@ -504,4 +504,4 @@ alt="Agrima Saxena GitHub Contribution Activity"/>
 
 📍 **Lucknow, India**
 
-### ⚡ Building software that is intelligent enough to help, engineered enough to scale and secure enough to trust.
+### Building software that is intelligent enough to help, engineered enough to scale and secure enough to trust.
