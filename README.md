@@ -457,19 +457,12 @@ An evidence-first AI platform designed so that **agent recommendations cannot si
 
 ---
 
-# 📊 GitHub Activity
-
-Your previous streak card used the old username and the public streak endpoint has had recent reliability problems. :contentReference[oaicite:2]{index=2}
-
-For now, I recommend using the activity graph as the primary contribution visualization:
+## 📊 GitHub Activity
 
 <img
-src="https://github-readme-activity-graph.vercel.app/graph?username=agrima08s010315&bg_color=0d1117&color=c084fc&line=a855f7&point=ffffff&area=true&area_color=7c3aed&hide_border=true&radius=12&custom_title=Contribution%20Activity"
+src="https://github-readme-activity-graph.vercel.app/graph?username=agcodes0315&bg_color=0d1117&color=c084fc&line=a855f7&point=ffffff&area=true&area_color=7c3aed&hide_border=true&radius=12&custom_title=Contribution%20Activity"
 width="100%"
 alt="Agrima Saxena GitHub Contribution Activity"/>
-
-The activity-graph project is still publicly maintained and is specifically designed to visualize recent GitHub contribution activity. :contentReference[oaicite:3]{index=3}
-
 ---
 
 # 🤝 Open to Building What Matters
