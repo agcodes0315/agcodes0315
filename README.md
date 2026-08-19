@@ -140,6 +140,7 @@ Threat intelligence, secure APIs, attack graphs, TLS/mTLS, RBAC, vulnerability a
 
 `Data Structures & Algorithms` `Complexity Analysis` `OOP` `DBMS`  
 `Operating Systems` `Computer Networks` 
+
 ---
 
 ## 🏆 Featured Hackathon Work
@@ -487,16 +488,6 @@ alt="Agrima Saxena GitHub Contribution Activity"/>
      alt="Email"/>
 </a>
 </td>
-
-<td width="60">
-<a href="https://github.com/agrima08s010315" title="GitHub">
-<img src="https://img.icons8.com/ios-glyphs/48/ffffff/github.png"
-     width="36"
-     height="36"
-     alt="GitHub"/>
-</a>
-</td>
-
 </tr>
 </table>
 
