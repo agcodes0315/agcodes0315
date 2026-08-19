@@ -40,8 +40,6 @@ That usually leads me toward problems involving **APIs, distributed services, in
 - 🧠 Strong foundations in **DSA, complexity analysis, OOP, DBMS, HLD, LLD, caching, API design and service decomposition**
 - 📜 Filed Indian Patent Application **No. 202511108091 A** for intelligent real-time traffic signal management
 
-> **I like engineering systems where performance can be measured, failures can be traced and important decisions can be reviewed. I enjoy moving between abstraction levels from designing a product workflow, to tracing an HTTP request through a backend service, to debugging a database or deployment issue, to analyzing the complexity of an algorithm.**
-
 ---
 
 ## ⚡ What I Build
