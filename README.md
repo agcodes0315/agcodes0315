@@ -317,7 +317,7 @@ An evidence-first AI platform designed so that **agent recommendations cannot si
 - Added **X.509 identity verification and RSA-PSS signatures**
 - Blocked **6 simulated attack classes across 17 security tests**
 
-📜 [**Indian Patent Application No. 202511108091 A**](https://drive.google.com/file/d/1QSSDN_fmPc41MEugw1atImfDk9ymtrHb/view?usp=sharing)
+📜 **Indian Patent Application No. 202511108091 A**
 
 **Stack**
 
@@ -446,7 +446,7 @@ An evidence-first AI platform designed so that **agent recommendations cannot si
 
 | Achievement | Related Work |
 |---|---|
-| 📜 **[Indian Patent Application No. 202511108091 A](https://drive.google.com/file/d/1QSSDN_fmPc41MEugw1atImfDk9ymtrHb/view?usp=sharing)** | [MARL Traffic Management](https://github.com/agrima08s010315/MARL-Driven-Real-Time-Traffic-Management-System) |
+| 📜 **Indian Patent Application No. 202511108091 A** | [MARL Traffic Management](https://drive.google.com/file/d/1QSSDN_fmPc41MEugw1atImfDk9ymtrHb/view?usp=sharing) |
 | 🥈 **Semi-Finalist · The Economic Times AI Hackathon 2026** | [GenAI Atlas](https://github.com/agrima08s010315/genai-clinical-intelligence) |
 | 🏅 **Top 50 National Finalist · AI for Bharat Hackathon 2026** | [TrustID](https://github.com/agrima08s010315/TrustID-UBID-Intelligence) |
 | 🤖 **Google AI Agents Intensive Capstone** | [VendorGuard AI](https://github.com/agrima08s010315/vendorguard-ai) |
