@@ -3,41 +3,6 @@
 <!--                  GITHUB PROFILE README                    -->
 <!-- ========================================================= -->
 
-<div align="center">
-
-<img
-src="./agrima_saxena_animated.gif"
-width="100%"
-alt="Agrima Saxena GitHub Banner"/>
-
-<br><br>
-
-<a href="https://www.linkedin.com/in/agrima-saxena-142960426/">
-<img
-src="https://img.shields.io/badge/LinkedIn-Agrima%20Saxena-7C3AED?style=flat-square&logo=linkedin&logoColor=white"
-alt="LinkedIn"/>
-</a>
-
-<a href="mailto:agrimalc@gmail.com">
-<img
-src="https://img.shields.io/badge/Email-Contact-A855F7?style=flat-square&logo=gmail&logoColor=white"
-alt="Email"/>
-</a>
-
-<a href="https://github.com/agcodes0315">
-<img
-src="https://img.shields.io/badge/GitHub-agcodes0315-181717?style=flat-square&logo=github&logoColor=white"
-alt="GitHub"/>
-</a>
-
-<img
-src="https://komarev.com/ghpvc/?username=agcodes0315&label=Profile%20Views&color=7C3AED&style=flat-square"
-alt="Profile Views"/>
-
-</div>
-
----
-
 # Hi 👋, I'm Agrima Saxena
 
 ### Software Engineering · Backend Systems · Applied AI · Cybersecurity
@@ -214,7 +179,7 @@ A solo-built identity intelligence platform centered on **evidence-backed verifi
 
 <br>
 
-<a href="https://github.com/agcodes0315/TrustID-UBID-Intelligence">
+<a href="https://github.com/agrima08s010315/TrustID-UBID-Intelligence">
 <img src="https://img.shields.io/badge/Source-GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
 </a>
 
@@ -251,7 +216,7 @@ An applied GenAI platform exploring **coordinated agents, transparent outputs, e
 
 <br>
 
-<a href="https://github.com/agcodes0315/genai-clinical-intelligence">
+<a href="https://github.com/agrima08s010315/genai-clinical-intelligence">
 <img src="https://img.shields.io/badge/Source-GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
 </a>
 
@@ -291,7 +256,7 @@ A security operations platform connecting **detection, investigation, attack-gra
 
 <br>
 
-<a href="https://github.com/agcodes0315/cybershield-project">
+<a href="https://github.com/agrima08s010315/cybershield-project">
 <img src="https://img.shields.io/badge/Source-GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
 </a>
 
@@ -326,7 +291,7 @@ An evidence-first AI platform designed so that **agent recommendations cannot si
 
 <br>
 
-<a href="https://github.com/agcodes0315/vendorguard-ai">
+<a href="https://github.com/agrima08s010315/vendorguard-ai">
 <img src="https://img.shields.io/badge/Source-GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
 </a>
 
@@ -363,7 +328,7 @@ An evidence-first AI platform designed so that **agent recommendations cannot si
 
 <br>
 
-<a href="https://github.com/agcodes0315/MARL-Driven-Real-Time-Traffic-Management-System">
+<a href="https://github.com/agrima08s010315/MARL-Driven-Real-Time-Traffic-Management-System">
 <img src="https://img.shields.io/badge/Source-GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
 </a>
 
@@ -390,7 +355,7 @@ An evidence-first AI platform designed so that **agent recommendations cannot si
 
 <br>
 
-<a href="https://github.com/agcodes0315/eventzen-event-management-system">
+<a href="https://github.com/agrima08s010315/eventzen-event-management-system">
 <img src="https://img.shields.io/badge/Source-GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
 </a>
 
@@ -414,7 +379,7 @@ An evidence-first AI platform designed so that **agent recommendations cannot si
 - Runs grounded assessments with citations
 - Records decision traces and guardrail audits
 
-[![Source](https://img.shields.io/badge/Source-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/agcodes0315/agents-league-reasoning-agent)
+[![Source](https://img.shields.io/badge/Source-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/agrima08s010315/agents-league-reasoning-agent)
 
 ---
 
@@ -429,7 +394,7 @@ An evidence-first AI platform designed so that **agent recommendations cannot si
 - REST API architecture
 - JWT-secured sessions
 
-[![Source](https://img.shields.io/badge/Source-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/agcodes0315/SkillSwap)
+[![Source](https://img.shields.io/badge/Source-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/agrima08s010315/SkillSwap)
 
 ---
 
@@ -484,65 +449,69 @@ An evidence-first AI platform designed so that **agent recommendations cannot si
 
 | Achievement | Related Work |
 |---|---|
-| 📜 **[Indian Patent Application No. 202511108091 A](https://drive.google.com/file/d/1QSSDN_fmPc41MEugw1atImfDk9ymtrHb/view?usp=sharing)** | [MARL Traffic Management](https://github.com/agcodes0315/MARL-Driven-Real-Time-Traffic-Management-System) |
-| 🥈 **Semi-Finalist · The Economic Times AI Hackathon 2026** | [GenAI Atlas](https://github.com/agcodes0315/genai-clinical-intelligence) |
-| 🏅 **Top 50 National Finalist · AI for Bharat Hackathon 2026** | [TrustID](https://github.com/agcodes0315/TrustID-UBID-Intelligence) |
-| 🤖 **Google AI Agents Intensive Capstone** | [VendorGuard AI](https://github.com/agcodes0315/vendorguard-ai) |
-| 🧠 **Microsoft Agents League 2026** | [Reasoning Agent](https://github.com/agcodes0315/agents-league-reasoning-agent) |
+| 📜 **[Indian Patent Application No. 202511108091 A](https://drive.google.com/file/d/1QSSDN_fmPc41MEugw1atImfDk9ymtrHb/view?usp=sharing)** | [MARL Traffic Management](https://github.com/agrima08s010315/MARL-Driven-Real-Time-Traffic-Management-System) |
+| 🥈 **Semi-Finalist · The Economic Times AI Hackathon 2026** | [GenAI Atlas](https://github.com/agrima08s010315/genai-clinical-intelligence) |
+| 🏅 **Top 50 National Finalist · AI for Bharat Hackathon 2026** | [TrustID](https://github.com/agrima08s010315/TrustID-UBID-Intelligence) |
+| 🤖 **Google AI Agents Intensive Capstone** | [VendorGuard AI](https://github.com/agrima08s010315/vendorguard-ai) |
+| 🧠 **Microsoft Agents League 2026** | [Reasoning Agent](https://github.com/agrima08s010315/agents-league-reasoning-agent) |
 
 ---
 
 # 📊 GitHub Activity
 
-<div align="center">
+Your previous streak card used the old username and the public streak endpoint has had recent reliability problems. :contentReference[oaicite:2]{index=2}
+
+For now, I recommend using the activity graph as the primary contribution visualization:
 
 <img
-src="https://streak-stats.demolab.com?user=agcodes0315&hide_border=true&background=0D1117&ring=A855F7&fire=C084FC&currStreakNum=FFFFFF&currStreakLabel=C084FC&sideNums=FFFFFF&sideLabels=A78BFA&dates=8B8B8B&stroke=7C3AED"
-width="72%"
-alt="GitHub Streak"/>
+src="https://github-readme-activity-graph.vercel.app/graph?username=agrima08s010315&bg_color=0d1117&color=c084fc&line=a855f7&point=ffffff&area=true&area_color=7c3aed&hide_border=true&radius=12&custom_title=Contribution%20Activity"
+width="100%"
+alt="Agrima Saxena GitHub Contribution Activity"/>
 
-<br><br>
-
-<img
-src="https://github-readme-activity-graph.vercel.app/graph?username=agcodes0315&bg_color=0d1117&color=c084fc&line=a855f7&point=ffffff&area=true&area_color=7c3aed&hide_border=true&radius=12&custom_title=Contribution%20Activity"
-width="95%"
-alt="Contribution Activity"/>
-
-</div>
+The activity-graph project is still publicly maintained and is specifically designed to visualize recent GitHub contribution activity. :contentReference[oaicite:3]{index=3}
 
 ---
 
 # 🤝 Open to Building What Matters
 
-<div align="center">
-
 **Software Engineering · Backend Engineering · Full-Stack Engineering · Platform Engineering**  
 **Applied AI · AI/ML Engineering · Cybersecurity**
 
-<br><br>
+<br>
 
-<a href="https://www.linkedin.com/in/agrima-saxena-142960426/">
-<img src="https://img.icons8.com/color/48/linkedin.png" width="40" alt="LinkedIn"/>
+<table>
+<tr>
+
+<td width="60">
+<a href="https://www.linkedin.com/in/agrima-saxena-142960426/" title="LinkedIn">
+<img src="https://img.icons8.com/color/48/linkedin.png"
+     width="36"
+     height="36"
+     alt="LinkedIn"/>
 </a>
+</td>
 
-&nbsp;&nbsp;
-
-<a href="mailto:agrimalc@gmail.com">
-<img src="https://img.icons8.com/color/48/gmail-new.png" width="40" alt="Email"/>
+<td width="60">
+<a href="mailto:agrimalc@gmail.com" title="Email">
+<img src="https://img.icons8.com/color/48/gmail-new.png"
+     width="36"
+     height="36"
+     alt="Email"/>
 </a>
+</td>
 
-&nbsp;&nbsp;
-
-<a href="https://github.com/agcodes0315">
-<img src="https://img.icons8.com/ios-glyphs/48/ffffff/github.png" width="40" alt="GitHub"/>
+<td width="60">
+<a href="https://github.com/agrima08s010315" title="GitHub">
+<img src="https://img.icons8.com/ios-glyphs/48/ffffff/github.png"
+     width="36"
+     height="36"
+     alt="GitHub"/>
 </a>
+</td>
 
-<br><br>
+</tr>
+</table>
 
 📍 **Lucknow, India**
 
-<br><br>
-
 ### ⚡ Building software that is intelligent enough to help, engineered enough to scale and secure enough to trust.
-
-</div>
