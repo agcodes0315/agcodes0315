@@ -136,12 +136,10 @@ Threat intelligence, secure APIs, attack graphs, TLS/mTLS, RBAC, vulnerability a
 `JUnit` `Mockito` `pytest` `Docker` `Docker Compose`  
 `CI/CD` `GitHub Actions` `Microsoft Azure`
 
-### Computer Science & System Design
+### Core CS
 
 `Data Structures & Algorithms` `Complexity Analysis` `OOP` `DBMS`  
-`Operating Systems` `Computer Networks` `HLD` `LLD`  
-`Caching` `API Design` `Service Decomposition`
-
+`Operating Systems` `Computer Networks` 
 ---
 
 ## 🏆 Featured Hackathon Work
