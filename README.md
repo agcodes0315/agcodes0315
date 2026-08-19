@@ -23,7 +23,7 @@ I enjoy working on software where **backend engineering, applied AI and security
 
 What interests me most is not simply getting something to work. I like understanding:
 
-**why it works, where it can fail, how it behaves under load, and what would make it easier to trust.**
+**why it works, where it can fail, how it behaves under load and what would make it easier to trust.**
 
 That usually leads me toward problems involving **APIs, distributed services, intelligent systems, security controls, data pipelines, testing and performance optimization**.
 <br clear="right">
