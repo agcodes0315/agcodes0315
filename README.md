@@ -463,8 +463,7 @@ An evidence-first AI platform designed so that **agent recommendations cannot si
 
 # 🤝 Open to Building What Matters
 
-**Software Engineering · Backend Engineering · Full-Stack Engineering · Platform Engineering**  
-**Applied AI · AI/ML Engineering · Cybersecurity**
+**Software Engineering · Backend Engineering · Full-Stack Engineering · Platform Engineering · Applied AI · AI/ML Engineering · Cybersecurity**
 
 <br>
 
