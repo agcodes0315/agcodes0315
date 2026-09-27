@@ -4,7 +4,6 @@
 <!-- ========================================================= -->
 
 # Hi there👋 I'm Agrima Saxena
-
 ### Software Engineering · Backend Systems · Applied AI · Cybersecurity
 
 I build **backend platforms, full-stack products, applied AI systems and security-focused software** with an emphasis on **measurable performance, reliability, auditability and production-minded engineering**.
