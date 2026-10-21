@@ -142,6 +142,53 @@ Threat intelligence, secure APIs, attack graphs, TLS/mTLS, RBAC, vulnerability a
 
 ## 🏆 Featured Hackathon Work
 
+<tr>
+
+<td colspan="2" valign="top">
+
+### ⚡ Relay
+
+**Durable Execution & Trust Layer for AI Agents**
+
+Built for the **Amazon Developer Hackathon 2026 · Alexa+ Track**, Relay is a durable execution layer for AI agents that preserves **user intent, constraints, approvals and workflow state** across failures, delays and future task resumes.
+
+**Engineering Highlights**
+
+- Co-engineered in a **2-person team**
+- Built a self-hosted **MCP 2025-11-25 Streamable HTTP server**
+- Preserves budgets, deadlines, excluded days and approval context as durable task contracts
+- Implemented **context-bound approvals** so stale consent cannot silently authorize changed actions
+- Added constraint-safe provider recovery across failures and replacement selection
+- Persisted workflow state using **Amazon DynamoDB**
+- Implemented delayed execution using **Amazon EventBridge Scheduler + AWS Lambda**
+- Deployed public backend and frontend services using **Amazon ECS Express + ECR**
+- Extended the platform with **Relay Shield** for scam-payment HOLD/BLOCK decisions and trusted-family approval
+- Authored **8 GitHub PRs** spanning security hardening, scheduling, recovery and production fixes
+- Maintained **420 passing Pytest tests**
+- Achieved **100/100 successful synthetic requests** with representative public MCP **p95 latency ≈ 381.9 ms**
+
+**Hackathon**
+
+🏆 **Amazon Developer Hackathon 2026 · Alexa+ Track**
+
+**Stack**
+
+`Python 3.12` `FastMCP` `MCP` `React` `Node.js` `AWS ECS` `ECR` `DynamoDB` `EventBridge` `Lambda` `boto3` `Docker` `Pytest`
+
+<br>
+
+<a href="https://github.com/agcodes0315/Relaython/">
+<img src="https://img.shields.io/badge/Source-GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://re-a46ae59b318a40bb8cac74dd263154d8.ecs.us-west-2.on.aws">
+<img src="https://img.shields.io/badge/Live-Relay-FF9900?style=flat-square&logo=amazonaws&logoColor=white"/>
+</a>
+
+</td>
+
+</tr>
+
 <table>
 <tr>
 
