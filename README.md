@@ -142,8 +142,8 @@ Threat intelligence, secure APIs, attack graphs, TLS/mTLS, RBAC, vulnerability a
 
 ## 🏆 Featured Hackathon Work
 
+<table>
 <tr>
-
 <td colspan="2" valign="top">
 
 ### ⚡ Relay
@@ -186,8 +186,8 @@ Built for the **Amazon Developer Hackathon 2026 · Alexa+ Track**, Relay is a du
 </a>
 
 </td>
-
 </tr>
+</table>
 
 <table>
 <tr>
@@ -264,6 +264,111 @@ An applied GenAI platform exploring **coordinated agents, transparent outputs, e
 
 </tr>
 </table>
+
+---
+
+## 🌍 Featured Open-Source Contributions
+
+Contributing to the **FalkorDB open-source ecosystem** through Python client reliability improvements, regression testing, database security documentation and Cypher developer guidance.
+
+My contributions focus on **reproducible bugs, correctness, maintainability, automated testing and clear technical documentation**.
+
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
+### 🐍 FalkorDB Python Client
+
+**Database Reliability & Correctness**
+
+Contributed Python regression tests and bug fixes addressing real-world database-client behavior.
+
+**Engineering Highlights**
+
+- Added regression coverage for query recovery after server-side timeouts
+- Tested Python process recovery against Docker-hosted FalkorDB 6.0.2
+- Updated GitHub Actions configuration for timeout-test execution
+- Implemented escaping of newline, carriage-return and tab characters in Cypher parameter strings
+- Added **9 passing regression tests** for parameter escaping
+- Investigated graph schema-cache corruption after external deletion and recreation
+- Reproduced stale property mappings and independently validated an existing proposed fix
+
+**Stack**
+
+`Python` `pytest` `Redis` `FalkorDB` `Docker` `GitHub Actions`
+
+<br>
+
+<a href="https://github.com/FalkorDB/falkordb-py">
+<img src="https://img.shields.io/badge/Repository-FalkorDB_Python-181717?style=flat-square&logo=github&logoColor=white"/>
+</a>
+
+<br>
+
+**Contributions**
+
+- [PR #309 — Query Timeout Recovery Regression Test](https://github.com/FalkorDB/falkordb-py/pull/309)
+- [PR #311 — Cypher Parameter Escaping Fix](https://github.com/FalkorDB/falkordb-py/pull/311)
+- [PR #310 — GraphSchema Cache Regression Test](https://github.com/FalkorDB/falkordb-py/pull/310)
+
+</td>
+
+<td width="50%" valign="top">
+
+### 📚 FalkorDB Documentation
+
+**Database Security & Cypher Query Semantics**
+
+Improved developer documentation for Redis access control and Cypher subquery behavior.
+
+**Engineering Highlights**
+
+- Investigated `GRAPH.RO_QUERY` behavior under restricted Redis ACL configurations
+- Documented observed read-only authorization limitations
+- Added practical ACL validation guidance and security considerations
+- Clarified imported-variable scope across `UNION` and `UNION ALL` branches within `CALL {}` subqueries
+- Included a reproducible Cypher example demonstrating an undefined-variable error
+- Documented observed behavior in FalkorDB 4.20.7 and 6.0.2
+- Addressed automated review feedback and improved documentation formatting
+
+**Stack**
+
+`Redis ACL` `Cypher` `FalkorDB` `MDX` `Git` `GitHub`
+
+<br>
+
+<a href="https://github.com/FalkorDB/docs">
+<img src="https://img.shields.io/badge/Repository-FalkorDB_Docs-181717?style=flat-square&logo=github&logoColor=white"/>
+</a>
+
+<br>
+
+**Contributions**
+
+- [PR #581 — GRAPH.RO_QUERY ACL Limitations](https://github.com/FalkorDB/docs/pull/581)
+- [PR #582 — CALL UNION Variable Scope](https://github.com/FalkorDB/docs/pull/582)
+
+</td>
+
+</tr>
+</table>
+
+### 🔎 Open-Source Contribution Journey
+
+Beyond submitting code, I actively investigate bug reports, reproduce failures, write regression tests, review automated feedback and validate proposed solutions.
+
+**Additional Work**
+
+- [Issue #205 — Query Timeout Recovery](https://github.com/FalkorDB/falkordb-py/issues/205)
+- [Issue #201 — Cypher String Parameter Escaping](https://github.com/FalkorDB/falkordb-py/issues/201)
+- [Issue #243 — GraphSchema Cache Investigation](https://github.com/FalkorDB/falkordb-py/issues/243)
+- [PR #280 — Independently Validated GraphSchema Fix](https://github.com/FalkorDB/falkordb-py/pull/280)
+- [Contribution Friction Log — GitHub Gist](https://gist.github.com/agcodes0315/b59a31c91a060fbc35e6ee9fad1e1b37)
+
+**Contribution Scope:** Includes submitted pull requests, regression tests, documentation improvements and independent validation. Upstream PR merge status is maintained by the respective project maintainers.
+
+---
 
 ---
 
