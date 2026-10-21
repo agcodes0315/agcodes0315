@@ -1,181 +1,136 @@
-<!-- ========================================================= -->
+!-- ========================================================= -->
 <!--                    AGRIMA SAXENA                           -->
 <!--                  GITHUB PROFILE README                    -->
 <!-- ========================================================= -->
 
-# Hi there👋 I'm Agrima Saxena
-### Software Engineering · Backend Systems · Applied AI · Cybersecurity
-
-I build **backend platforms, full-stack products, applied AI systems and security-focused software** with an emphasis on **measurable performance, reliability, auditability and production-minded engineering**.
-
----
-
-## 👩‍💻 About Me
-
+Hi there👋 I'm Agrima Saxena
+Software Engineering · Backend Systems · Applied AI · Cybersecurity
+I build backend platforms, full-stack products, applied AI systems and security-focused software with an emphasis on measurable performance, reliability, auditability and production-minded engineering.
+👩‍💻 About Me
 <img
 align="right"
 src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif"
 width="46%"
 alt="Girl Coding Animation"/>
 
-I enjoy working on software where **backend engineering, applied AI and security intersect with real product problems**.
+I enjoy working on software where backend engineering, applied AI and security intersect with real product problems.
 
 What interests me most is not simply getting something to work. I like to understand:
 
-**why it works, where it can fail, how it behaves under load and what would make it easier to trust.**
+why it works, where it can fail, how it behaves under load and what would make it easier to trust.
 
-That usually leads me toward problems involving **APIs, distributed services, intelligent systems, security controls, data pipelines, testing and performance optimization**.
+That usually leads me toward problems involving APIs, distributed services, intelligent systems, security controls, data pipelines, testing and performance optimization.
 <br clear="right">
-
----
-
-## ⚡ Engineering Snapshot
-
-- 🏢 Building **backend and cloud-ready applications at Deloitte India**
-- 🛰️ Worked at **DRDO CAIR, Bengaluru** on vessel forecasting, semantic retrieval and RAG-based intelligence workflows
-- ⚙️ Build across **Java, Python, JavaScript, Spring Boot, FastAPI, React, PostgreSQL, MySQL, Redis and Docker**
-- 🤖 Explore **RAG, LLM applications, multi-agent systems, Google ADK, MCP, Azure AI Foundry and retrieval systems**
-- 🔐 Interested in **threat intelligence, secure APIs, attack graphs, RBAC, TLS/mTLS, X.509, YARA and auditable AI**
-- 🧠 Strong foundations in **DSA, complexity analysis, OOP, DBMS, HLD, LLD, caching, API design and service decomposition**
-- 📜 Filed Indian Patent Application **No. 202511108091 A** for intelligent real-time traffic signal management
-
----
-
-## ⚡ What I Build
-
+⚡ Engineering Snapshot
+- 🏢 Building backend and cloud-ready applications at Deloitte India
+- 🛰️ Worked at DRDO CAIR, Bengaluru on vessel forecasting, semantic retrieval and RAG-based intelligence workflows
+- ⚙️ Build across Java, Python, JavaScript, Spring Boot, FastAPI, React, PostgreSQL, MySQL, Redis and Docker
+- 🤖 Explore RAG, LLM applications, multi-agent systems, Google ADK, MCP, Azure AI Foundry and retrieval systems
+- 🔐 Interested in threat intelligence, secure APIs, attack graphs, RBAC, TLS/mTLS, X.509, YARA and auditable AI
+- 🧠 Strong foundations in DSA, complexity analysis, OOP, DBMS, HLD, LLD, caching, API design and service decomposition
+- 📜 Filed Indian Patent Application No. 202511108091 A for intelligent real-time traffic signal management
+⚡ What I Build
 <table>
 <tr>
 
 <td width="25%" valign="top">
 
-### 💻 Software Engineering
-
+💻 Software Engineering
 Backend services, APIs, authentication, caching, database-backed applications, automated testing and modular software architectures.
-
 </td>
 
 <td width="25%" valign="top">
 
-### 🌐 Full-Stack Development
-
+🌐 Full-Stack Development
 Applications using React with Spring Boot, FastAPI, Node.js, relational databases and secure user workflows.
-
 </td>
 
 <td width="25%" valign="top">
 
-### 🤖 AI & GenAI
-
+🤖 AI & GenAI
 RAG pipelines, multi-agent systems, semantic retrieval, forecasting, evaluation, guardrails and explainable AI workflows.
-
 </td>
 
 <td width="25%" valign="top">
 
-### 🔐 Cybersecurity
-
+🔐 Cybersecurity
 Threat intelligence, secure APIs, attack graphs, TLS/mTLS, RBAC, vulnerability analysis, prompt-injection defence and auditability.
-
 </td>
 
 </tr>
 </table>
 
----
-
-## 🛠️ Tech I Work With
-
-### Languages
-
+🛠️ Tech I Work With
+Languages
 <p align="left">
 <img src="https://skillicons.dev/icons?i=java,python,cpp,c,js" height="44" alt="Languages"/>
 </p>
 
-`Java` `Python` `C++` `C` `JavaScript` `SQL`
-
-### Backend & APIs
-
+Java Python C++ C JavaScript SQL
+Backend & APIs
 <p align="left">
 <img src="https://skillicons.dev/icons?i=spring,fastapi,nodejs,express" height="44" alt="Backend"/>
 </p>
 
-`Spring Boot` `FastAPI` `Node.js` `Express.js`  
-`REST APIs` `WebSockets` `JWT` `RBAC`
-
-### Frontend
-
+Spring Boot FastAPI Node.js Express.js
+REST APIs WebSockets JWT RBAC
+Frontend
 <p align="left">
 <img src="https://skillicons.dev/icons?i=react,html,css" height="44" alt="Frontend"/>
 </p>
 
-`React.js` `HTML5` `CSS3`
-
-### Databases, Retrieval & Caching
-
+React.js HTML5 CSS3
+Databases, Retrieval & Caching
 <p align="left">
 <img src="https://skillicons.dev/icons?i=mysql,postgres,redis" height="44" alt="Databases"/>
 </p>
 
-`MySQL` `PostgreSQL` `Redis` `ChromaDB` `Vector Retrieval`
-
-### AI & Agentic Systems
-
-`Google ADK` `Model Context Protocol` `Azure AI Foundry`  
-`RAG` `LLM Applications` `Multi-Agent Systems`  
-`LSTM` `Kalman Filters` `SentenceTransformers`
-
-### Testing, DevOps & Cloud
-
+MySQL PostgreSQL Redis ChromaDB Vector Retrieval
+AI & Agentic Systems
+Google ADK Model Context Protocol Azure AI Foundry
+RAG LLM Applications Multi-Agent Systems
+LSTM Kalman Filters SentenceTransformers
+Testing, DevOps & Cloud
 <p align="left">
 <img src="https://skillicons.dev/icons?i=docker,githubactions,git,github,azure,linux" height="44" alt="DevOps"/>
 </p>
 
-`JUnit` `Mockito` `pytest` `Docker` `Docker Compose`  
-`CI/CD` `GitHub Actions` `Microsoft Azure`
-
-### Core CS
-
-`Data Structures & Algorithms` `Complexity Analysis` `OOP` `DBMS`  
-`Operating Systems` `Computer Networks` 
-
----
-
-## 🏆 Featured Hackathon Work
-
+JUnit Mockito pytest Docker Docker Compose
+CI/CD GitHub Actions Microsoft Azure
+Core CS
+Data Structures & Algorithms Complexity Analysis OOP DBMS
+Operating Systems Computer Networks 
+🏆 Featured Hackathon Work
+<table>
 <tr>
 
 <td colspan="2" valign="top">
 
-### ⚡ Relay
+⚡ Relay
+Durable Execution & Trust Layer for AI Agents
 
-**Durable Execution & Trust Layer for AI Agents**
+Built for the Amazon Developer Hackathon 2026 · Alexa+ Track, Relay is a durable execution layer for AI agents that preserves user intent, constraints, approvals and workflow state across failures, delays and future task resumes.
 
-Built for the **Amazon Developer Hackathon 2026 · Alexa+ Track**, Relay is a durable execution layer for AI agents that preserves **user intent, constraints, approvals and workflow state** across failures, delays and future task resumes.
-
-**Engineering Highlights**
-
-- Co-engineered in a **2-person team**
-- Built a self-hosted **MCP 2025-11-25 Streamable HTTP server**
+Engineering Highlights
+- Co-engineered in a 2-person team
+- Built a self-hosted MCP 2025-11-25 Streamable HTTP server
 - Preserves budgets, deadlines, excluded days and approval context as durable task contracts
-- Implemented **context-bound approvals** so stale consent cannot silently authorize changed actions
+- Implemented context-bound approvals so stale consent cannot silently authorize changed actions
 - Added constraint-safe provider recovery across failures and replacement selection
-- Persisted workflow state using **Amazon DynamoDB**
-- Implemented delayed execution using **Amazon EventBridge Scheduler + AWS Lambda**
-- Deployed public backend and frontend services using **Amazon ECS Express + ECR**
-- Extended the platform with **Relay Shield** for scam-payment HOLD/BLOCK decisions and trusted-family approval
-- Authored **8 GitHub PRs** spanning security hardening, scheduling, recovery and production fixes
-- Maintained **420 passing Pytest tests**
-- Achieved **100/100 successful synthetic requests** with representative public MCP **p95 latency ≈ 381.9 ms**
+- Persisted workflow state using Amazon DynamoDB
+- Implemented delayed execution using Amazon EventBridge Scheduler + AWS Lambda
+- Deployed public backend and frontend services using Amazon ECS Express + ECR
+- Extended the platform with Relay Shield for scam-payment HOLD/BLOCK decisions and trusted-family approval
+- Authored 8 GitHub PRs spanning security hardening, scheduling, recovery and production fixes
+- Maintained 420 passing Pytest tests
+- Achieved 100/100 successful synthetic requests with representative public MCP p95 latency ≈ 381.9 ms
+Hackathon
 
-**Hackathon**
+🏆 Amazon Developer Hackathon 2026 · Alexa+ Track
 
-🏆 **Amazon Developer Hackathon 2026 · Alexa+ Track**
+Stack
 
-**Stack**
-
-`Python 3.12` `FastMCP` `MCP` `React` `Node.js` `AWS ECS` `ECR` `DynamoDB` `EventBridge` `Lambda` `boto3` `Docker` `Pytest`
-
-<br>
+Python 3.12 FastMCP MCP React Node.js AWS ECS ECR DynamoDB EventBridge Lambda boto3 Docker Pytest
 
 <a href="https://github.com/agcodes0315/Relaython/">
 <img src="https://img.shields.io/badge/Source-GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
@@ -188,36 +143,32 @@ Built for the **Amazon Developer Hackathon 2026 · Alexa+ Track**, Relay is a du
 </td>
 
 </tr>
+</table>
 
 <table>
 <tr>
 
 <td width="50%" valign="top">
 
-### 🪪 TrustID
+🪪 TrustID
+Business Identity Intelligence Platform
 
-**Business Identity Intelligence Platform**
+A solo-built identity intelligence platform centered on evidence-backed verification, confidence scoring, explainability and auditability.
 
-A solo-built identity intelligence platform centered on **evidence-backed verification, confidence scoring, explainability and auditability**.
-
-**Highlights**
-
+Highlights
 - Multi-signal business identity resolution
 - Confidence-based verification
 - Evidence-backed outputs
 - Explainable decision workflows
 - Auditable verification history
 - Full-stack application deployment
+Recognition
 
-**Recognition**
+🏅 Top 50 National Finalist · AI for Bharat Hackathon 2026
 
-🏅 **Top 50 National Finalist · AI for Bharat Hackathon 2026**
+Stack
 
-**Stack**
-
-`React` `Node.js` `SQLite`
-
-<br>
+React Node.js SQLite
 
 <a href="https://github.com/agrima08s010315/TrustID-UBID-Intelligence">
 <img src="https://img.shields.io/badge/Source-GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
@@ -231,30 +182,25 @@ A solo-built identity intelligence platform centered on **evidence-backed verifi
 
 <td width="50%" valign="top">
 
-### 🧠 GenAI Atlas
+🧠 GenAI Atlas
+Multi-Agent Clinical Intelligence Platform
 
-**Multi-Agent Clinical Intelligence Platform**
+An applied GenAI platform exploring coordinated agents, transparent outputs, explainability and guardrail-oriented clinical intelligence.
 
-An applied GenAI platform exploring **coordinated agents, transparent outputs, explainability and guardrail-oriented clinical intelligence**.
-
-**Highlights**
-
+Highlights
 - Multi-agent orchestration
 - LLM-powered intelligence workflows
 - Explainable response generation
 - Guardrail-oriented architecture
 - Interactive application experience
 - Responsible-AI-focused system design
+Recognition
 
-**Recognition**
+🥈 Semi-Finalist · The Economic Times AI Hackathon 2026
 
-🥈 **Semi-Finalist · The Economic Times AI Hackathon 2026**
+Stack
 
-**Stack**
-
-`Python` `Streamlit` `Llama 3` `LLMs` `Multi-Agent Systems`
-
-<br>
+Python Streamlit Llama 3 LLMs Multi-Agent Systems
 
 <a href="https://github.com/agrima08s010315/genai-clinical-intelligence">
 <img src="https://img.shields.io/badge/Source-GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
@@ -265,36 +211,110 @@ An applied GenAI platform exploring **coordinated agents, transparent outputs, e
 </tr>
 </table>
 
----
+🌍 Featured Open-Source Contributions
+Contributing to the FalkorDB ecosystem through Python client reliability tests, input validation investigations, and developer-facing documentation. My upstream pull requests are linked directly; a submitted PR is not the same as a merged PR.
+<table>
+<tr>
+<td width="50%" valign="top">
 
-# 🚀 Selected Engineering Systems
+🧪 Query Timeout Recovery · Python Client
+Regression coverage for database reliability
+- Reproduced a server-side timeout scenario using FalkorDB 6.0.2
+- Added a subprocess-isolated pytest regression test
+- Verified a follow-up lightweight query after the timeout scenario
+- Updated GitHub Actions test configuration and addressed review feedback
+Stack: Python pytest Docker GitHub Actions
 
+
+</td>
+<td width="50%" valign="top">
+
+🛠️ Cypher Parameter Escaping · Python Client
+Correct serialization of string parameters
+- Investigated literal newline characters in quote_string()
+- Added escaping for newline, carriage-return and tab characters
+- Added 9 passing focused pytest cases including nested values
+- Submitted the implementation and tests for upstream review
+Stack: Python Cypher pytest Git
+
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+🔐 Redis ACL & Read-Only Query Documentation
+Security-aware access-control clarification
+- Documented observed GRAPH.RO_QUERY restrictions under Redis ACLs
+- Added least-privilege validation guidance and configuration caveats
+- Linked reproducible issue findings and addressed automated feedback
+- Documentation change only — no authorization-engine modification
+Stack: Redis ACL FalkorDB Docker MDX
+
+
+</td>
+<td width="50%" valign="top">
+
+🔀 Cypher UNION Variable-Scope Documentation
+Clearer subquery behavior for developers
+- Clarified imports across UNION / UNION ALL branches in CALL {}
+- Documented observed behavior in FalkorDB 4.20.7 and 6.0.2
+- Added an undefined-variable example and issue reference
+- Addressed review feedback on documentation structure and formatting
+Stack: Cypher FalkorDB MDX GitHub
+
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+🧩 Graph Schema Cache · Independent Verification
+Reproduction and proposed-fix validation
+- Reproduced incorrect property-name decoding after graph deletion/recreation
+- Authored a dedicated regression test on a separate Git branch
+- Verified the same test fails on baseline and passes against PR #280
+- Shared the investigation through a test-only PR; another contributor owns the fix
+Stack: Python pytest FalkorDB Docker
+
+
+</td>
+<td width="50%" valign="top">
+
+📋 Contribution Engineering Notes
+Documenting real contributor friction
+- Recorded CI approval requirements for external contributors
+- Distinguished local test success, bot reviews, maintainer reviews and merges
+- Documented workarounds and actionable onboarding suggestions
+- Shared a written contribution log for the Open Source Mini Challenge
+Stack: GitHub Actions Git Markdown OSS Collaboration
+
+</td>
+</tr>
+</table>
+
+🚀 Selected Engineering Systems
 <table>
 <tr>
 
 <td width="50%" valign="top">
 
-### 🔐 CyberShield
+🔐 CyberShield
+Multi-Service SOC Threat Intelligence Platform
 
-**Multi-Service SOC Threat Intelligence Platform**
+A security operations platform connecting detection, investigation, attack-graph analysis, threat intelligence and analyst-governed response.
 
-A security operations platform connecting **detection, investigation, attack-graph analysis, threat intelligence and analyst-governed response**.
+Engineering Highlights
+- Re-engineered critical-asset discovery using single-source shortest-path traversal + hash-set lookups
+- Reduced median graph-analysis latency by approximately 99.97% · 2.46 s → 0.83 ms
+- Benchmarked on a 2,500-node / 10,000-edge synthetic attack graph
+- Maintained 140 passing automated tests
+- Integrated YARA, SSL/WHOIS analysis, reputation checks and MITRE ATT&CK mapping
+- Added authenticated REST APIs and real-time WebSocket updates
+- Implemented analyst-approved remediation and hash-chained audit logging
+Stack
 
-**Engineering Highlights**
-
-- Re-engineered critical-asset discovery using **single-source shortest-path traversal + hash-set lookups**
-- Reduced median graph-analysis latency by approximately **99.97% · 2.46 s → 0.83 ms**
-- Benchmarked on a **2,500-node / 10,000-edge synthetic attack graph**
-- Maintained **140 passing automated tests**
-- Integrated **YARA, SSL/WHOIS analysis, reputation checks and MITRE ATT&CK mapping**
-- Added authenticated REST APIs and real-time **WebSocket updates**
-- Implemented analyst-approved remediation and **hash-chained audit logging**
-
-**Stack**
-
-`React` `Express.js` `FastAPI` `PostgreSQL` `Redis` `Python` `WebSockets` `YARA`
-
-<br>
+React Express.js FastAPI PostgreSQL Redis Python WebSockets YARA
 
 <a href="https://github.com/agrima08s010315/cybershield-project">
 <img src="https://img.shields.io/badge/Source-GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
@@ -308,28 +328,23 @@ A security operations platform connecting **detection, investigation, attack-gra
 
 <td width="50%" valign="top">
 
-### 🛡️ VendorGuard AI
+🛡️ VendorGuard AI
+Human-Governed Multi-Agent Vendor Risk Platform
 
-**Human-Governed Multi-Agent Vendor Risk Platform**
+An evidence-first AI platform designed so that agent recommendations cannot silently become high-risk business decisions.
 
-An evidence-first AI platform designed so that **agent recommendations cannot silently become high-risk business decisions**.
-
-**Engineering Highlights**
-
-- Orchestrated a **four-agent pipeline using Google ADK**
+Engineering Highlights
+- Orchestrated a four-agent pipeline using Google ADK
 - Separated evidence extraction, security analysis, policy enforcement and decision generation
-- Enforced policy through **Model Context Protocol**
-- Required explicit **human authorization for high-risk outcomes**
+- Enforced policy through Model Context Protocol
+- Required explicit human authorization for high-risk outcomes
 - Preserved structured per-assessment audit trails
 - Added prompt-injection and contradictory-evidence handling
-- Validated adversarial-input behaviour using **pytest**
+- Validated adversarial-input behaviour using pytest
 - Added deterministic fallback execution for reproducibility
+Stack
 
-**Stack**
-
-`Python` `FastAPI` `React` `Google ADK` `MCP` `pytest` `Docker`
-
-<br>
+Python FastAPI React Google ADK MCP pytest Docker
 
 <a href="https://github.com/agrima08s010315/vendorguard-ai">
 <img src="https://img.shields.io/badge/Source-GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
@@ -347,26 +362,21 @@ An evidence-first AI platform designed so that **agent recommendations cannot si
 
 <td width="50%" valign="top">
 
-### 🚦 MARL Traffic Management
+🚦 MARL Traffic Management
+Secure Adaptive Multi-Agent Traffic Control
+- Designed an LSTM-assisted multi-agent traffic controller
+- Reduced simulated waiting time by approximately 42%
+- Reduced queue length by 50%
+- Reduced simulated fuel use by 25%
+- Increased throughput from 65% → 82%
+- Hardened inter-agent communication using TLS 1.3 mTLS
+- Added X.509 identity verification and RSA-PSS signatures
+- Blocked 6 simulated attack classes across 17 security tests
+📜 Indian Patent Application No. 202511108091 A
 
-**Secure Adaptive Multi-Agent Traffic Control**
+Stack
 
-- Designed an **LSTM-assisted multi-agent traffic controller**
-- Reduced simulated waiting time by approximately **42%**
-- Reduced queue length by **50%**
-- Reduced simulated fuel use by **25%**
-- Increased throughput from **65% → 82%**
-- Hardened inter-agent communication using **TLS 1.3 mTLS**
-- Added **X.509 identity verification and RSA-PSS signatures**
-- Blocked **6 simulated attack classes across 17 security tests**
-
-📜 **Indian Patent Application No. 202511108091 A**
-
-**Stack**
-
-`Python` `SUMO` `TraCI` `LSTM` `Multi-Agent Systems` `TLS 1.3` `X.509` `RSA-PSS`
-
-<br>
+Python SUMO TraCI LSTM Multi-Agent Systems TLS 1.3 X.509 RSA-PSS
 
 <a href="https://github.com/agrima08s010315/MARL-Driven-Real-Time-Traffic-Management-System">
 <img src="https://img.shields.io/badge/Source-GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
@@ -376,24 +386,19 @@ An evidence-first AI platform designed so that **agent recommendations cannot si
 
 <td width="50%" valign="top">
 
-### 🎟️ EventZen
-
-**Secure Event Lifecycle Management Platform**
-
-- Engineered **24 REST endpoints across 6 modules**
+🎟️ EventZen
+Secure Event Lifecycle Management Platform
+- Engineered 24 REST endpoints across 6 modules
 - Implemented centralized API failure handling
-- Secured workflows using **JWT, BCrypt and RBAC**
+- Secured workflows using JWT, BCrypt and RBAC
 - Added DTO validation and structured HTTP errors
 - Implemented seat-capacity and cancellation-restoration logic
-- Verified core behaviour with **8 JUnit 5 + Mockito tests**
-- Packaged as a **three-service Docker Compose application**
-- Earned a **97/100 mentor evaluation**
+- Verified core behaviour with 8 JUnit 5 + Mockito tests
+- Packaged as a three-service Docker Compose application
+- Earned a 97/100 mentor evaluation
+Stack
 
-**Stack**
-
-`Java` `Spring Boot` `React` `MySQL` `JWT` `JUnit` `Mockito` `Docker`
-
-<br>
+Java Spring Boot React MySQL JWT JUnit Mockito Docker
 
 <a href="https://github.com/agrima08s010315/eventzen-event-management-system">
 <img src="https://img.shields.io/badge/Source-GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
@@ -404,29 +409,18 @@ An evidence-first AI platform designed so that **agent recommendations cannot si
 </tr>
 </table>
 
----
-
-## 📌 More Projects
-
-### 🧠 Enterprise Learning & Certification Management
-
-**Microsoft Agents League · Reasoning Agents Track**
-
-- Coordinates **5 specialized reasoning agents**
-- Integrates **Foundry IQ, Fabric IQ and Work IQ**
+📌 More Projects
+🧠 Enterprise Learning & Certification Management
+Microsoft Agents League · Reasoning Agents Track
+- Coordinates 5 specialized reasoning agents
+- Integrates Foundry IQ, Fabric IQ and Work IQ
 - Generates role-aligned certification paths
 - Creates work-aware study schedules
 - Runs grounded assessments with citations
 - Records decision traces and guardrail audits
 
-[![Source](https://img.shields.io/badge/Source-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/agrima08s010315/agents-league-reasoning-agent)
-
----
-
-### 🔄 SkillSwap
-
-**Peer-to-Peer Skill Exchange Platform**
-
+🔄 SkillSwap
+Peer-to-Peer Skill Exchange Platform
 - User authentication and authorization
 - Skill discovery and listings
 - Peer-to-peer exchange workflows
@@ -434,71 +428,47 @@ An evidence-first AI platform designed so that **agent recommendations cannot si
 - REST API architecture
 - JWT-secured sessions
 
-[![Source](https://img.shields.io/badge/Source-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/agrima08s010315/SkillSwap)
-
----
-
-# 🏢 Engineering Experience
-
-### 🟢 Deloitte India · Noida, Uttar Pradesh
-
-**Platform Development Integration & Cloud Management Services Intern**  
-*Virtual: Jan – Jun 2026 · Onsite: Jun 2026 – Present*
-
-- Engineered **EventZen independently** during a six-week capstone
-- Implemented **24 REST endpoints across 6 functional modules**
-- Earned a **97/100 mentor evaluation**
+🏢 Engineering Experience
+🟢 Deloitte India · Noida, Uttar Pradesh
+Platform Development Integration & Cloud Management Services Intern
+Virtual: Jan – Jun 2026 · Onsite: Jun 2026 – Present
+- Engineered EventZen independently during a six-week capstone
+- Implemented 24 REST endpoints across 6 functional modules
+- Earned a 97/100 mentor evaluation
 - Added DTO-based validation and centralized exception handling
-- Secured workflows using **JWT, BCrypt and RBAC**
-- Verified booking correctness with **JUnit 5 + Mockito**
-- Packaged the frontend, backend and MySQL using **Docker Compose**
-- Completed hands-on training across **C#/.NET, ASP.NET, SQL Server, REST APIs, Git/CI/CD, unit testing, OOP, DSA, debugging and AWS EC2**
-
----
-
-### 🛰️ DRDO CAIR · Bengaluru · Remote
-
-**Machine Learning Intern**  
-*Jun 2025 – Jul 2025*
-
-- Built a multi-horizon **LSTM vessel-trajectory forecasting pipeline**
-- Applied constant-velocity **Kalman filtering**
-- Generated forecasts at **24, 48 and 72-hour horizons**
-- Built semantic retrieval using **SentenceTransformers + ChromaDB**
-- Queried forecasts using **Mistral/Ollama**
+- Secured workflows using JWT, BCrypt and RBAC
+- Verified booking correctness with JUnit 5 + Mockito
+- Packaged the frontend, backend and MySQL using Docker Compose
+- Completed hands-on training across C#/.NET, ASP.NET, SQL Server, REST APIs, Git/CI/CD, unit testing, OOP, DSA, debugging and AWS EC2
+🛰️ DRDO CAIR · Bengaluru · Remote
+Machine Learning Intern
+Jun 2025 – Jul 2025
+- Built a multi-horizon LSTM vessel-trajectory forecasting pipeline
+- Applied constant-velocity Kalman filtering
+- Generated forecasts at 24, 48 and 72-hour horizons
+- Built semantic retrieval using SentenceTransformers + ChromaDB
+- Queried forecasts using Mistral/Ollama
 - Connected forecasting with RAG-based natural-language retrieval
+🔒 Only non-confidential technical scope is described.
 
-> 🔒 Only non-confidential technical scope is described.
-
----
-
-### 🔵 Cognifyz Technologies · Remote
-
-**Java Development Intern**
-
+🔵 Cognifyz Technologies · Remote
+Java Development Intern
 - Built a TCP client-server chat application
 - Implemented concurrent workflows
 - Developed a Java Swing Notepad
 - Built file encryption/decryption workflows
 - Implemented password-strength tooling
 - Created OOP-driven Java applications
+🏅 Recognition & Milestones
+Achievement	Related Work
+📜 Indian Patent Application No. 202511108091 A	MARL Traffic Management
+🥈 Semi-Finalist · The Economic Times AI Hackathon 2026	GenAI Atlas
+🏅 Top 50 National Finalist · AI for Bharat Hackathon 2026	TrustID
+🤖 Google AI Agents Intensive Capstone	VendorGuard AI
+🧠 Microsoft Agents League 2026	Reasoning Agent
 
----
 
-# 🏅 Recognition & Milestones
-
-| Achievement | Related Work |
-|---|---|
-| 📜 **Indian Patent Application No. 202511108091 A** | [MARL Traffic Management](https://drive.google.com/file/d/1QSSDN_fmPc41MEugw1atImfDk9ymtrHb/view?usp=sharing) |
-| 🥈 **Semi-Finalist · The Economic Times AI Hackathon 2026** | [GenAI Atlas](https://github.com/agrima08s010315/genai-clinical-intelligence) |
-| 🏅 **Top 50 National Finalist · AI for Bharat Hackathon 2026** | [TrustID](https://github.com/agrima08s010315/TrustID-UBID-Intelligence) |
-| 🤖 **Google AI Agents Intensive Capstone** | [VendorGuard AI](https://github.com/agrima08s010315/vendorguard-ai) |
-| 🧠 **Microsoft Agents League 2026** | [Reasoning Agent](https://github.com/agrima08s010315/agents-league-reasoning-agent) |
-
----
-
-## 📊 GitHub Contribution Activity
-
+📊 GitHub Contribution Activity
 <p align="center">
   <img
     src=https://raw.githubusercontent.com/agcodes0315/agcodes0315/output/activity-graph.svg
@@ -507,11 +477,8 @@ An evidence-first AI platform designed so that **agent recommendations cannot si
   />
 </p>
 
-# 🤝 Open to Building What Matters
-
-**Software Engineering · Backend Engineering · Full-Stack Engineering · Platform Engineering · Applied AI · AI/ML Engineering · Cybersecurity**
-
-<br>
+🤝 Open to Building What Matters
+Software Engineering · Backend Engineering · Full-Stack Engineering · Platform Engineering · Applied AI · AI/ML Engineering · Cybersecurity
 
 <table>
 <tr>
@@ -536,6 +503,5 @@ An evidence-first AI platform designed so that **agent recommendations cannot si
 </tr>
 </table>
 
-📍 **Lucknow, India**
-
-### Building software that is intelligent enough to help, engineered enough to scale and secure enough to trust.
+📍 Lucknow, India
+Building software that is intelligent enough to help, engineered enough to scale and secure enough to trust.
