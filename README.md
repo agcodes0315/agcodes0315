@@ -358,18 +358,6 @@ Improved developer documentation for Redis access control and Cypher subquery be
 
 Beyond submitting code, I actively investigate bug reports, reproduce failures, write regression tests, review automated feedback and validate proposed solutions.
 
-**Additional Work**
-
-- [Issue #205 — Query Timeout Recovery](https://github.com/FalkorDB/falkordb-py/issues/205)
-- [Issue #201 — Cypher String Parameter Escaping](https://github.com/FalkorDB/falkordb-py/issues/201)
-- [Issue #243 — GraphSchema Cache Investigation](https://github.com/FalkorDB/falkordb-py/issues/243)
-- [PR #280 — Independently Validated GraphSchema Fix](https://github.com/FalkorDB/falkordb-py/pull/280)
-- [Contribution Friction Log — GitHub Gist](https://gist.github.com/agcodes0315/b59a31c91a060fbc35e6ee9fad1e1b37)
-
-**Contribution Scope:** Includes submitted pull requests, regression tests, documentation improvements and independent validation. Upstream PR merge status is maintained by the respective project maintainers.
-
----
-
 ---
 
 # 🚀 Selected Engineering Systems
